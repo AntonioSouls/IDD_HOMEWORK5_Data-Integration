@@ -1,0 +1,1186 @@
+,name,valuation,dateJoined,country,city,industry,investors,founded,stage,totalRaised
+0,Lacework,$8.3B,1/7/2021,United States,San Jose,Cybersecurity,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",2015,Series E,$1.907B
+1,Tipalti,$8.3B,10/6/2020,United States,San Mateo,Fintech,"01 Advisors, Zeev Ventures, Group 11",2010,Series F,$556M
+2,Tempus,$8.1B,3/21/2018,United States,Chicago,Health,"New Enterprise Associates, T. Rowe Associates, Lightbank",2015,Unattributed - II,$1.345B
+3,Anduril,$8.48B,9/11/2019,United States,Irvine,Artificial intelligence,"Andreessen Horowitz, Founders Fund, Revolution Ventures",2017,Series E,$2.309B
+4,Bolt,$8.4B,5/29/2018,Estonia,Tallinn,Auto & transportation,"Didi Chuxing, Diamler, TMT Investments",2013,Series F,$1.971B
+5,ByteDance,$140B,4/7/2017,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group",2012,Private Equity,$7.44B
+6,Niantic,$9B,11/24/2017,United States,San Francisco,Mobile & telecommunications,"Nintendo, Google, Pokemon Company International, Spark Capital",2015,Series D,$770M
+7,OYO Rooms,$9B,9/25/2018,India,Gurugram,Travel,"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",2012,Secondary Market,$3.114B
+8,Kavak,$8.7B,10/1/2020,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,"DST Global, SoftBank Group, Mountain Nazca",2014,Line of Credit - II,$2.702B
+9,Personio,$8.5B,1/19/2021,Germany,Munich,Internet software & services,"Global Founders Capital, Nortzone Ventures, Picus Capital",2015,Series E - II,$724.83M
+10,Klaviyo,$9.2B,11/17/2020,United States,Boston,Internet software & services,"Summit Partners, Accel, Astral Capital",2012,Corporate Minority,$778.5M
+11,Rapyd,$8.75B,12/3/2019,United Kingdom,London,Fintech,"Target Global, General Catalyst, Durable Capital Partners",2016,Series E,$775M
+12,Nuro,$8.6B,2/11/2019,United States,Mountain View,Auto & transportation,"SoftBank Group, Greylock Partners, Gaorong Capital",2016,Series D,$2.132B
+13,Tanium,$9B,3/31/2015,United States,Kirkland,Cybersecurity,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",2007,Unattributed VC,$1.171B
+14,Pony.ai,$8.5B,7/11/2018,United States,Fremont,Artificial intelligence,"Sequoia Capital China, IDG Capital, DCM Ventures",2016,Series D,$1.093B
+15,SumUp,$8.5B,7/16/2019,United Kingdom,London,Fintech,"American Express Ventures, Goldman Sachs, Bain Capital Credit",2012,Debt - III,$2.03B
+16,Chainalysis,$8.6B,11/23/2020,United States,New York,Fintech,"Addition, Benhcmark, Accel",2014,Series F,$536.72M
+17,N26,$9.23B,1/10/2019,Germany,Berlin,Fintech,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",2013,Series E,$1.722B
+18,HEYTEA,$9.28B,7/1/2019,China,Shenzhen,Other,"Sequoia Capital China, Tencent Investment, BA Capital",2012,Series D,$579.23M
+19,ServiceTitan,$9.5B,11/14/2018,United States,Glendale,Internet software & services,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",2012,Series G,$1.099B
+20,KuCoin,$10B,5/10/2022,Seychelles,Victoria,Fintech,"IDG Capital, Matrix Partners China, Jump Crypto",2017,Corporate Minority,$180M
+21,Thrasio,$10B,7/15/2020,United States,Walpole,E-commerce & direct-to-consumer,"Upper90, RiverPark Ventures, Advent International",2018,Series D,$3.396B
+22,Chehaoduo,$10B,3/12/2016,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, GX Capital",2015,Series E,$4.304B
+23,reddit,$10B,7/31/2017,United States,San Francisco,Internet software & services,"Y Combinator, Sequoia Capital, Coatue Management",2005,Series F,$1.326B
+24,TripActions,$9.2B,11/8/2018,United States,Palo Alto,Travel,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",2015,Line of Credit,$1.644B
+25,Digital Currency Group,$10B,11/1/2021,United States,New York,Fintech,"Ribbit Capital, capitalG, Softbank Group",2015,Line of Credit,$600M
+26,VulcanForms,$1B,7/5/2022,United States,Burlington,"Supply chain, logistics, & delivery","Eclipse Ventures, D1 Capital Partners, Industry Ventures",2015,Series C,$355M
+27,Talkdesk,$10B,10/3/2018,United States,San Francisco,Internet software & services,"DJF, Salesforce Ventures, Storm Ventures",2011,Series D,$504.77M
+28,SingleStore,$1B,7/12/2022,United States,San Francisco,Data management & analytics,"Google Ventures, Accel, Data Collective",2011,Series F - III,$464.12M
+29,Northvolt,$9.08B,6/12/2019,Sweden,Stockholm,Other,"Vattenfall, Volkswagen Group, Goldman Sachs",2016,Convertible Note,$7.262B
+30,LeadSquared,$1B,6/21/2022,India,Bengaluru,Internet software & services,"Gaja Capital Partners, Stakeboat Capital, WestBridge Capital",2011,Series C,$189.2M
+31,Unstoppable Domains,$1B,7/27/2022,United States,Las Vegas,Internet software & services,"Boost VC, Draper Associates, Gaingels",2018,Series A,$71.84M
+32,JupiterOne,$1B,6/2/2022,United States,Morrisville,Cybersecurity,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",2018,Series C,$119M
+33,Glean,$1B,5/18/2022,United States,Palo Alto,Internet software & services,"General Catalyst, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners",2019,Series C,$155.3M
+34,CareBridge,$1B,6/8/2022,United States,Nashville,Health,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",2019,Series B,$180M
+35,FourKites,$1B,6/21/2022,United States,Chicago,"Supply chain, logistics, & delivery","Hyde Park Venture Partners, Bain Capital Ventures, Hyde Park Angels",2014,Corporate Minority - II,$242.9M
+36,OutSystems,$9.5B,6/5/2018,United States,Boston,Internet software & services,"KKR, ES Ventures, North Bridge Growth Equity",2001,Series E,$572.01M
+37,Remarkable,$1B,5/10/2022,Norway,Oslo,Internet software & services,Spark Capital,2013,Series B,$25M
+38,Polarium,$1B,5/3/2022,Sweden,Kista,Other,AMF Pensionsforsakring,2015,Unattributed - III,$199.83M
+39,Habi,$1B,5/11/2022,Colombia,Bogota,Fintech,"Homebrew, Inspired Capital, Tiger Global Management",2019,Line of Credit - II,$396.8M
+40,Opn,$1B,5/9/2022,Japan,Tokyo,Fintech,"Sinar Mas Digital Ventures, JIC Venture Growth Investments, Golden Gate Ventures",2013,Debt,$220.4M
+41,Notion Labs,$10B,4/1/2020,United States,San Francisco,Internet software & services,"Index Ventures, Draft Ventures, Felicis Ventures",2016,Seed VC - II,$342M
+42,Taxfix,$1B,4/28/2022,Germany,Berlin,Fintech,"Valar Ventures, Index Ventures, Creandum",2016,Series D,$330.36M
+43,Immuta,$1B,6/8/2022,United States,Boston,Data management & analytics,"DFJ Growth Fund, Dell Technologies Capital, Ten Eleven Ventures",2015,Series E,$259.5M
+44,Divergent 3D,$1B,4/25/2022,United States,Torrance,Auto & transportation,"Hedosophia, Horizons Ventures, Alumni Ventures Group",2014,Corporate Minority,$428M
+45,Lalamove,$10B,2/21/2019,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery","MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",2013,Series F,$2.475B
+46,Gusto,$10B,12/18/2015,United States,San Francisco,Fintech,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",2011,Series E - II,$746.12M
+47,FLASH,$1B,3/16/2022,United States,Austin,Fintech,"L Catterton, Trellis Partners, Vista Equity Partners",2011,Unattributed,$362.05M
+48,LayerZero Labs,$1B,3/30/2022,United States,New York,Internet software & services,"Andreessen Horowitz, FTX Ventures, Tiger Global Management",2021,Shareholder Liquidity,$143.3M
+49,Electric,$1B,3/29/2022,United States,New York,Cybersecurity,"Primary Venture Partners, Bessemer Venture Partners, Harmonic Growth Partners",2016,Series D - III,$212.15M
+50,Grover,$1B,4/7/2022,Germany,Berlin,E-commerce & direct-to-consumer,"Varengold Bank, Circularity Capital, Coparion",2015,Line of Credit - III,$2.293B
+51,BostonGene,$1B,4/6/2022,United States,Waltham,Health,"Japan Industrial Partners, Impact Investment Capital, NEC",2015,Series B,$200M
+52,Vayyar,$1B,6/6/2022,Israel,Yehud,Hardware,"Battery Ventures, Bessemer Venture Partners, MoreVC",2011,Series E,$296M
+53,Open,$1B,5/2/2022,India,Bengaluru,Fintech,"3one4 Capital Partners, Tiger Global Management, Temasek",2018,Series D,$187.4M
+54,Genies,$1B,4/12/2022,United States,Venice,Internet software & services,"New Enterprise Associates, Tull Investment Group, Silver Lake",2017,Series C,$266.26M
+55,Oyster,$1B,4/20/2022,United States,Wilmington,Fintech,"Emergence Capital, Slack Fund, PayPal Ventures",2019,Series C,$224.2M
+56,CommerceIQ,$1B,3/21/2022,United States,Palo Alto,Artificial Intelligence,"Trinity Ventures, Madrona Venture Group, Shasta Ventures",2012,Series D,$195.5M
+57,Aptos,$1B,3/15/2022,United States,Palo Alto,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Tiger Global Management",2021,Unattributed VC,$350M
+58,BlueVoyant,$1B,2/23/2022,United States,New York,Cybersecurity,"8VC, Liberty Strategic Capital, Eden Global Partners",2017,Series D,$525.5M
+59,Gauntlet Networks,$1B,3/7/2022,United States,New York,Fintech,"Polychain Capital, Paradigm, Ribbit Capital",2018,Series B,$44.94M
+60,Factorial,$1B,10/11/2022,Spain,Barcelona,Internet software & services,"K Fund, Creandum, CRV",2016,None,None
+61,Tarana Wireless,$1B,3/23/2022,United States,Milpitas,Mobile & telecommunications,"Prime Movers Lab, Khosla Ventures, I Squared Capital",2009,Series E,$379.64M
+62,Veev,$1B,2/24/2022,United States,San Mateo,Internet software & services,"Zeev Ventures, Bond, Fifth Wall Ventures",None,None,None
+63,Vendr,$1B,2/24/2022,United States,Boston,Fintech,"Craft Ventures, F-Prime Capital, Sound Ventures",2018,Series B,$216.15M
+64,Glia,$1B,3/21/2022,United States,New York,Fintech,"Wildcat Capital Management, Insight Partners, Tola Capital",2012,Unattributed,$167.35M
+65,Omada Health,$1B,2/23/2022,United States,San Francisco,Health,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",2011,Series E,$449.72M
+66,UPSIDE Foods,$1B,4/21/2022,United States,Berkeley,Other,"Battery Ventures, Adams Street Partners, Coatue Management",2015,Series C,$610.85M
+67,RapidAPI,$1B,3/23/2022,United States,San Francisco,Internet software & services,"Green Bay Ventures, M12, Andreessen Horowitz",2014,Series D,$272.73M
+68,NexHealth,$1B,4/21/2022,United States,San Francisco,Health,"iSeed Ventures, Point Nine Capital, Buckley Ventures",2017,Series C,$177.36M
+69,Watershed,$1B,2/8/2022,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Sequoia Capital",None,None,None
+70,Axelar,$1B,2/15/2022,Canada,Waterloo,Internet software & services,"Lemniscap VC, North Island Ventures, Polychain Capital",2020,Series B,$63.75M
+71,Payhawk,$1B,2/14/2022,United Kingdom,London,Fintech,"Earlybird Venture Capital, Eleven Ventures, QED Investors",2018,Series B - II,$236.5M
+72,Dune Analytics,$1B,2/2/2022,Norway,Oslo,Data management & analytics,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",2018,Series B,$79.42M
+73,Fever Labs,$1B,1/26/2022	,United States,New York,Internet software & services,"Accel, 14W, GS Growth",2012,Series E,$315.43M
+74,Scalapay,$1B,2/23/2022,Italy,Milan,Fintech,"Fasanara Capital, Tiger Global Management, Baleen Capital",2019,Series B - II,$727M
+75,Scandit,$1B,2/9/2022,Switzerland,Zurich,"Supply chain, logistics, & delivery","Atomico, NGP Capital, Google Ventures",2009,Series D,$273M
+76,CHEQ,$1B,2/22/2022,United States,New York,Cybersecurity ,"Battery Ventures, Tiger Global Management, Hanaco Ventures",2022,Seed VC,$10M
+77,Esusu,$1B,1/27/2022	,United States,New York,Fintech,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",2015,Series B,$144.43M
+78,Betterfly,$1B,2/1/2022,Chile,Santiago,Artificial intelligence,"QED Investors, DST Global, Endeavor",2018,Series C - II,$212.5M
+79,Hasura,$1B,2/22/2022,India,Bengaluru,Internet software & services,"Nexus Venture Partners, Vertex Ventures, STRIVE",2017,Series C,$136.51M
+80,Timescale,$1B,2/22/2022,United States,New York,Internet software & services,"New Enterprise Associates, Benchmark, Two Sigma Ventures",2015,Series C,$181.06M
+81,Darwinbox,$1B,1/25/2022	,India,Hyderabad,Internet software & services,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",2015,Series D - III,$115.37M
+82,Fractal Analytics,$1B,1/5/2022,India,Mumbai,Data management & analytics,"TPG Capital, Apax Partners, TA Associates",2000,Private Equity - III,$688M
+83,Assent,$1B,1/6/2022,Canada,Ottawa,"Supply chain, logistics, & delivery","Vista Equity Partners, Warburg Pincus, First Ascent Ventures",2010,Private Equity,$501.64M
+84,VOI,$1B,12/21/2021,Sweden,Stockholm,Travel,"Vostok New Ventures, The Raine Group, Balderton Capital",2018,Series D,$517.9M
+85,InFarm,$1B,12/16/2021,Germany,Berlin,Other,"Atomico, Hanaco Venture Capital, TriplePoint Capital",2013,Series D,$601.59M
+86,ONE,$1B,12/8/2021,Singapore,,Internet software & services,"Temasek, Guggenheim Investments, Qatar Investment Authority",2011,Series F,$486M
+87,Minio,$1B,1/26/2022	,United States,Palo Alto,Data management & analytics,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",2014,Series B,$126.3M
+88,Pentera,$1B,1/11/2022	,Israel,Petah Tikva,Cybersecurity ,"AWZ Ventures, Blackstone, Insight Partners",2015,Series C,$185M
+89,Placer.ai,$1B,1/12/2022	,United States,Los Altos,Artificial intelligence,"Fifth Wall Ventures, JBV Capital, Array Ventures",2016,Unattributed,$192.85M
+90,Noname Security,$1B,12/15/2021,United States,Palo Alto,Cybersecurity,"Insight Partners, Lightspeed Venture Partners, CyberStarts",2020,Series C,$220M
+91,Rothy's,$1B,12/21/2021,United States,San Francisco,Consumer & retail,"Alpargatas, GS Growth, Lightspeed Venture Partners",2016,Series B,$517.24M
+92,SnapLogic,$1B,12/13/2021,United States,San Mateo,Internet software & services,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",2006,Series I,$397.86M
+93,Pet Circle,$1B,12/6/2021,Australia,Alexandria,E-commerce & direct-to-consumer,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",2011,Series C,$126.35M
+94,Kopi Kenangan,$1B,12/27/2021,Indonesia,Jakarta,Consumer & retail,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",2017,Series C,$233M
+95,SellerX,$1B,12/9/2021,Germany,Berlin,E-commerce & direct-to-consumer,"Cherry Ventures, Felix Capital, 83North",2020,Debt - II,$766.7M
+96,Cadence,$1B,12/14/2021,United States,New York,Health,"Thrive Capital, General Catalyst, Coatue Management",2020,Series B,$141M
+97,ReliaQuest,$1B,12/1/2021,United States,Tampa,Cybersecurity,"KKR, FTV Capital, Ten Eleven Ventures",2007,Unattributed VC,$330M
+98,Nature's Fynd,$1B,7/19/2021,United States,Chicago,Consumer & retail,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",2012,Grant - II,$513.24M
+99,Lydia,$1B,12/8/2021,France,Paris,Fintech,"NewAlpha, XAnge Private Equity, Tencent Holdings",2011,Series C,$260.33M
+100,Iodine Software,$1B,12/1/2021,United States,Austin,Data management & analytics,"Advent International, Bain Capital Ventures, Silversmith Capital Partners",2010,Private Equity,None
+101,Haomao.AI,$1B,12/22/2021,China,Beijing,Artificial Intelligence,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",2019,Series A - II,$203.91M
+102,Clara,$1B,12/6/2021,Mexico,Mexico City,Fintech,"DST Global, General Catalyst, Monashees+",2020,Line of Credit,$268.5M
+103,NoBroker,$1B,11/23/2021,India,Bengaluru,Internet software & services,"General Atlantic, Elevation Capital, BEENEXT",2014,Series E,$371.4M
+104,YipitData,$1B,12/6/2021,United States,New York,Internet software & services,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",2008,Series E,$492.05M
+105,Anyscale,$1B,12/7/2021,United States,Berkeley,Artificial Intelligence,"Andreessen Horowitz, Intel Capital, Foundation Capital",2019,Series C - II,$259.6M
+106,Lessen,$1B,11/30/2021,United States,Scottsdale,Internet software & services,"Khosla Ventures, General Catalyst, Navitas Capital",2019,Debt,$705M
+107,PLACE,$1B,11/17/2021,United States,Bellingham,Internet software & services,"Goldman Sachs Asset Management, 3L",2020,Incubator/Accelerator,$100M
+108,Stytch,$1B,11/18/2021,United States,San Francisco,Cybersecurity,"Index Ventures, Benchmark, Thrive Capital",None,Series B,$126M
+109,Expel,$1B,11/18/2021,United States,Herndon,Cybersecurity,"Paladin Capital Group, Greycroft, Scale Venture Partners",2016,Series E - II,$288.8M
+110,Gaussian Robotics,$1.1B,11/10/2021,China,Shanghai,Hardware,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",2013,Series D - III,$361.53M
+111,Razor,$1B,11/8/2021,Germany,Berlin,Consumer & retail,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",2020,Series C,$1.033B
+112,Tezign,$1B,11/2/2021,China,Shanghai,Internet software & services,"Sequoia Capital China, Linear Venture, Hearst Ventures",2015,Series D,$110M
+113,Mensa Brands,$1B,11/16/2021,India,Bengaluru,Other,"Accel, Falcon Edge Capital, Norwest Venture Partners",2021,Series B,$228.58M
+114,IGAWorks,$1B,11/8/2021,South Korea,Seoul,Internet software & services,"Korea Investment Private Equity, Atinum Investment, Korea Investment Partners",2006,Series F,$56.9M
+115,Owkin,$1B,11/18/2021,United States,New York,Artificial Intelligence,"Google Ventures, Cathay Innovation, NJF Capital",2016,Corporate Minority,$334.1M
+116,Heyday,$1B,11/16/2021,United States,Chicago,E-commerce & direct-to-consumer,"Khosla Ventures,General Catalyst, Victory Park Capital",2017,Acquired,$6.62M
+117,Wrapbook,$1B,11/10/2021,United States,New York,Fintech,"Equal Ventures, Uncork Capital, Andreessen Horowitz",2018,Series B,$130.6M
+118,Fabric,$1B,10/26/2021,United States,New York,"Supply chain, logistics, & delivery","Innovation Endeavors, Aleph, Temasek",1999,Acquired,None
+119,Contrast Security,$1B,11/9/2021,United States,Los Altos,Cybersecurity,"Acero Capital, General Catalyst, M12",2014,Series E,$269M
+120,CargoX,$1B,10/21/2021,Brazil,Sao Paulo,"Supply chain, logistics, & delivery","Valor Capital Group, Lightrock, Softbank Group",2015,Series F,$377.93M
+121,Zopa,$1B,10/19/2021,United Kingdom,London,Fintech,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",2005,Series J,$671.93M
+122,Augury,$1B,10/26/2021,United States,New York,Artificial intelligence,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",2011,Series E,$294M
+123,Solo.io,$1B,10/7/2021,United States,Cambridge,Internet software & services,"True Ventures, Altimeter Capital, Redpoint Ventures",2017,Series C,$171.85M
+124,MobiKwik,$1B,10/13/2021,India,Gurugram,Fintech,"Sequoia Capital India, The Times Group, GMO VenturePartners",2009,Debt - IV,$260.07M
+125,Weights & Biases,$1B,10/13/2021,United States,San Francisco,Artificial intelligence,"Coatue Management, Insight Partners, Trinity Ventures",2017,Corporate Minority,$200M
+126,Masterworks,$1B,10/5/2021,United States,New York,Fintech,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",2017,Unattributed,$111.25M
+127,Savage X Fenty,$1B,2/10/2021,United States,El Segundo,E-commerce & direct-to-consumer,"Speedinvest, Valar Ventures, Uniqa Ventures",2018,Series C,$310M
+128,Swile,$1B,10/11/2021,France,Montpellier,Fintech,"Index Ventures, IDInvest Partners, Daphni",2016,Convertible Note,$328.43M
+129,Chronosphere,$1B,10/7/2021,United States,New York,Data management & analytics,"Greylock Partners, Lux Capital, General Atlantic",2019,Series C - II,$370.34M
+130,Moka,$1B,11/2/2021,China,Beijing,Internet software & services,"GGV Capital, GSR Ventures, FreesFund",2015,Series C,$142.27M
+131,Licious,$1B,10/5/2021,India,Bengaluru,E-commerce & direct-to-consumer,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",2015,Series F - III,$488M
+132,Ajaib,$1B,10/4/2021,Indonesia,Jakarta,Fintech,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",2018,Series B,$245.22M
+133,Vagaro,$1B,11/3/2021,United States,Dublin,Internet software & services,FTV Capital,2009,Growth Equity - II,$64.5M
+134,Dental Monitoring,$1B,10/21/2021,France,Paris,Health,"Vitruvian Partners, Merieux Equity Partners, Straumann",2014,Series B,$210.08M
+135,TrialSpark,$1B,9/30/2021,United States,New York,Health,"Sequoia Capital, Thrive Capital, Sound Ventures",2014,Series C,$238.3M
+136,Vedantu,$1B,9/29/2021,India,Bengaluru,Edtech,"Accel, Tiger Global Management, Omidyar Network",2014,Series E - II,$308.38M
+137,Orchard,$1B,9/9/2021,United States,New York,Fintech,"Accomplice, Juxtapose, FirstMark Capital",None,Convertible Note,None
+138,Xendit,$1B,9/14/2021,Indonesia,Jakarta,Fintech,"Accel, Y Combinator, Amasia",2014,Option/Warrant - II,$515.01M
+139,Ninja Van,$1B,9/27/2021,Singapore,,"Supply chain, logistics, & delivery","B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",2014,Series E,$976.5M
+140,HAYDON,$1B,9/24/2021,China,Shanghai,Consumer & retail,"Tencent Holdings, Hillhouse Capital Management",2020,Series A - II,$100M
+141,Mammoth Biosciences,$1B,9/9/2021,United States,Brisbane,Health,"NFX, Plum Alley, Mayfield",None,Incubator/Accelerator,None
+142,Cider,$1B,9/2/2021,Hong Kong,,E-commerce & direct-to-consumer,"Andreessen Horowitz, DST Global, IDG Capital",2020,Series B,$131.46M
+143,Maven Clinic,$1B,8/17/2021,United States,New York,Health,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",2014,Series E,$289.47M
+144,Keenon Robotics,$1B,9/15/2021,China,Shanghai,"Supply chain, logistics, & delivery","Yunqi Partners, SoftBank Group, iVision Ventures",2010,Series D,$228.79M
+145,TrueLayer,$1B,9/21/2021,United Kingdom,London,Fintech,"Anthemis, Connect Ventures, Northzone Ventures",2016,Series E,$271.8M
+146,Agile Robots,$1B,9/9/2021,Germany,Munich,Hardware,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",2018,Series C - II,$380M
+147,1KMXC,$1B,8/30/2021,China,Hangzhou,Hardware,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",2014,Series D - II,$98.96M
+148,Gelato,$1B,8/16/2021,Norway,Oslo,E-commerce & direct-to-consumer,"Greylock Partners, Google Ventures, BlackRock",2007,Series B,$293.61M
+149,Freshbooks,$1B,8/10/2021,Canada,Toronto,Fintech,"Accomplice, Oak Investment Partners, Georgian Partners",2003,Line of Credit,$303.75M
+150,Human Interest,$1B,8/4/2021,United States,San Francisco,Fintech,"Wing Venture Capital, Slow Ventures, Uncork Capital",2015,Unattributed,$335.02M
+151,Assembly,$1B,9/21/2021,United States,Culver City,Internet software & services,"Advent International, PSG, Providence Equity Partners",2019,Private Equity - II,None
+152,Interos,$1B,7/22/2021,United States,Arlington,"Supply chain, logistics, & delivery","Kleiner Perkins Caufield & Byers, NightDragon Security, Venrock",2005,Series C - III,$132.35M
+153,dMed Biopharmaceutical,$1B,7/12/2021,China,Shanghai,Health,"Qiming Venture Partners, Vivo Capital, Sequoia Capital China",2016,Series C - II,$244.1M
+154,Berlin Brands Group,$1B,9/1/2021,Germany,Berlin,E-commerce & direct-to-consumer,"Ardian, Bain Capital",2005,Private Equity - II,$938.71M
+155,MobileCoin,$1.06B,7/7/2021,United States,San Francisco,Fintech,"General Catalyst, Future Ventures, AU21",2018,Series B,$108.03M
+156,PicsArt,$1B,8/26/2021,United States,San Francisco,Mobile & telecommunications,"Sequoia Capital, DCM Ventures, Insight Partners",None,Option/Warrant,$175M
+157,Snorkel AI,$1B,8/9/2021,United States,Palo Alto,Artificial intelligence,"Greylock Partners, Google Ventures, BlackRock",2019,Series C,$135M
+158,NIUM,$1B,7/13/2021,Singapore,,Fintech,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",2014,Series D - II,$264.1M
+159,Bluecore,$1B,8/5/2021,United States,New York,Artificial intelligence,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",2013,Series E,$238.12M
+160,Pantheon Systems,$1B,7/13/2021,United States,San Francisco,Internet software & services,"Foundry Group, Scale Venture Partners, SoftBank Group",2020,Seed,$150K
+161,Amperity,$1B,7/13/2021,United States,Seattle,Artificial intelligence,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",2016,Series D,$217.3M
+162,ShipBob,$1B,6/29/2021,United States,Chicago,"Supply chain, logistics, & delivery","Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures",2014,Series E,$331.1M
+163,Morning Consult,$1B,6/8/2021,United States,Washington DC,Internet software & services,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",2014,Series B,$91M
+164,Worldcoin,$1B,6/29/2021,United States,San Francisco,Fintech,"Day One Ventures, Coinbase Ventures, Andreessen Horowitz",None,Unattributed,$97.27M
+165,SmartAsset,$1B,6/24/2021,United States,New York,Fintech,"Javelin Venture Partners, TTV Capital, Peterson Ventures",2012,Series D,$157.62M
+166,Visier,$1B,6/29/2021,Canada,Vancouver,Internet software & services,"Foundation Capital, 	Summit Partners, Adams Street Partners",2010,Series E,$216.5M
+167,JoyTunes,$1B,6/21/2021,Israel,Tel Aviv,Edtech,"Genesis Partners, Aleph, Insight Partners",2011,Series D,$91.5M
+168,Bringg,$1B,6/16/2021,Israel,Tel Aviv,"Supply chain, logistics, & delivery","Salesforce Ventures, next47, Pereg Ventures",2013,Series E,$184.5M
+169,Claroty,$1B,6/17/2021,United States,New York,Cybersecurity,"Bessemer Venture Partners, MoreVC, Team8",2015,Series E,$632M
+170,Xiaoe Tech,$1B,6/15/2021,China,Shenzhen,Internet software & services,"GGV Capital, Hillhouse Capital Management, IDG Capital",2015,Series D,$138.82M
+171,Carro,$1B,6/14/2021,Singapore,,E-commerce & direct-to-consumer,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",2015,Series D,$684.52M
+172,Tractable,$1B,6/16/2021,United Kingdom,London,Artificial intelligence,"Insight Partners, Ignition Partners, Georgian Partners",2014,Series D,$119.83M
+173,EcoFlow,$1B,6/10/2021,China,Shenzhen,Hardware,"Delian Capital, China International Capital Corporation, Sequoia Capital China",2017,Series B,$110.59M
+174,Xiaoice,$1B,7/12/2021,China,Beijing,E-commerce & direct-to-consumer,"NetEase Capital, Northern Light Venture Capital, Microsoft",2020,Series B,$138.4M
+175,Thirty Madison,$1B,6/2/2021,United States,New York,Health,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",1993,Growth Equity - II,$18.54M
+176,LetsGetChecked,$1B,6/7/2021,Ireland,Dublin,Health,"Optum Ventures, Qiming Venture Partners, Transformation Capital",2015,Series D - II,$283M
+177,Matrixport,$1.05B,6/1/2021,Singapore,,Fintech,"Dragonfly Captial, Qiming Venture Partners, DST Global",2019,Series C,$100M
+178,Vise,$1B,5/18/2021,United States,New York,Fintech,"Sequoia Capital, Founders Fund, Bling Capital",2016,Series C,$126.55M
+179,Shippo,$1B,6/2/2021,United States,San Francisco,"Supply chain, logistics, & delivery","Version One Ventures, Uncork Capital, Bessemer Venture Partners",2013,Series E,$154.03M
+180,TensTorrent,$1B,5/5/2021,Canada,Toronto,Artificial intelligence,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",2016,Series B,$221.03M
+181,Shift Technology,$1B,5/6/2021,France,Paris,Artificial intelligence,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",2014,Series D - II,$319.72M
+182,Forte Labs,$1.73B,5/12/2021,United States,San Francisco,Fintech,"Iris Capital, Accel, Elaia Partners",2018,Series B,$910M
+183,Zihaiguo,$1B,5/6/2021,China,Chongqing,Consumer & retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",2018,Series C - III,$64.08M
+184,Carson Group,$1B,7/14/2021,United States,Lincoln,Fintech,Bain Capital,None,None,None
+185,Amount,$1B,5/17/2021,United States,Chicago,Fintech,"Invus Group, Hanaco Venture Capital, WestCap Group",2020,Unattributed VC,$223.2M
+186,Augustinus Bader,$1B,11/9/2022,London,United Kingdom,Consumer & retail,General Atlantic,2017,Seed,$25M
+187,Axtria,$1B,5/13/2021,United States,Berkeley Heights,Data management & analytics,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",2009,Series E,$206.32M
+188,Firefly Aerospace,$1.1B,5/4/2021,United States,Cedar Park,Other,"XBTO Ventures, Raven One Ventures, SK Ventures",2014,Series B,$175.25M
+189,XForcePlus,$1B,6/1/2021,China,Shanghai,Internet software & services,"Eastern Bell Capital, Danhua Capital, MSA Capital",2015,Series C - II,$200M
+190,Mux,$1B,4/30/2021,United States,San Francisco,Internet software & services,"Accel, Cobalt Capital, Andreessen Horowitz",2015,Series D,$173.92M
+191,Aircall,$1B,6/23/2021,United States,New York,Internet software & services,"Balderton Capital, Next World Capital, Draper Esprit",2014,Series D - II,$225.63M
+192,MOLOCO,$1.5B,4/29/2021,United States,Redwood City,Artificial intelligence,"Smilegate Investment, DSC Investments, KTB Ventures",2013,None,None
+193,Capsule,$1B,4/28/2021,United States,New York,Health,"Thrive Capital, Durable Capital Partners, G Squared",2015,Series D,$570M
+194,Inari,$1.5B,5/12/2021,United States,Cambridge,Other,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",2016,Debt,$521M
+195,Injective Protocol,$1B,4/20/2021,United States,New York,Fintech,"Pantera Capital, Cadenza Ventures, BlockTower Capital",2018,Series A,$53.1M
+196,Groq,$1B,4/14/2021,United States,Mountain View,Artificial intelligence,"TDK Ventures, Social Capital, D1 Capital Partners",2016,Series C - II,$362.55M
+197,The Zebra,$1B,4/12/2021,United States,Austin,E-commerce & direct-to-consumer,"Silverton Partners, Accel, Ballast Point Ventures",2012,Series D,$255.08M
+198,Clearcover,$1B,4/13/2021,United States,Chicago,Fintech,"American Family Ventures, Cox Enterprises, OMERS Ventures",2016,Series E,$460M
+199,Hyperchain,$1B,4/11/2021,China,Hangzhou,Fintech,"Yinhong Equity Investment Fund, E Fund, Ideal International",None,Series C,$249M
+200,Newsela,$1B,2/25/2021,United States,New York,Edtech,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",2013,Series D,$170.72M
+201,Aqua Security,$1B,3/10/2021,Israel,Ramat Gan,Cybersecurity,"TLV Partners, Lightspeed Venture Partners, M12",2015,Unattributed VC,$265M
+202,PatSnap,$1B,3/16/2021,Singapore,,Internet software & services,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",2007,Series E,$352.32M
+203,WeBull,$1B,2/18/2021,China,Changsha,Fintech,"Bojiang Capital, Hongdao Capital, Mobai Capital",2016,Series D,$230.31M
+204,Axiom Space,$1B,2/16/2021,United States,Houston,Other,"C5 Capital, Hemisphere Ventures, The Venture Collective",2016,Corporate Minority,$280M
+205,Evidation,$1B,3/22/2021,United States,San Mateo,Health,"B Capital Group,, GE Ventures, McKesson Ventures",2012,Series E,$259.18M
+206,Fiture,$1B,4/14/2021,China,Chengdu,Health,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",2019,Series B,$391M
+207,Sidecar Health,$1B,1/26/2021,United States,El Segundo,Fintech,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",2018,Series C,$163M
+208,Yunxuetang,$1B,3/29/2021,China,Suzhou,Edtech,"Matrix Partners China, Sequoia Capital China, Hundreds Capital",2011,Series E - II,$397.28M
+209,Flash Express,$1B,2/1/2021,Thailand,Bangkok,"Supply chain, logistics, & delivery","SCB 10X, Krungsri Finnovate, eWTP Capital",2017,Series F,$807M
+210,Standard,$1B,2/17/2021,United States,San Francisco,Artificial intelligence,"CRV, Y Combinator, Initialized Capital",2017,Series C,$236.32M
+211,Skydio,$1B,2/25/2021,United States,Redwood City,"Supply chain, logistics, & delivery","Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",2014,Series D,$344M
+212,Locus Robotics,$1B,2/17/2021,United States,Wilmington,Hardware,"Scale Venture Partners, Bond, Tiger Global Management",2014,Series F,$432.82M
+213,Splashtop,$1B,1/27/2021,United States,San Jose,Internet software & services,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",2006,Series E - II,$111.5M
+214,MadeiraMadeira,$1B,1/7/2021,Brazil,Parana,E-commerce & direct-to-consumer,"Flybridge Capital Partners, SoftBank Group, Monashees+",2009,Series E,$304.58M
+215,Cameo,$1B,3/30/2021,United States,Chicago,Internet software & services,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",2016,Unattributed,$178.6M
+216,Quantum Metric,$1B,1/7/2021,United States,Colorado Springs,Data management & analytics,"Insight Partners, Bain Capital Ventures",2015,Incubator/Accelerator - III,$251M
+217,Sift,$1B,4/22/2021,United States,San Francisco,Artificial intelligence,"Union Square Ventures, Insight Partners, Spark Capital",2011,Series E,$156.52M
+218,Feedzai,$1B,3/24/2021,United States,San Mateo,Artificial intelligence,"Global Founders Capital, Shea Ventures, Greycroft",2009,Series D,$277.8M
+219,Alation,$1.7B,6/3/2021,United States,Redwood City,Internet software & services,"Costanoa Ventures, Data Collective, Salesforce Ventures",2012,Series E,$315M
+220,Playco,$1B,9/21/2020,Japan,Tokyo,Other,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",2020,Series A,$100M
+221,Zwift,$1B,9/16/2020,United States,Long Beach,E-commerce & direct-to-consumer,"Novator Partners, True, Causeway Media Partners",2014,Series C,$597M
+222,Quizlet,$1B,5/13/2020,United States,San Francisco,Edtech,"Union Square Ventures, Altos Ventures, Costanoa Ventures",2005,Series C,$62M
+223,SaltPay,$1B,4/9/2021,United Kingdom,London,Fintech,"Tiger Global Management, Hedosophia",None,None,None
+224,News Break,$1B,1/7/2021,United States,Mountain View,Internet software & services,"IDG Capital, Francisco Partners, ZhenFund",2015,Series C,$140.23M
+225,PPRO,$1B,1/19/2021,United Kingdom,London,Fintech,"Wellington Management, Eurazeo, Citi Ventures",2006,Private Equity - III,$370M
+226,Boom Supersonic,$1B,12/16/2020,United States,Englewood,Other,"WRVI Capital, Caffeinated Capital, Y Combinator",2014,Series C - III,$247.61M
+227,Gousto,$1.7B,11/3/2020,United Kingdom,London,"Supply chain, logistics, & delivery","MMC Ventures, BGF Ventures, Unilever Ventures",2012,Secondary Market,$361M
+228,Infobip,$1B,7/30/2020,Croatia,Vodnjan,Mobile & telecommunications,One Equity Partners,2006,Loan,$800M
+229,Orca Bio,$1B,6/17/2020,United States,Menlo Park,Health,"Lightspeed Venture Partners, Data Collective, 8VC",2016,Series D,$192M
+230,Emerging Markets Property Group,$1B,4/28/2020,United Arab Emirates,Dubai,Other,"OLX Group, KCK Group, EXOR Seeds",2015,Series F,$479M
+231,Alto Pharmacy,$1B,1/30/2020,United States,San Francisco,Health,"Jackson Square Ventures, Greenoaks Capital Management, Softbank Group",2015,Angel,$588.61M
+232,Hotmart,$1B,3/17/2020,Netherlands,Amsterdam,E-commerce & direct-to-consumer,"Technology Crossover Ventures, Alkeon Capital Management, General Atlantic",2011,Series C,$130.3M
+233,Numbrs,$1B,8/22/2019,Switzerland,Zurich,Fintech,"Investment Corporation of Dubai, Centralway",None,Series D - III,$127.6M
+234,Meero,$1B,6/18/2019,France,Paris,Artificial intelligence,"Aglae Ventures, Global Founders Capital, Alven Capital",2016,Series C,$297.5M
+235,KnowBox,$1B,5/30/2019,China,Beijing,Edtech,"TAL Education Group, Legend Star, Alibaba Group",2014,Series D,$306.16M
+236,C2FO,$1B,8/7/2019,United States,Leawood,Fintech,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",2008,Series H,$539.68M
+237,SITECH DEV,$1B,5/16/2019,China,Guiyang,Other,China Prosperity Capital,2017,Series B - II,None
+238,Poizon,$1B,4/29/2019,China,Shanghai,Mobile & telecommunications,"DST Global, Sequoia Capital China, Gaorong Capital",2015,Series A - II,None
+239,Globality,$1B,1/22/2019,United States,Menlo Park,Artificial intelligence,SoftBank Group,2015,Series E,$310.3M
+240,Ynsect,$1B,2/21/2019,France,Evry,Other,"Astanor Ventures, Upfront Ventures, IDInvest Partners",2011,Series C - II,$393.4M
+241,KK Group,$3B,10/23/2019,China,Dongguan,E-commerce & direct-to-consumer,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",2014,Series F,$614.44M
+242,Yanolja,$1B,6/10/2019,South Korea,Seoul,Travel,"SBI Investment Korea, Partners Investment, GIC",2005,Corporate Minority,$2.036B
+243,EBANX,$1B,10/16/2019,Brazil,Curitiba,Fintech,"FTV Capital, Endeavor",2012,Series C,$460M
+244,Ibotta,$1B,8/6/2019,United States,Denver,Fintech,"Koch Disruptive Technologies, Teamworthy Ventures, GGV Capital",2011,Series D,$95.91M
+245,Intellifusion,$1B,3/22/2019,China,Shenzhen,Artificial intelligence,"BOC International, TopoScend Capital, Hongxiu VC",2014,Series C - III,$287.85M
+246,Banma Network Technologies,$1B,9/13/2018,China,Shanghai,Auto & transportation,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",2015,Series B,$696.76M
+247,TERMINUS Technology,$1B,10/25/2018,China,Beijing,Hardware,"China Everbright Limited, IDG Capital, iFLYTEK",2015,Unattributed,$629.58M
+248,BitFury,$1B,11/6/2018,Netherlands,Amsterdam,Hardware,"Georgian Co-Investment Fund, iTech Capital, Galaxy Digital",2011,Series D,$170M
+249,FlashEx,$1B,8/27/2018,China,Beijing,"Supply chain, logistics, & delivery","Prometheus Capital, Matrix Partners China, JD Capital Management",2014,Series D - II,$339M
+250,Wacai,$1B,7/18/2018,China,Hangzhou,Mobile & telecommunications,"Qiming Venture Partners, China Broadband Capital, CDH Investments",2009,Series D,$368.6M
+251,China Cloud,$1B,6/11/2018,China,Wuxi,Hardware,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",2010,Corporate Minority,$522.8M
+252,Movile,$1B,7/12/2018,Brazil,Sao Paulo,Mobile & telecommunications,"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",1998,Private Equity,$394M
+253,Pat McGrath Labs,$1B,7/16/2018,United States,New York,Consumer & retail,"One Luxury Group, Eurazeo",2016,Private Equity - II,$82M
+254,Huike Group,$1B,5/24/2018,China,Beijing,Edtech,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",2010,Series D,$63M
+255,LinkDoc Technology,$1B,7/5/2018,China,Beijing,Health,"China Investment Corporation, New Enterprise Associates",2014,Corporate Minority,$253.02M
+256,Hosjoy,$1B,10/18/2018,China,Nanjing,E-commerce & direct-to-consumer,"U.S.-China Green Fund, Founder H Fund, Richland Equities",2009,Series C - II,$138.53M
+257,WeLab,$1B,11/8/2017,Hong Kong,,Fintech,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",2013,Series D,$896M
+258,Revolution Precrafted,$1B,10/23/2017,Philippines,Manila,Other,"K2 Global, 500 Startups",2015,Series B,$15.4M
+259,Momenta,$1B,10/17/2018,China,Beijing,Artificial intelligence,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",2016,Series C - II,$1.283B
+260,Cell C,$1B,8/7/2017,South Africa,Midrand,Mobile & telecommunications,"Blue Label Telecoms, Net1 UEPS Technologies",2000,Recap,$546.97M
+261,Zhaogang,$1B,6/29/2017,China,Shanghai,E-commerce & direct-to-consumer,"K2 Ventures, Matrix Partners China, IDG Capital",2012,Series F - II,$361.25M
+262,DianRong,$1B,8/2/2017,China,Shanghai,E-commerce & direct-to-consumer,"Standard Chartered, FinSight Ventures, Affirma Capital",2012,Series F,$649M
+263,YH Global,$1B,9/21/2017,China,Shenzhen,"Supply chain, logistics, & delivery","Co-Energy Finance, Grandland",1997,Series A,$182.05M
+264,Tresata,$1B,10/10/2018,United States,Charlotte,Fintech,GCP Capital Partners,2011,Loan,$51.93M
+265,Omio,$1B,10/23/2018,Germany,Berlin,Travel,"Lakestar, Battery Ventures, New Enterprise Associates",2013,Series E,$476M
+266,SMS Assist,$1B,6/7/2016,United States,Chicago,Internet software & services,"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",1999,Acquired,$255M
+267,Kendra Scott,$1B,12/21/2016,United States,Austin,Consumer & retail,"Berkshire Partners, Norwest Venture Partners",2002,Private Equity,None
+268,Mobvoi,$1B,4/6/2017,China,Beijing,Consumer & retail,"Sequoia Capital China, SIG Asia Investments, ZhenFund",2012,Crowdfunding - III,$259.64M
+269,iCarbonX,$1B,4/12/2016,China,Shenzhen,Artificial intelligence,"Tencent, Vcanbio",2015,Series A - II,$199M
+270,58 Daojia,$1B,10/12/2015,China,Beijing,Internet software & services,"KKR, Alibaba Group, Ping An Insurance",2014,Series B,$300M
+271,iTutorGroup,$1B,11/18/2015,China,Shanghai,Edtech,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",1998,Corporate Minority,$315M
+272,Dxy.cn,$1B,4/10/2018,China,Hangzhou,Health,"Tencent Holdings, DCM Ventures",2000,Series E,$672M
+273,Womai,$1B,10/12/2015,China,Beijing,E-commerce & direct-to-consumer,"SAIF Partners China, Baidu, IDG Capital",2009,Incubator/Accelerator,$320M
+274,MediaMath,$1B,7/10/2018,United States,New York,Internet software & services,"Silicon Valley Bank, QED Investors, European Founders Fund",2007,Recap,$613.16M
+275,Vox Media,$1B,8/12/2015,United States,Washington,Internet software & services,"Accel Partners, Comcast Ventures, General Atlantic",2011,Series G,$324.65M
+276,FXiaoKe,$1B,7/2/2015,China,Beijing,Mobile & telecommunications,"IDG Capital, Northern Light Venture Capital, DCM Ventures",2011,Series G,$308M
+277,Maimai,$1B,11/15/2017,China,Beijing,Mobile & telecommunications,"Morningside Venture Capital, IDG Capital, DCM Ventures",2013,Series D,$300M
+278,HMD Global,$1B,5/21/2018,Finland,Espoo,Mobile & telecommunications,Ginko Ventures,2016,Series A - II,$330M
+279,Modernizing Medicine,$1B,5/10/2017,United States,Boca Raton,Health,"Warburg Pincus, Summit Partners, Sands Capital",2010,Unattributed,$393.79M
+280,Zhuan Zhuan,$1B,4/18/2017,China,Beijing,E-commerce & direct-to-consumer,"58.com, Tencent Holdings",2015,Series D,$990M
+281,HuJiang,$1B,10/29/2015,China,Shanghai,Edtech,"China Minsheng Investment, Baidu, Wanxin Media",2001,Series E,$223.29M
+282,JimuBox,$1B,4/21/2015,China,Beijing,Fintech,"Matrix Partners China, Ventech China, Shunwei Capital Partners",None,Series C,$131M
+283,Lamabang,$1B,3/6/2015,China,Shenzhen,E-commerce & direct-to-consumer,"5Y Capital, Matrix Partners China, K2VC",2011,Series D,$120M
+284,Red Ventures,$1B,1/7/2015,United States,Fort Mill,Other,"Silver Lake Partners, General Atlantic",2000,Line of Credit,$1.05B
+285,InMobi,$1B,12/2/2014,India,Bengaluru,Mobile & telecommunications,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",2007,Series E,$510.6M
+286,Zebec,$1B,8/29/2022,United States,San Francisco,Fintech,"Resolute Ventures, Shima Capital, Circle Ventures",2021,Seed VC - IV,$33.83M
+287,TechStyle Fashion Group,$1B,8/29/2014,United States,El Segundo,E-commerce & direct-to-consumer,"Matrix Partners, Passport Capital, Rho Ventures",2010,Unattributed VC,$300M
+288,Mia.com,$1B,9/8/2015,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, ZhenFund, K2 Ventures",2011,Series E,$231.6M
+289,MindMaze,$1B,1/28/2016,Switzerland,Lausanne,Health,Hinduja Group,2012,Series C,$348.5M
+290,LinkSure Network,$1B,1/1/2015,China,Shanghai,Mobile & telecommunications,None,2013,Series A,$52M
+291,Lookout,$1B,10/10/2013,United States,San Francisco,Cybersecurity,"Accel Partners, Greylock Partners, Lowercase Capital",2007,Secondary Market,$281M
+292,BeiBei,$1B,1/22/2015,China,Hangzhou,E-commerce & direct-to-consumer,"Banyan Capital, New Horizon Capital, IDG Capital Partners",2011,Series D,$224.4M
+293,TransferMate,$1B,5/22/2022,Ireland,Kilkenny,Fintech,Railway Pension Trustee Co. Ltd.,2010,Unattributed,$129.89M
+294,Snapdeal,$1B,5/21/2014,India,New Delhi,E-commerce & direct-to-consumer,"SoftBankGroup, Blackrock, Alibaba Group",2008,Angel - II,$1.776B
+295,Perimeter 81,$1B,6/6/2022,Israel,Tel Aviv,Cybersecurity,"Insight Partners, Toba Capital, Spring Ventures",2018,Series C,$159.5M
+296,LINE MAN Wongnai,$1B,9/26/2022,Thailand,Bangkok,E-commerce & direct-to-consumer,"BRV Capital Management, Bualuang Ventures",2016,Series B,$375M
+297,Paystand,$1B,8/2/2022,United States,Scotts Valley,Fintech,"BlueRun Ventures, LEAP Global Partners, Cervin Ventures",2014,Series D,$80M
+298,Stability AI,$1B,10/5/2022,United Kingdom,London,Artificial intelligence,"Lightspeed Venture Partners, Coatue Management",2019,Seed VC,$101M
+299,EcoVadis,$1B,6/14/2022,France,Paris,"Supply chain, logistics, & delivery","Astorg Partners, Princeville Global, Beyond Net Zero",2007,Secondary Market,$732M
+300,Beamery,$1B,12/13/2022,United Kingdom,London,Artificial intelligence,"Index Ventures, EQT Ventures, Workday Ventures",2014,Series D,$223.06M
+301,Xanadu,$1B,11/9/2022,Canada,Toronto,Hardware,"BDC Capital, Georgian, Bessemer Venture Partners",2016,Series C,$234.47M
+302,Flow,$1B,8/15/2022,United States,New York,Fintech,Andreessen Horowitz,2022,Other Investors,None
+303,Turntide Technologies,$1B,6/15/2022,United States,Sunnyvale,Auto & transportation,"Meson Capital Partners, Fifth Wall Ventures, OGCI Climate Investments",2013,Series C,$487.81M
+304,Vesttoo,$1B,10/25/2022,Israel,Tel Aviv-Yafo,Fintech,"Mouro Capital, Hanaco Venture Capital, Gramercy Ventures",2018,Series C,$101M
+305,Celestia,$1B,10/19/2022,Liechtenstein,Vaduz,Internet software & services,"Placeholder Capital, Coinbase Ventures, Binance Ventures",2020,Series A,$59.23M
+306,Wheel,$1.01B,1/19/2022,United States,Austin,Health,"Silverton Partners, Tusk Ventures, CRV",2018,Series C,$215.6M
+307,Satispay,$1B,9/28/2022,Italy,Milan,Fintech,"Lightrock, Greyhound Capital, Endeavor",2013,Series D,$466.54M
+308,Leap Motor,$1.01B,11/20/2018,China,Hangzhou,Auto & transportation,"Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group",2015,IPO,$1.761B
+309,BlackBuck,$1.02B,7/22/2021,India,Bengaluru,"Supply chain, logistics, & delivery","Accel, Sands Capital, International Finance Corporation",2015,Series E,$330.88M
+310,OrCam Technologies,$1.03B,2/20/2018,Israel,Jerusalem,Artificial intelligence,"Intel Capital, Aviv Venture Capital",2010,Series B,$77.4M
+311,Ample,$1.02B,11/11/2021,United States,San Francisco,Hardware,"Shell Ventures, Blackstone, Moore Strategic Ventures",2014,Series C - II,$271.3M
+312,Branch,$1.05B,3/1/2022,United States,Columbus,Fintech,"American Family Ventures, Greycroft, SignalFire",2019,Angel,$221.47M
+313,Mixpanel,$1.05B,11/15/2021,United States,San Francisco,Internet software & services,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",2009,Series C,$284.52M
+314,Density,$1.05B,11/10/2021,United States,San Francisco,Hardware,"Founders Fund, Upfront Ventures, 	01 Advisors",2014,Series D,$217.2M
+315,Sendbird,$1.05B,4/6/2021,United States,San Mateo,Mobile & telecommunications,"FundersClub, Y Combinator, Tiger Global Management",2013,Series C,$219.64M
+316,Jiuxian,$1.05B,7/30/2015,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",2009,Series G,$249.21M
+317,Aprogen,$1.04B,5/31/2019,South Korea,Seongnam-Si,Health,"Lindeman Asia Investment, Nichi-Iko Pharmaceutical",2000,Acq - Pending,$62.12M
+318,Cirkul,$1.07B,6/13/2022,United States,Sarasota,Consumer & retail,"AF Ventures, Siddhi Capital, SC.Holdings",2016,Series C,$111.72M
+319,Rivigo,$1.07B,7/11/2019,India,Gurgaon,"Supply chain, logistics, & delivery","SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors",2014,Acquired,$321.89M
+320,56PINGTAI,$1.08B,1/25/2021,China,Shanghai,"Supply chain, logistics, & delivery","QF Capital, QC Capital, Unicom Innovation Venture Capital",None,Series D,$187.82M
+321,Nxin,$1.08B,9/18/2018,China,Beijing,Internet software & services,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",2015,Series B,$53.05M
+322,Radius Payment Solutions,$1.07B,11/27/2017,United Kingdom,Crewe,Fintech,Inflexion Private Equity,1990,Private Equity,$200.11M
+323,Instabase,$1.05B,10/21/2019,United States,San Francisco,Data management & analytics,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",2015,Series B,$131.94M
+324,CAIS,$1.1B,1/11/2022	,United States,New York,Fintech,"Franklin Templeton, Motive Partners. Apollo Global Management",2009,Private Equity,$398M
+325,0x,$1.05B,4/26/2022,United States,San Francisco,Fintech,"Jump Capital, Pantera Capital, Greylock Partners",2016,Series B,$85.01M
+326,UISEE Technology,$1.08B,1/25/2021,China,Beijing,"Supply chain, logistics, & delivery","Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",2016,Unattributed VC,$154.3M
+327,Mamaearth,$1.07B,12/28/2021,India,Gurgaon,E-commerce & direct-to-consumer,"Fireside Ventures, Sequoia Capital India, Stellaris Venture Partners",2016,Angel - II,$160.3M
+328,Purplle,$1.1B,6/9/2022,India,Mumbai,E-commerce & direct-to-consumer,"Blume Ventures, JSW Ventures, IvyCap Ventures",2012,Series E,$295.71M
+329,Teleport,$1.1B,5/3/2022,United States,Oakland,Cybersecurity,"Kleiner Perkins Caufield & Byers, s28 Capital, Insight Partners",2015,Series C,$171.12M
+330,IntelyCare,$1.1B,4/6/2022,United States,Quincy,Health,"Kaiser Permanente Ventures, Endeavour Vision, LRVHealth",2014,Series C,$173.8M
+331,Recover,$1.1B,6/9/2022,Spain,Banyeres de Mariola,Other,"Goldman Sachs Asset Management, STORY3 Capital Partners",1947,Private Equity - II,$100M
+332,Material Security,$1.1B,5/11/2022,United States,Redwood City,Cybersecurity,"Andreessen Horowitz, Founders Fund",2017,Series C - II,$155M
+333,Imply Data,$1.1B,5/17/2022,United States,Burlingame,Data management & analytics,"Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,",2015,Series D,$215.3M
+334,PhysicsWallah,$1.1B,6/7/2022,India,Uttar Pradesh,Edtech,"GSV Ventures, WestBridge Capital",2016,Series A,$100M
+335,Chief,$1.1B,3/31/2022	,United States,New York,Other,"General Catalyst, Inspired Capital, Flybridge Capital Partners",2017,Series B,$140M
+336,Beyond Identity,$1.1B,2/22/2022,United States,New York,Cybersecurity,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",2019,Series C,$205M
+337,LEAD School,$1.1B,1/13/2022,India,Andheri,Edtech,"WestBridge Capital, GSV Ventures, Elevar Equity",2012,Debt - II,$190.24M
+338,Staffbase,$1.1B,3/15/2022,Germany,Chemnitz,Internet software & services,"Insight Partners, e.ventures, General Atlantic",2014,Series E,$294.2M
+339,eSentire,$1.1B,2/22/2022,Canada,Waterloo,Cybersecurity,"Edison Partners, Georgian Partners, VentureLink",2001,Secondary Market,$287.88M
+340,GlobalBees,$1.1B,12/28/2021,India,New Delhi,E-commerce & direct-to-consumer,"Chiratae Ventures, SoftBank Group, Trifecta Capital",2021,Debt - II,$291.5M
+341,Fundbox,$1.1B,11/30/2021,United States,San Francisco,Fintech,"Khosla Ventures, General Catalyst, Blumberg Capital",2013,Angel,$553.63M
+342,Turing,$1.1B,12/20/2021,United States,Palo Alto,Internet software & services,"Foundation Capital, 	Frontier Ventures, AltaIR Capital",2018,Series D,$136.05M
+343,The Bank of London,$1.1B,11/30/2021,United Kingdom,London,Fintech,"Mangrove Capital Partners,14W. ForgeLight",2018,Seed VC,$90M
+344,Daily Harvest,$1.1B,11/16/2021,United States,New York,E-commerce & direct-to-consumer,"M13, Lightspeed Venture Partners, Lone Pine Capital",2014,Series D,$120.98M
+345,Nowports,$1.1B,5/24/2022,Mexico,Monterrey,"Supply chain, logistics, & delivery"," Monashees+, Foundation Capital, Base10 Partners",2018,Series C,$239.55M
+346,apna,$1.1B,9/15/2021,India,Bengaluru,Internet software & services,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",2019,Series C,$192.5M
+347,G2,$1.1B,6/22/2021,United States,Chicago,Internet software & services,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",2012,Series D,$265.07M
+348,Sunbit,$1.1B,5/20/2021,United States,Los Angeles,Fintech,"Zeev Ventures, Group11, Chicago Ventures",2016,Line of Credit,$447.67M
+349,Caribou,$1.1B,5/23/2022,United States,Denver,Fintech," CMFG Ventures, Accomplice, Moderne Ventures",2016,Series C,$188.64M
+350,Acko General Insurance,$1.1B,10/28/2021,India,Bengaluru,Fintech,"Intact Ventures, Munich Re Ventures, General Atlantic",2016,Series E,$428M
+351,Karat,$1.1B,10/13/2021,United States,Seattle,Internet software & services,"8VC, Norwest Venture Partners, Tiger Global Management",2014,Angel,$151.6M
+352,Carousell,$1.1B,9/15/2021,Singapore,,E-commerce & direct-to-consumer,"500 Global, Rakuten Ventures, Golden Gate Ventures",2012,Private Equity - II,$443M
+353,Qingting FM,$1.1B,6/2/2021,China,Shanghai,Internet software & services,"China Culture Industrial Investment Fund, We Capital, China Minsheng Investment Group",None,Corporate Minority - III,$163.7M
+354,Enpal,$1.1B,10/18/2021,Germany,Berlin,Internet software & services,"HV Capital, Softbank Group, BlackRock",2017,Series D,$1.836B
+355,Zego,$1.1B,3/9/2021,United Kingdom,London,Fintech,"LocalGlobe, Balderton Capital, Target Global",None,None,None
+356,Hailo,$1B,10/12/2021,Israel,Tel Aviv,Artificial intelligence,"Glory Ventures, Maniv Mobility",2017,Series C,$217M
+357,Nexthink,$1.1B,2/8/2021,Switzerland,Prilly,Data management & analytics,"Auriga, Galeo Ventures, Highland Europe",2004,Series D - II,$329.9M
+358,Rightway,$1.1B,3/30/2021,United States,New York,Health,"Thrive Capital, Khosla Ventures, Tiger Global Management",2017,Series C,$130M
+359,OVH,$1.1B,8/15/2016,France,Roubaix,Other,"KKR, TowerBrook Capital Partners",1999,Line of Credit - II,$1.243B
+360,Pharmapacks,$1.1B,11/12/2020,United States,Islandia,E-commerce & direct-to-consumer,The Carlyle Group,2010,Private Equity,$476M
+361,Sennder,$1.1B,1/14/2021,Germany,Berlin,"Supply chain, logistics, & delivery","Accelm Scania Growth Capital, Lakestar",2015,Series D - II,$310.02M
+362,Juanpi,$1.1B,4/14/2016,China,Wuhan,E-commerce & direct-to-consumer,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",2012,Series C,$136.05M
+363,Ivalua,$1.1B,5/21/2019,United States,Redwood City,Fintech,"Ardian, Tiger Global Management, KKR",2000,Private Equity - III,$133M
+364,AppDirect,$1.1B,10/7/2015,United States,San Francisco,E-commerce & direct-to-consumer,"Mithril, iNovia Capital, Foundry Group",2009,Series H,$558.36M
+365,Sisense,$1.1B,1/9/2020,United States,New York,Data management & analytics,"Opus Capital, Genesis Partners, Battery Ventures",2004,Series F,$278M
+366,GetYourGuide,$1.1B,5/16/2019,Germany,Berlin,Travel,"Spark Capital, Highland Europe, Sunstone Capital",2009,Debt,$884.79M
+367,Invoca, $1.1B,6/14/2022,United States,Santa Barbara,Artificial intelligence,"Upfront Ventures, Accel, Industry Ventures",2008,Series F,$203.25M
+368,Flexe, $1B,4/21/2022,United States,Seattle,"Supply chain, logistics, & delivery","Redpoint Ventures, Prologis Ventures, Madrona Venture Group",2013,Series D,$262.55M
+369,At-Bay,$1.12B,7/27/2021,United States,Mountain View,Fintech,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",2016,Series D - II,$292M
+370,TELD,$1.12B,12/16/2019,China,Qingdao,Fintech,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",2014,Series A,$193.24M
+371,DANA,$1.13B,8/10/2022,Indonesia,Jakarta,Fintech,"Ant Group, Lazada, Sinar Mas Indonesia",2017,Series A,$554.5M
+372,TangoMe,$1.1B,3/20/2014,United States,Mountain View,Mobile & telecommunications,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",2009,Series D,$373.44M
+373,Visby Medical, $1.12 B,3/1/2022,United States,San Jose,Health,"Artiman Ventures, Pitango Venture Capital, Valo Ventures",2015,Series E - II,$369.13M
+374,Wasabi, $1.1B,9/27/2022,United States,Boston,Internet software & services,"Forestay Capital, Alumni Ventures, NTT DoCoMo Ventures",2015,Series D - II,$546.47M
+375,Elemy,$1.15B,10/6/2021,United States,San Francisco,Health,"General Catalyst, Bling Capital, Felicis Ventures",None,Loan,$10K
+376,Venafi,$1.15B,12/10/2020,United States,Salt Lake City,Cybersecurity,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",2000,Private Equity,$174M
+377,Rebellion Defense,$1.15B,9/16/2021,United States,Washington DC,Artificial intelligence,"Venrock, Innovation Endeavors, Insights Partners",2019,Series B,$150M
+378,Happy Money,$1.15B,2/8/2022,United States,Tustin,Fintech,"FirstMark Capital, Anthemis, CMFG Ventures",2009,Series D - II,$444.63M
+379,IRL,$1.17B,6/15/2021,United States,San Francisco,Internet software & services,"Goodwater Capital, Floodgate, Founders Fund",2017,Series C,$197M
+380,SOURCE Global, $1.16 B,4/29/2022,United States,Scottsdale,Other,"Breakthrough Energy Ventures, Material Impact, 3x5 Special Opportunity Partners",2014,Series D,$233.12M
+381,Tuhu,$1.16B,9/15/2018,China,Shanghai,Auto & transportation,"Qiming Venture Partners, Yaxia Automobile, Far East Horizon",2011,Series E,$580.45M
+382,Yimidida,$1.17B,1/14/2019,China,Shanghai,"Supply chain, logistics, & delivery","Source Code Capital, Global Logistic Properties, K2VC",2015,Series D - III,$553.61M
+383,Luoji Siwei,$1.18B,7/20/2017,China,Beijing,Edtech,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",2012,Series D,$188.15M
+384,Younited, $1.16 B,12/8/2022,France,Paris,Fintech,"Weber Investissements, Schibsted Growth",2009,Series G - II,$508.9M
+385,LifeMiles,$1.15B,7/13/2015,Colombia,Bogota,Other,Advent International,2011,Private Equity,$343.7M
+386,Modern Health,$1.17B,2/11/2021,United States,San Francisco,Health,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",2017,Series D,$168.06M
+387,Mininglamp Technology,$1.19B,3/27/2019,China,Beijing,Artificial intelligence,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China",2014,Series E - II,$1.003B
+388,Guideline,$1.15B,6/16/2021,United States,San Mateo,Fintech,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",2015,Series E,$339M
+389,L&P Cosmetic,$1.19B,1/1/2016,South Korea,Seoul,Consumer & retail,CDIB Capital,2009,Corporate Minority - III,$118.64M
+390,Spectrum Medical,$1.2B,7/18/2022,United Kingdom,Gloucester,Health,CVC Capital Partners,2007,Private Equity,None
+391,Choco,$1.2B,4/12/2022,Germany,Berlin,E-commerce & direct-to-consumer,"Bessemer Venture Partners, G Squared, Insight Partners",2018,Series B - III,$279.18M
+392,Unit,$1.2B,5/17/2022,United States,New York,Fintech,"Accel, Better Tomorrow Ventures, Flourish Ventures",2019,Series C,$169.6M
+393,Swiftly,$1.2B,9/19/2022,United States,Seattle,Mobile & telecommunications,"Mendacre, BRV Capital Management, Liquid 2 Ventures",2018,Series C,$215.6M
+394,Phantom,$1.2B,1/31/2022,United States,San Francisco,Fintech,"Paradigm, Andreessen Horowitz, Jump Capital",2021,Series B,$118.5M
+395,CloudBees,$1.15B,12/9/2021,United States,San Jose,Data management & analytics,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",2010,Unattributed VC,$368.96M
+396,LivSpace,$1.2B,2/8/2022,India,Bengaluru,E-commerce & direct-to-consumer,"Jungle Ventures, Helion Venture Partners, INGKA Investments",2015,Series F,$371.69M
+397,Nova Labs,$1.2B,2/22/2022,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management, FTX Venture",2013,Series D - II,$251M
+398,stori,$1.2B,7/15/2022,Mexico,Juarez,Fintech,"Vision Plus Capital, 	Source Code Capital, Lightspeed Venture Partners",2019,Debt - II,$404.5M
+399,Xpressbees,$1.2B,2/9/2022,India,Pune,"Supply chain, logistics, & delivery","Norwest Venture Partners, Investcorp, Blackstone",2012,Secondary Market,$472.94M
+400,BigPanda,$1.2B,1/12/2022,United States,Mountain View,Artificial intelligence,"Advent International, Battery Ventures, Sequoia Capital Israel",2012,Series D - II,$307.5M
+401,Viz.ai,$1.2B,4/7/2022,United States,San Francisco,Artificial Intelligence,"Kleiner Perkins Caufield & Byers, CRV, Threshold Ventures",2016,Series D,$249.55M
+402,Merama,$1.2B,12/9/2021,Mexico,Mexico City,E-commerce & direct-to-consumer,"SoftBank Latin America Fund, Advent International, Balderton Capital",2020,Series B - II,$445M
+403,Jokr,$1.2B,12/2/2021,United States,New York,"Supply chain, logistics, & delivery","GGV Capital, Tiger Global Management, Greycroft",2021,Series B,$430M
+404,SeekOut,$1.2B,1/12/2022,United States,Bellevue,Internet software & services,"Mayfield, Madrona Venture Group, Tiger Global Management",2017,Series C,$188.2M
+405,Pristyn Care,$1.4B,12/7/2021,India,Gurugram,Health,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",2018,Series E,$176.67M
+406,AgentSync,$1.2B,12/7/2021,United States,Denver,Fintech,"Craft Ventures, Caffeinated Capital, Operator Collective",2018,Series B,$111.1M
+407,MindTickle,$1.2B,8/3/2021,United States,San Francisco,Internet software & services,"Qualcomm Ventures, Accel, Canaan Partners",2012,Series E,$281.3M
+408,FloQast,$1.2B,7/21/2021,United States,Los Angeles,Fintech,"Polaris Partners, Insight Partners, Norwest Venture Partners",2013,Series D,$181.5M
+409,Copado,$1.2B,9/13/2021,United States,Chicago,Data management & analytics,"Insight Partners, Salesforce Ventures, Perpetual Investors",2013,Series C,$276.05M
+410,Vectra Networks,$1.2B,4/29/2021,United States,San Jose,Artificial intelligence,"IA Ventures, Khosla Ventures, AME Cloud Ventures",2011,Series F,$352.48M
+411,SmartMore,$1.2B,6/24/2021,China,Shenzhen,Artificial Intelligence,"IDG Capital, ZhenFund, Sequoia Capital China",2019,Series B,$300M
+412,Rohlik Group,$1.2B,7/1/2021,Czech Republic,Prague,"Supply chain, logistics, & delivery","Partech Partners, Index Ventures, Quadrille Capital",2014,Series D,$578.79M
+413,Prime Medicine,$1.2B,7/13/2021,United States,Cambridge,Health,"Newpath Partners, Google Ventures, F-Prime Capital",2007,Other Investors,None
+414,Ada Support,$1.2B,5/7/2021,Canada,Toronto,Artificial intelligence,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",2016,Series C,$190.73M
+415,Aibee,$1.2B,4/13/2021,China,Beijing,Artificial intelligence,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",2017,Series C,$175.31M
+416,Pipa Coding,$1.2B,3/25/2021,China,Beijing,Edtech,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",2017,Series C,$267.73M
+417,Qumulo,$1.2B,7/16/2020,United States,Seattle,Data management & analytics,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",2012,Series E,$345.5M
+418,Yiguo,$1.2B,11/9/2016,China,Shanghai,"Supply chain, logistics, & delivery","Alibaba Group, KKR, Goldman Sachs",2005,Series D,$800M
+419,Tealium,$1.2B,2/3/2021,United States,San Diego,Internet software & services,"Georgian Partners, Silver Lake, Presidio Ventures",2008,Series G,$263.9M
+420,Fair,$1.2B,12/20/2018,United States,Santa Monica,Auto & transportation,"CreditEase Fintech Investment Fund, BMW i Ventures, SoftBank Group",None,Series A,$20M
+421,Workhuman,$1.2B,6/23/2020,Ireland,Dublin,Internet software & services,ICG,1999,Secondary Market,$11.3M
+422,Zip,$1.2B,5/25/2022,United States,San Francisco,Fintech,"	CRV, Tiger Global Management, Y Combinator",2020,Series B,$68.13M
+423,Kallyope, $1.22 B,2/15/2022,United States,New York,Health,"The Column Group, Alexandria Venture Investments, Lux Capital",2015,Series D,$479M
+424,Spiber,$1.22B,9/8/2021,Japan,Tsuruoka,Other,"Cool Japan Fund, JAFCO, The Carlyle Group",2007,Private Equity,$911.62M
+425,Insider,$1.22B,2/28/2022,Turkey,Istanbul,Internet software & services,"Wamda Capital, Endeavor, Riverwood Capital",2012,Series D,$166.2M
+426,MyGlamm,$1.2B,11/10/2021,India,Mumbai,E-commerce & direct-to-consumer,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",2015,Series D,$283.88M
+427,Offchain Labs,$1.2B,8/31/2021,United States,Princeton,Internet software & services,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",2018,Series B,$123.7M
+428,Gem,$1.2B,9/28/2021,United States,San Francisco,Internet software & services,"Accel, Greylock Partners, Meritech Capital Partners",2017,Series C,$146M
+429,Cava Group,$1.3B,4/27/2021,United States,Washington,Other,"SWaN & Legend Ventures, Revolution Growth, Invus Group",2010,Series F,$678.35M
+430,DailyPay,$1.2B,5/18/2021,United States,New York,Fintech,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",2016,Line of Credit - II,$817.5M
+431,CarDekho,$1.2B,10/13/2021,India,Jaipur,E-commerce & direct-to-consumer,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",2008,Debt - II,$536.1M
+432,Glossier,$1.65B,3/19/2019,United States,New York,Consumer & retail,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",2014,Debt,$267.4M
+433,Pilot.com,$1.2B,3/26/2021,United States,San Francisco,Fintech,"Index Ventures, Sequoia Capital, Bezos Expeditions",None,Seed VC,None
+434,SeatGeek,$1.24B,8/31/2022,United States,New York,E-commerce & direct-to-consumer,"Accel, Founder Collective, Brainchild Holdings",2009,Series E,$405.65M
+435,Enflame,$1.24B,1/5/2021,China,Shanghai,Hardware,"Tencent Holdings, Delta Capital, Redpoint Ventures China",2018,Series C - III,$470.52M
+436,Route,$1.25B,1/21/2022,United States,Lehi,"Supply chain, logistics, & delivery","Madrona Venture Group, Banner Ventures, FJ Labs",2018,Series B - II,$280.4M
+437,airSlate,$1.25B,6/16/2022,United States,Brookline,Internet software & services,"G Squared, UiPath Ventures, General Catalyst",2006,Series B - II,$171.5M
+438,Mythical Games,$1.25B,11/4/2021,United States,Sherman Oaks,Internet software & services,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",2018,Series C,$260M
+439,Incode Technologies,$1.25B,12/7/2021,United States,San Francisco,Cybersecurity,"Dila Capital, Framework Ventures, 3L",2015,Series B,$255M
+440,Nexii,$1.23B,9/8/2021,Canada,Vancouver,Other,"Trane Technologies, Honeywell",2020,Loan - II,$136.64M
+441,Kuaikan Manhua,$1.25B,12/1/2017,China,Beijing,Internet software & services,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",2014,Series F,$595M
+442,Marshmallow,$1.25B,9/8/2021,United Kingdom,London,Fintech,"Passion Capital, Hedosophia, Outrun Ventures",2017,Angel,$116.88M
+443,CaptivateIQ,$1.25B,1/26/2022,United States,San Francisco,Fintech,"Sequoia Capital, Y Combinator, Accel",2014,Series C,$159.12M
+444,Greater Bay Technology,$1.26B,4/2/2022,China,Guangzhou,Hardware,"Tencent Holdings, Utrust Venture Capital, GF Xinde Investment Management Co.",2020,Series A,$157.15M
+445,ClassDojo,$1.25B,7/21/2022,United States,San Francisco,Edtech,"General Catalyst, Unkork Capital, Tencent Holdings",2011,Series D,$221.12M
+446,Flipdish,$1.25B,1/13/2022,Ireland,Dublin,Internet software & services,"Tencent Holdings, Tiger Global Management, Global Founders Capital",2015,Series C,$156.34M
+447,Equashield,$1.3B,10/6/2022,United States,Port Washington,Health,Nordic Capital,2009,Private Equity,$300M
+448,BrewDog,$1.24B,4/10/2017,United Kingdom,Aberdeen,Consumer & retail,"TSG Consumer Partners, Crowdcube",2007,Crowdfunding,$296.77M
+449,JMGO,$1.26B,3/15/2022,China,Shenzhen,Hardware,"IDG Capital, Yuanda Venture Investment, Primitive Forest Holdings Group",2011,Series E - II,$377.75M
+450,Huisuanzhang,$1.28B,5/24/2021,China,Beijing,Fintech,"IDG Capital, Gaocheng Capital, Chuanrong Capital",2015,Series D,$227.34M
+451,inDriver, $1.23 B,2/1/2021,United States,Mountain View,Auto & transportation ,"Leta Capital, Insight Partners, General Catalyst",2013,Series C,$165M
+452,EQRx,$1.23B,1/11/2021,United States,Cambridge,Health,"Nextech Invest, Casdin Capital, Google Ventures",2020,Acq - Pending,$700M
+453,STORD,$1.3B,9/13/2021,United States,Atlanta,"Supply chain, logistics, & delivery","Dynamo VC, Susa Ventures, Founders Fund",2015,Series D - II,$321.14M
+454,Honor Technology,$1.25B,10/5/2021,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",2014,Series E,$622.12M
+455,WTOIP,$1.27B,4/8/2018,China,Guangzhou,Internet software & services,"Dark Horse Technology Group, Hopu Investment Management, Kefa Capital",None,Unattributed,$306.98M
+456,OVO Energy,$1.28B,2/14/2019,United Kingdom,Bristol,Other,"Mitsubishi Corporation, Mayfair Equity Partners",2009,Corporate Minority,$256M
+457,Intercom,$1.28B,3/27/2018,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management",2011,Series D,$240.25M
+458,Shulan Health,$1.24B,3/1/2021,China,Hangzhou,Health,Qiming Venture Partners,2015,Series D,$85.69M
+459,Clipboard Health,$1.3B,2/1/2022,United States,San Francisco,Internet software & services,"Caffeinated Capital, Initialized Capital, Y Combinator",2016,Series C,$80M
+460,Tackle.io,$1.25B,12/21/2021,United States,Boise,Internet software & services,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",2016,Series C,$155.9M
+461,BigID,$1.25B,12/16/2020,United States,New York,Cybersecurity,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",2015,Series D - V,$246.1M
+462,Loadsmart,$1.3B,2/1/2022,United States,New York,"Supply chain, logistics, & delivery","Chromo Invest, Maersk Growth, BlackRock",2014,Series D,$345.2M
+463,Biofourmis,$1.3B,4/26/2022,United States,Boston,Health,"General Atlantic, CVS Health, MassMutual Ventures",2015,Series D - II,$461.85M
+464,Yubi,$1.3B,3/7/2022,India,Chennai,Fintech,"Insight Partners, B Capital Group, 	Lightspeed Venture Partners",2017,Series B,$227M
+465,CoinTracker,$1.3B,1/27/2022,United States,San Francisco,Fintech,"Initialized Capital, General Catalyst, Kraken Ventures",2017,Series A,$101.62M
+466,Lukka,$1.3B,1/14/2022,United States,New York,Fintech,"Liberty City Ventures, Soros Fund Management, Summer Capital",2014,Series E,$207.3M
+467,Optibus,$1.3B,5/16/2022,Israel,Tel Aviv,"Supply chain, logistics, & delivery","Bessemer Venture Partners, Insight Partners, Pitango Venture Capital",2014,Series D - II,$260M
+468,iTrustCapital,$1.3B,1/11/2022,United States,Long Beach,Fintech,"Left Lane Capital, Walden Venture Capital",2018,Series A - II,$131.2M
+469,TUNGEE,$1.3B,12/15/2021,China,Guangzhou,Artificial Intelligence,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",2016,Series C - II,$171.05M
+470,DistroKid,$1.3B,8/16/2021,United States,New York,Internet software & services,"Insight Partners, Silversmith Capital Partners, Spotify",2013,Unattributed VC,None
+471,YugaByte,$1.3B,10/28/2021,United States,Sunnyvale,Data management & analytics,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",2016,Series C,$290M
+472,Manner,$1.3B,12/24/2020,China,Shanghai,Other,"Coatue Management, H Capital, Capital Today",2015,Corporate Minority,$11.54M
+473,Domestika,$1.3B,1/27/2022,United States,Berkeley,Internet software & services,"Zeev Ventures, GSV Ventures",2012,Series D,$200M
+474,Flock Freight,$1.3B,10/20/2021,United States,Encinitas,"Supply chain, logistics, & delivery","SignalFire, GLP Capital Partners, Google Ventures",2015,Series D,$399.7M
+475,LinkTree,$1.3B,3/16/2022,Australia,Melbourne,Internet software & services,"AirTree Ventures, Insight Partners, Index Ventures",2016,Series C,$165.7M
+476,InSightec,$1.3B,3/6/2020,Israel,Tirat Carmel,Health,"York Capital Management, GE Healthcare, Koch Disruptive Technologies",1999,Line of Credit,$659.05M
+477,Betterment,$1.3B,9/29/2021,United States,New York,Fintech,"Bessemer Venture Partners, Menlo Ventures, Anthermis",2010,Series F,$435M
+478,HeartFlow,$1.3B,12/4/2017,United States,Redwood City,Health,"BlueCross BlueShield Venture Partners, US Venture Partners",2007,Series F,$542.41M
+479,Konfio,$1.3B,9/29/2021,Mexico,Mexico City,Fintech,"Kaszek Ventures, QED Investors, International Finance Corporation",2013,Loan,$834.59M
+480,Everly Health,$1.3B,12/3/2020,United States,Austin,Health,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",2015,Secondary Market,$255.55M
+481,TalkingData,$1.3B,1/6/2021,China,Beijing,Mobile & telecommunications,"N5 Capital, CR Capital Mgmt, JD Digits",2013,Series E,$310M
+482,MasterControl,$1.3B,12/15/2022,United States,Salt Lake City,Health,InnoVentures Capital Partners,1993,Series A,$157.5M
+483,TravelPerk,$1.3B,1/12/2022,Spain,Barcelona,Travel,"LocalGlobe, Kinnevik, Felix Capital",2015,Series D - II,$408.58M
+484,Alzheon,$1.31B,9/30/2020,United States,Framingham,Health,"ARCH Venture Partners, Ally Bridge Group",2013,Unattributed,$141.97M
+485,Shiprocket,$1.3B,8/16/2022,India,New Delhi,"Supply chain, logistics, & delivery","Bertelsmann India Investments, March Capital Partners, Tribe Capital, Nirvana Venture Advisors",2012,Unattributed VC,$320.5M
+486,Tongdun Technology,$1.32B,4/25/2019,China,Hangzhou,Cybersecurity,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",2013,Series E,$361.44M
+487,GPclub,$1.32B,10/22/2018,South Korea,Seoul,Other,Goldman Sachs,2003,Unattributed,$66.16M
+488,Flipboard,$1.32B,7/22/2015,United States,Palo Alto,Internet software & services,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",2010,Unattributed VC,$235.51M
+489,Unisound,$1.31B,7/19/2018,China,Beijing,Artificial intelligence,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",2012,Series D - II,$339.11M
+490,Athletic Greens,$1.32B,1/25/2022,United States,New York,Health,"SC.Holdings, Not Boring Capital, Bolt Ventures",2010,Unattributed VC,$115M
+491,RIDI,$1.33B,1/24/2022,South Korea,Seoul,E-commerce & direct-to-consumer,"Atinum Investment, Company K Partners, GIC",2008,Unattributed VC,$331.23M
+492,Yaoshibang,$1.35B,6/15/2021,China,Guangzhou,Health,"Green Pine Capital Partners, Ivy Capital, DCM Ventures",2015,Series E,$497.19M
+493,Epirus,$1.35B,2/14/2022,United States,Hawthorne,Other,"8VC, Bedrock Capital, Broom Ventures",2018,Series C - II,$291.62M
+494,Jaguar Microsystems,$1.34B,6/23/2022,China,Shenzhen,Hardware,"Tencent Holdings, Glory Ventures, Shenzhen Capital Group",2020,Series B,None
+495,Signifyd,$1.34B,4/15/2021,United States,San Jose,Fintech,"Menlo Ventures, Resolute Ventures, IA Ventures",2011,Series E,$411.2M
+496,Motorway,$1.33B,11/29/2021,United Kingdom,London,E-commerce & direct-to-consumer,"Marchmont Ventures, BMW i Ventures, Index Ventures",2017,Series C,$274.59M
+497,DeepBlue Technology,$1.35B,4/16/2018,China,Shanghai,Artificial intelligence,"DESUN Capital, Yunfeng Capital, Meridian Capital",2014,Unattributed,$79.28M
+498,Klook,$1.35B,8/7/2018,Hong Kong,Central,Travel,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",2014,Series E,$721.19M
+499,Neon,$1.38B,2/14/2022,Brazil,Sao Paulo,Fintech,"Propel Venture Partners, Monashees+, BBVA",None,Other Investors,None
+500,Panther Labs,$1.4B,12/2/2021,United States,San Francisco,Cybersecurity,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",2018,None,None
+501,Nimble Rx,$1.4B,6/14/2022,United States,Redwood City,Health,"Sequoia Capital, Four Rivers Group, DAG Ventures",2014,Series E,$43.25M
+502,Movable Ink,$1.36B,4/28/2022,United States,New York,Internet software & services,"Contour Venture Partners, Intel Capital, Silver Lake",2010,Series D,$97.56M
+503,Tripledot,$1.4B,2/14/2022,United Kingdom,London,Mobile & telecommunications,"Lightspeed Venture Partners, Access Industries, Eldridge",2017,Series B,$202M
+504,Scalable Capital,$1.4B,6/8/2021,Germany,Munich,Fintech,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",2014,Series E,$314.28M
+505,VideoAmp,$1.4B,10/21/2021,United States,Los Angeles,Internet software & services,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",2014,Shareholder Liquidity,$437.1M
+506,Salt Security,$1.4B,2/10/2022,United States,Palo Alto,Cybersecurity,"Y Combinator, S Capital, Tenaya Capital",2016,Unattributed VC,$270.74M
+507,Astranis Space Technologies,$1.4B,4/14/2021,United States,San Francisco,Mobile & telecommunications,"Refactor Capital, Andreessen Horowitz, Fifty Years Fund",2015,Series C,$358.07M
+508,Degreed,$1.4B,4/13/2021,United States,Pleasanton,Edtech,"Signal Peak Ventures, Owl Ventures, Jump Capital",2012,Series D,$385.92M
+509,Phenom People,$1.4B,4/7/2021,United States,Ambler,Internet software & services,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",2011,Series D,$163.02M
+510,Stash,$1.4B,2/3/2021,United States,New York,Fintech,"Goodwater Capital, Entree Capital, Valar Ventures",2015,Debt,$491.85M
+511,OneCard,$1.4B,7/13/2022,India,Pune,Fintech,"Sequoia Capital India, Hummingbird Ventures, Matrix Partners India",2019,Series D,$224.62M
+512,Coda,$1.4B,7/8/2021,United States,Mountain View,Internet software & services,"Greylock Partners, General Catalyst, Khosla Ventures",None,None,None
+513,boAT,$1.4B,10/28/2022,India,Mumbai,Consumer & retail,"Qualcomm Ventures, Fireside Ventures",2016,Series C,$236.04M
+514,Rad Power Bikes,$1.4B,10/28/2021,United States,Seattle,Auto & transportation,"Durable Capital Partners, Cercano Management, 	T. Rowe Price",2007,Series D,$329.32M
+515,Paddle,$1.4B,5/9/2022,United Kingdom,London,Fintech,"Notion Capital, Kindred Capital, BGF Ventures",2012,Debt,$292.76M
+516,Rebel Foods,$1.4B,10/7/2021,India,Pune,E-commerce & direct-to-consumer,"Sequoia Capital India, Lightbox Ventures, Coatue Management",2011,Debt - VIII,$523.18M
+517,Clarify Health,$1.4B,4/5/2022,United States,San Francisco,Health,"KKR, Aspenwood Ventures, Spark Capital",2015,Series D,$389.94M
+518,Bucketplace,$1.4B,5/9/2022,South Korea,Seoul,E-commerce & direct-to-consumer,"IMM Investment, Mirae Asset Capital, BOND",2014,Series D,$256.56M
+519,Yotpo,$1.4B,3/18/2021,United States,New York,Internet software & services,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",2011,Corporate Minority,$436M
+520,The Brandtech Group,$1.3B,11/19/2019,United States,New York,Other,Undisclosed,None,None,None
+521,Firebolt,$1.4B,1/26/2022,Israel,Tel Aviv,Data management & analytics,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",2019,Series C,$264M
+522,Cabify,$1.4B,1/22/2018,Spain,Madrid,Auto & transportation,"Seaya Ventures, Otter Rock Capital, Rakuten",2011,Corporate Minority,$523.6M
+523,Envoy,$1.4B,1/11/2022,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",2020,Pre-Seed,$770K
+524,Koudai,$1.4B,10/23/2014,China,Beijing,E-commerce & direct-to-consumer,"New Enterprise Associates, Tiger Global management, Tencent",2010,Series C,$362M
+525,Kong,$1.4B,12/31/2020,United States,San Francisco,Internet software & services,"New Enterprise Associates, CRV, Index Ventures",2007,Series D,$170.5M
+526,Away,$1.4B,5/15/2019,United States,New York,E-commerce & direct-to-consumer,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",2015,Convertible Note,$181.1M
+527,Symphony,$1.4B,5/16/2017,United States,New York,Fintech,"BNP Paribas, Goldman Sachs, Google",2014,Series E,$461M
+528,Hive Box,$1.4B,1/23/2018,China,Shenzhen,"Supply chain, logistics, & delivery","Eastern Bell Capital, SF Holding Co, STO Express",2015,Series B,$1.24B
+529,Yidian Zixun,$1.4B,10/17/2017,China,Beijing,Mobile & telecommunications,"Phoenix New Media, Tianjin Haihe Industry Fund",2021,Unattributed - II,$20.55M
+530,Epidemic Sound,$1.4B,3/11/2021,Sweden,Stockholm,Internet software & services,"EQT Partners, Blackstone",2009,Secondary Market,$476.14M
+531,Deliverect,$1.4B,1/24/2022,Belgium,Ghent,Fintech,"Newion Partners, SmartFin Capital, OMERS Ventures",2018,Series D,$235.89M
+532,Papa,$1.4B,11/4/2021,United States,Miami,Health,"Initialized Capital, Canaan Partners, Sound Ventures",2016,Series D,$242.05M
+533,Amagi,$1.4B,3/16/2022,India,Bengaluru,Internet software & services,"Mayfield, Accel, Norwest Venture Partners",2008,Series F - II,$336.69M
+534,SparkCognition,$1.4B,1/25/2022,United States,Austin,Artificial intelligence,"March Capital Partners, Temasek, Doha Venture Capital",2013,Series D,$290.88M
+535,SonderMind,$1.42B,7/28/2021,United States,Denver,Health,"Kickstart Fund, General Catalyst, Drive Capital",2014,Series C,$182.5M
+536,Figment,$1.4B,12/20/2021,Canada,Toronto,Internet software & services,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",2018,Series C,$163.84M
+537,Ouyeel,$1.45B,6/27/2019,China,Shanghai,Internet software & services,Taigang Venture Capital,2015,Series B,$433.72M
+538,M1,$1.45B,7/14/2021,United States,Chicago,Fintech,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",2015,Series E,$328.17M
+539,Justworks,$1.43B,1/28/2020,United States,New York,Internet software & services,"Index Ventures, Thrive Capital, Bain Capital Ventures",2012,Series E,$143M
+540,VTS,$1.47B,5/7/2019,United States,New York,Internet software & services,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",2012,Series E,$452.18M
+541,Aleo,$1.45B,2/7/2022,United States,San Francisco,Cybersecurity,"Slow Ventures, Andreessen Horowitz, SoftBank Group",2019,Series B,$228M
+542,Yipin Shengxian,$1.49B,3/11/2019,China,Hefei,E-commerce & direct-to-consumer,"Eastern Bell Capital, Capital Today, Longzhu Capital",2017,Series D,$658.49M
+543,Valgen Medtech,$1.43B,5/6/2021,China,Hangzhou,Health,"Sequoia Capital China, China Life Investment Holding Company, Qiming Venture Partners",2015,Series B,$133M
+544,Bordrin Motors,$1.48B,6/3/2019,China,Shanghai,Auto & transportation,"China Grand Prosperity Investment, CSC Group",2016,Unattributed VC,$361M
+545,Shukun Technology,$1.46B,8/16/2021,China,Beijing,Artificial Intelligence,"Marathon Venture Partners, Huagai Capital, China Creation Ventures",2017,Series D,$247.65M
+546,Arcadia,$1.48B,5/10/2022,United States,DC,Other,"BoxGroup, Energy Impact Partners, Camber Creek",2014,Unattributed - II,$569.91M
+547,Dock,$1.5B,5/12/2022,Brazil,Sao Paulo,Fintech,"Viking Global Investors, Riverwood Capital, Lightrock",1997,Series B,$280M
+548,Boba,$1.5B,4/5/2022,United States,San Francisco,Fintech,"DeFi Technologies, Hypersphere Ventures, M13",2021,Series A,$45M
+549,Veho,$1.5B,12/21/2021,United States,Boulder,"Supply chain, logistics, & delivery","General Catalyst, Origin Ventures, Fontinalis Partners",2016,Series B,$299.28M
+550,Upside,$1.5B,4/26/2022,United States,DC,Mobile & telecommunications,"Bessemer Venture Partners, Builders VC, General Catalyst",2016,Series D,$165M
+551,Temporal,$1.5B,2/16/2022,United States,Bellevue,Internet software & services,"Amplify Partners, Addition, Madrona Venture Group",2019,Series B,$121.75M
+552,ElasticRun,$1.5B,2/7/2022,India,Pune,"Supply chain, logistics, & delivery","Kalaari Capital, Norwest Venture Partners, Prosus Ventures",2016,Series E,$432.11M
+553,Juma Peisong,$1.45B,11/26/2018,China,Chengdu,"Supply chain, logistics, & delivery","Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",2011,Series C,$281.38M
+554,5ire, $1.50 B,7/15/2022,United Kingdom,London,Internet software & services,"Global Emerging Markets, Sram & Mram Group, Marshland Capital",2021,Series A,$210M
+555,Coocaa,$1.45B,3/16/2018,China,Shenzhen,Hardware,"Baidu, Tencent Holdings",2006,Corporate Minority - IV,$226.6M
+556,Prometheus, $1.50 B,9/23/2021,United States,Santa Cruz,Other,"BMW i Ventures, Metaplanet, Maersk Growth",2018,Series B,$150K
+557,Einride,$1.44B,12/31/2021,Sweden,Stockholm,Auto & transportation,"Temasek,	BUILD Capital Partners, 	Northzone Ventures",2016,Series C,$650.82M
+558,Gymshark,$1.45B,8/14/2020,United Kingdom,Solihull,E-commerce & direct-to-consumer,General Atlantic,2012,Growth Equity,$300M
+559,Fabric,$1.5B,2/24/2022,United States,Bellevue,E-commerce & direct-to-consumer,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",2017,Series C,$292.58M
+560,Mashgin,$1.5B,5/9/2022,United States,Palo Alto,Artificial intelligence,"New Enterprise Associates, Matrix Partmers, Susa Ventures",2014,Series B,$62.67M
+561,Veriff,$1.5B,1/26/2022,Estonia,Tallinn,Artificial intelligence,"Accel, Institutional Venture Partners, Tiger Global Management",2015,Series C,$192.32M
+562,Zeta,$1.5B,5/24/2021,United States,San Francisco,Fintech,"Sodexo Ventures, SoftBank Group",2015,Series C - II,$303M
+563,Spendesk,$1.5B,1/18/2022,France,Paris,Fintech,"Index Ventures, Eight Roads Ventures, General Atlantic",2015,Series C - II,$300.34M
+564,Il Makiage,$1.5B,1/10/2022,United States,New York,E-commerce & direct-to-consumer,"L Catterton, Franklin Templeton, First Light Capital Group",2018,Secondary Market,$29M
+565,Airbyte,$1.5B,12/17/2021,United States,San Francisco,Internet software & services,"Accel, Benchmark, SV Angel",2020,None,None
+566,StoreDot,$1.5B,1/4/2022,Israel,Herzliya,Other,"Samsung Ventures, SingulariTeam, BP Ventures",2012,Series D - II,$206M
+567,Athelas,$1.5B,1/31/2022,United States,Mountain View,Health,"Sequoia Capital, General Catalyst, 	Human Capital",2016,Series B,$136.08M
+568,Olist,$1.5B,12/15/2021,Brazil,Curitiba,E-commerce & direct-to-consumer,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",2015,Series E,$318.75M
+569,CureFit,$1.5B,11/10/2021,India,Bengaluru,Health,"Chiratae Ventures, Accel, Kalaari Capital",2016,Series F,$679.4M
+570,Lusha,$1.5B,11/10/2021,United States,New York,Internet software & services,"PSG, ION Crossover Partners",2016,Series B,$245M
+571,CoinList,$1.5B,10/15/2021,United States,San Francisco,Fintech,"Accomplice, Polychain Capital, GoldenTree Asset Management",2017,Series A - II,$169.2M
+572,candy.com,$1.5B,10/21/2021,United States,New York,Internet software & services,"Insight Partners, Softbank Group, Connect Ventures",2021,Series A - II,$100M
+573,Paradox,$1.5B,12/27/2021,United States,Scottsdale,Internet software & services,"Brighton Park Capital, Blue Cloud Ventures, Workday Ventures",2016,Series C,$253.46M
+574,Built,$1.5B,9/30/2021,United States,Nashville,Internet software & services,"Nyca Partners, Index Ventures, Technology Crossover Ventures",2015,Unattributed VC,$291.74M
+575,Ascend Money,$1.5B,9/27/2021,Thailand,Bangkok,Fintech,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",2013,Series C,$150M
+576,Andela,$1.5B,9/29/2021,United States,New York,Internet software & services,"Spark Capital, Google Ventures, CRE Venture Capital",2014,Series E,$374.61M
+577,1047 Games,$1.5B,9/14/2021,United States,Zephyr Cove,Internet software & services,"VGames, Lakestar, Galaxy Interactive",2017,Series B,$126.5M
+578,Matillion,$1.5B,9/15/2021,United Kingdom,Altrincham,Data management & analytics,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",2011,Series E - IV,$310.32M
+579,Persona,$1.5B,9/15/2021,United States,San Francisco,Cybersecurity,"Coatue Management, Index Ventures, Founders Fund",2018,Series C,$217.5M
+580,Culture Amp,$1.5B,7/29/2021,Australia,Richmond,Internet software & services,"Felicis Ventures, Index Ventures, Blackbird Ventures",2011,Series F,$258.3M
+581,TaxBit,$1.5B,8/4/2021,United States,Draper,Fintech,"Insight Partners, Coinbase Ventures, PayPal Ventures",2018,Series B - II,$235.75M
+582,Pacaso,$1.5B,3/24/2021,United States,Cincinnati,Fintech,"Global Founders Capital, Shea Ventures, Greycroft",2020,Option/Warrant,$1.482B
+583,impact.com,$1.5B,7/13/2021,United States,Santa Barbara,Internet software & services,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",2008,Secondary Market,$274.15M
+584,YunQuNa,$1.5B,6/29/2021,China,Shanghai,"Supply chain, logistics, & delivery","Source Code Capital, Coatue Management, DCM Ventures",2015,Series D - II,$342.37M
+585,NotCo,$1.5B,7/26/2021,Chile,Santiago,Consumer & retail,"Kaszek Ventures, SOSV, Tiger Global Management",2015,Series D - II,$465.84M
+586,Next Silicon,$1.5B,6/14/2021,Israel,Tel Aviv,Hardware,"Amiti Ventures, Playground Global, Aleph",2018,Series B,$226.6M
+587,Snapdocs,$1.5B,5/25/2021,United States,San Francisco,Fintech,"Sequoia Capital, Y Combinator, F-Prime Capital",2012,Series D,$250M
+588,SmartRecruiters,$1.5B,7/20/2021,United States,San Francisco,Internet software & services,"Mayfield Fund, Insight Partners, Rembrandt Venture Partners",2010,Series E,$214.55M
+589,Chipper Cash,$2B,5/31/2021,United States,San Francisco,Fintech,"Deciens Capital, Bezos Expeditions, 500 Startups",2017,Series C - II,$302.6M
+590,ID.me,$1.5B,3/19/2021,United States,McLean,Cybersecurity,"Moonshots Capital, BoxGroup, Blu Venture Investors",2010,Debt - II,$273.07M
+591,Uplight,$1.5B,3/3/2021,United States,Boulder,Other,"Rubicon Technology Partners, Max Ventures, Inclusive Capital Partners",2019,Unattributed - II,$72.31M
+592,K Health,$1.5B,1/19/2021,United States,New York,Health,"Max Ventures, Mangrove Capital Partners, 14W",2016,Series E,$278M
+593,Strava,$1.5B,11/16/2020,United States,San Francisco,Internet software & services,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",2009,Series F,$179.85M
+594,Zenoti,$1.5B,12/15/2020,United States,Bellevue,Internet software & services,"Norwest Venture Partners, Accel, Tiger Global Management",2010,Series D - II,$341.68M
+595,Ledger,$1.5B,6/10/2021,France,Paris,Hardware,"Digital Currency Group, Draper Esprit, Korelya Capital",2014,Series C,$466.38M
+596,Collective Health,$1.5B,6/17/2019,United States,San Francisco,Fintech,"New Enterprise Associates, Founders Fund, Google Ventures",2013,Series F,$714M
+597,Yijiupi,$1.5B,9/20/2018,China,Beijing,Consumer & retail,"Source Code Capital, Meituan Dianping, Tencent Holdings",2014,Series D - IV,$547.27M
+598,DT Dream,$1.5B,6/8/2017,China,Hangzhou,Data management & analytics,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",2015,Series B,$260.35M
+599,Cambridge Mobile Telematics,$1.5B,12/19/2018,United States,Cambridge,Auto & transportation,SoftBank Group,2010,Corporate Minority,$502.5M
+600,XiaoZhu,$1.5B,11/1/2017,China,Beijing,Travel,"Morningside Ventures, Capital Today, JOY Capital",2012,Series F - II,$500M
+601,JOLLY Information Technology,$1.5B,5/29/2018,China,Hangzhou,E-commerce & direct-to-consumer,"Legend Capital, CDH Investments, Sequoia Capital China",2008,Series C - II,$100.12M
+602,Changingedu,$1.5B,10/30/2017,China,Shanghai,Edtech,"Trustbridge Partners, IDG Capital, Sequoia Capital China",None,Series D,$188M
+603,TuJia,$1.5B,6/17/2015,China,Beijing,Travel,"GGV Capital, QiMing Venture Partnersl",2015,Seed VC,None
+604,Mu Sigma,$1.5B,2/7/2013,United States,Northbrook,Data management & analytics,"Sequoia Capital, General Atlantic",2004,Corporate Minority,$208M
+605,Gett,$1.5B,5/24/2016,United Kingdom,London,Auto & transportation,"Volkswagen, Access Industries, Vostok New Ventures",2010,Series G,$1.057B
+606,Mofang Living,$1.5B,4/13/2016,China,Shanghai,E-commerce & direct-to-consumer,"Warburg Pincus, Aviation Industry Corporation of China",2009,Series D,$710M
+607,Orna Therapeutics,$1.5B,8/16/2022,United States,Cambridge,Health,"MPM Capital, Astellas Venture Management, F2 Ventures",2019,Series B,$321M
+608,First Mode,$1.5B,12/7/2022,United States,Seattle,Other,Anglo American,2018,Corporate Minority,$208.5M
+609,Kushki,$1.5B,6/7/2022,Ecuador,Quito,Fintech,"Clocktower Technology Ventures, DILA Capital, Kaszek Ventures",2015,Series B - II,$186M
+610,OpenWeb,$1.5B,11/9/2021,United States,New York,Internet software & services,"Insight Partners, AltaIR Capital, Norma Investments",2012,Series F,$383M
+611,Carzone,$1.52B,3/1/2019,China,Jiangsu,E-commerce & direct-to-consumer,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",None,Series D - III,$946.49M
+612,Jasper,$1.5B,10/17/2022,United States,Austin,Artificial intelligence,"Foundation Capital, Institutional Venture Partners, Founders Capital",2020,Other Investors,None
+613,Bilt Rewards,$1.5B,10/25/2022,United States,New York,Fintech,"Camber Creek, Kairos HQ, Fifth Wall Ventures",2021,Series B,$210.3M
+614,Wenheyou,$1.55B,4/17/2021,China,Hunan,Other,"Sequoia Capital China, Warburg Pincus, IDG Capital",2013,Series B,$92.44M
+615,Fresh Life Style Supply Chain Management, $1.57 B,3/11/2022,China,Chengdu,"Supply chain, logistics, & delivery","Guiyang Venture Capital, Longfor Capital, CAOGENZHIBEN GROUP",2016,Series B,$92.61M
+616,Baiwang,$1.55B,3/25/2019,China,Beijing,Fintech,"Guozhong Venture Capital Management, Shenzhen Capital Group, Oriental Fortune Capital",2015,Series D,$224.35M
+617,Loom,$1.53B,5/20/2021,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Sequoia Capital, General Catalyst",2016,Series C,$198.58M
+618,ICON 3D, $1.57 B,2/18/2022,United States,Austin,Hardware,"Moderne Ventures, Oakhouse Partners, Bjarke Ingels Group",2018,Grant,$500.22M
+619,Ximalaya FM,$1.52B,9/22/2017,China,Shanghai,Mobile & telecommunications,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",2012,Series D,$70.59M
+620,GalaxySpace,$1.58B,11/17/2020,China,Beijing,Mobile & telecommunications,"Shunwei Capital Partners, 5Y Capital, Legend Capital",2016,Series B - III,None
+621,Iluvatar CoreX,$1.55B,3/1/2021,China,Shanghai,Hardware,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",2015,Series C - III,$185.52M
+622,Alloy,$1.55B,9/30/2021,United States,New York,Fintech,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",2015,Series C - II,$207.92M
+623,Promasidor Holdings,$1.59B,11/8/2016,South Africa,Bryanston,Consumer & retail,"IFC, Ajinomoto",1979,Corporate Minority,$556M
+624,Nord Security,$1.6B,4/7/2022,Lithuania,Vilnius,Cybersecurity,"General Catalyst, BaltCap, Novator Partners",2012,Series A,$100M
+625,Pave,$1.6B,6/28/2022,United States,San Francisco,Internet software & services,"Y Combinator, 	Andreessen Horowitz, Bessemer Venture Partners",2019,Series C,$162.98M
+626,Kitopi,$1.55B,7/1/2021,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery","CE-Ventures, BECO Capital, Nordstar",2018,Series C - II,$802.2M
+627,Vanta,$1.6B,6/7/2022,United States,San Francisco,Cybersecurity,"Craft Ventures, Sequoia Capital, Verissimo Ventures",2016,Series B - III,$203M
+628,Truepill,$1.6B,10/27/2021,United States,Hayward,Health,"Initialized Capital, Sound Ventures, TI Platform Management",2016,Unattributed,$256.06M
+629,Wayflyer,$1.6B,2/1/2022,Ireland,Dublin,Fintech,"QED Investors, DST Global, Left Lane Capital",2019,Mezzanine,$889.2M
+630,Mercury,$1.6B,7/3/2021,United States,San Francisco,Fintech,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",2019,Series B,$150.93M
+631,ASAPP,$1.6B,5/19/2021,United States,New York,Artificial intelligence,"March Capital Partners, HOF Capital, Emergence Capital Partners",2014,Series C,$312.57M
+632,Generate Biomedicines,$1.36B,11/18/2021,United States,Cambridge,Health,"Altitude Life Science Ventures. T. Rowe Price, Morningside Venture Partners",2018,Series B,$370M
+633,Magic Eden,$1.6B,6/21/2022,United States,San Francisco,Fintech,"Sequoia Capital, Lightspeed Venture Partners, Paradigm",2021,Unattributed,$164.06M
+634,ezCater,$1.6B,4/2/2019,United States,Boston,"Supply chain, logistics, & delivery","Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",2007,Series D - III,$420.16M
+635,HomeLight,$1.7B,9/2/2021,United States,San Francisco,Fintech,"Zeev Ventures, Menlo Ventures,Crosslink Capital",2012,Series D - II,$654.6M
+636,SmartHR,$1.6B,6/8/2021,Japan,Tokyo,Fintech,"BEENEXT, World Innovation Lab, Light Street Capital",2013,Series D,$222.34M
+637,Cognite,$1.5B,5/19/2021,Norway,Lysaker,Data management & analytics,"Technology Crossover Ventures, Accel, Aker",2016,Secondary Market,$233.8M
+638,Cresta,$1.6B,3/17/2022,United States,San Francisco,Artificial Intelligence,"Andreessen Horowitz, Greylock Partners, Sequoia Capital",2017,Series C,$151M
+639,Extend,$1.36B,5/18/2021,United States,San Francisco,Fintech,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",2021,None,None
+640,Clio,$1.6B,4/27/2021,Canada,Burnaby,Internet software & services,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",2008,Series E - II,$415.79M
+641,SafetyCulture,$1.6B,5/3/2021,Australia,Sydney,Internet software & services,"Blackbird Ventures, IndexVentures, Tiger Global Management",2004,Series D,$222.81M
+642,Monte Carlo,$1.6B,5/24/2022,United States,San Francisco,Artificial intelligence,"GGV Capital, Accel, Redpoint Ventures",2019,Series D,$236M
+643,Capitolis,$1.6B,3/22/2022,United States,New York,Fintech,"Sequoia Capital, Index Ventures, S Capital",2017,Series D,$281.84M
+644,Clari,$2.6B,3/3/2021,United States,Sunnyvale,Internet software & services,"Sequoia Capital, Bain Capital Ventures, enaya Capital",2012,Series F,$496M
+645,Cao Cao Mobility,$1.6B,1/17/2018,China,Hangzhou,Auto & transportation,"People Electrical Appliance Group China, Zhongrong International Trust",2015,Series B,$968.86M
+646,Afiniti,$1.6B,4/14/2017,Bermuda,Hamilton,Artificial intelligence,GAM Holding,2006,Debt - II,$327.2M
+647,Infinidat,$1.6B,4/29/2015,United States,Waltham,Hardware,"TPG Growth, Goldman Sachs",2011,Series D,$325M
+648,Tonal,$1.6B,3/31/2021,United States,San Francisco,E-commerce & direct-to-consumer,"Mayfield Fund, Shasta Ventures, L Catterton",2015,Angel,$431.4M
+649,DealShare,$1.7B,1/27/2022,India,Bengaluru,E-commerce & direct-to-consumer,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",2018,Series E - II,$391.52M
+650,Transcarent,$1.62B,1/11/2022,United States,San Francisco,Health,"Alta Partners, General Catalyst, Jove Equity Partners",2020,Series C,$298M
+651,solarisBank,$1.65B,7/13/2021	,Germany,Berlin,Fintech,"Yabeo Capital, SBI Investment, Vulcan Capital",2016,Series D,$402.46M
+652,Jusfoun Big Data,$1.62B,7/9/2018,China,Beijing,Data management & analytics,"Boxin Capital, DT Capital Partners, IDG Capital",2010,Unattributed,$137.13M
+653,Optimism,$1.65B,3/17/2022,United States,San Francisco,Internet software & services,"Paradigm, Huobi Ventures, Andreessen Horowitz",2019,Series B,$179.18M
+654,Spotter,$1.7B,2/16/2022,United States,Los Angeles,Fintech,"SoftBank Group, Access Industries, Crossbeam Venture Partners",2019,Unattributed VC - II,$229.99M
+655,ZenBusiness,$1.7B,11/9/2021,United States,Austin,Fintech,"Greycroft, Lerer Hippeau, Geekdom Fund",2015,Unattributed VC - III,$278.21M
+656,H2O.ai,$1.7B,11/7/2021,United States,Mountain View,Artificial intelligence,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",2012,None,None
+657,Reltio,$1.7B,11/4/2021,United States,Redwood City,Data management & analytics,"Crosslink Capital, .406 Ventures, Sapphire Ventures",2011,Series E,$240.5M
+658,CircleCI,$1.7B,5/11/2021,United States,San Francisco,Internet software & services,"Threshold Ventures, Baseline Ventures, Harrison Metal",2011,Series F,$312.5M
+659,Dragos,$1.7B,10/28/2021,United States,Hanover,Cybersecurity,"DataTribe, Energy Impact Partners, AllegisCyber Capital",2016,Series D,$364.2M
+660,FinAccel,$1.66B,8/15/2022,Singapore,,Fintech,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",2015,Series D,$551M
+661,Redesign Health,$1.7B,9/13/2022,United States,New York,Health,"General Catalyst, Samsung NEXT, CVS Health Partners",2018,Series C,$315M
+662,Multiverse,$1.7B,6/8/2022,United Kingdom,London,Edtech,"Lightspeed Venture Partners, Google Ventures, General Catalyst",2016,Series D,$414M
+663,Zhubajie,$1.61B,6/16/2015,China,Chongqing,Internet software & services,"Cybernaut Growth Fund, IDG Capital",None,Series C,$429.6M
+664,Front,$1.7B,6/28/2022,United States,San Francisco,Internet software & services,"Sequoia Capital, Uncork Capital, Salesforce Ventures",2013,Series D,$203.12M
+665,Unite Us,$1.6B,3/16/2021,United States,New York,Health,"Insight Partners, Sequoia Capital, Index Ventures",2014,Series C,$195.3M
+666,Incredible Health,$1.65B,8/17/2022,United States,San Francisco,Health,"Obvious Ventures, Andreessen Horowitz, NFX",2017,Series B,$98.08M
+667,PAX,$1.7B,10/22/2018,United States,San Francisco,Consumer & retail,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",2007,Series E,$544.93M
+668,DispatchHealth,$1.7B,3/3/2021,United States,Denver,Health,"Alta Partners, Questa Capital, Echo Health Ventures",2013,Series E,$740.96M
+669,Carsome,$1.7B,7/12/2021,Malaysia,Selangor,E-commerce & direct-to-consumer,"Gobi Partners, 500 Startups, Ondine Capital",2015,Other Investors,None
+670,Harry's,$1.7B,2/16/2018,United States,New York,Consumer & retail,"Thrive Capital, Tiger Global Management, Temasek",2013,Series E,$659.1M
+671,AlphaSense,$1.7B,6/15/2022,United States,New York,Artificial intelligence,"Viking Global Investors, GS Growth, BlackRock",2011,Debt,$497.36M
+672,Crusoe,$1.75B,4/21/2022,United States,Denver,Internet software & services,"Bain Capital Ventures, Founders Fund, Winklevoss Capital",2018,Unattributed,$747.5M
+673,Orca Security,$1.8B,3/23/2021,United States,Portland,Cybersecurity,"YL Ventures, Redpoint Ventures, GGV Capital",2019,Series C - II,$632M
+674,Wave,$1.7B,9/7/2021,Senegal,Dakar,Fintech,"Stripe, Founders Fund, Partech Partners",None,Corporate Minority,None
+675,Uniswap,$1.66B,10/13/2022,United States,New York,Fintech,"A16z Crypto, Variant Fund, Paradigm",2018,Series B,$178.83M
+676,Productboard,$1.73B,2/2/2022,United States,San Francisco,Internet software & services,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",2014,Series D,$261.3M
+677,Tessera Therapeutics,$1.69B,4/19/2022,United States,Cambridge,Health,"Altitude Life Science Ventures, SoftBank Group, Alaska Permanent Fund",2018,Series C,$530M
+678,Trulioo,$1.75B,6/7/2021,Canada,Vancouver,Cybersecurity,"Blumberg Capital, American Express Ventures, BDC Venture Capital",2011,Series D,$469.74M
+679,Vestiaire Collective,$1.7B,3/1/2021,France,Paris,E-commerce & direct-to-consumer,"Eurazeo, IDInvest Partners, Balderton Capital",2009,Line of Credit,$743.55M
+680,Spinny,$1.75B,11/24/2021,India,Gurugram,E-commerce & direct-to-consumer,"General Catalyst, Eleation Capital, Avenir Growth Capital",2015,Series E - II,$515.9M
+681,Cambrian BioPharma,$1.79B,10/26/2021,United States,Brooklyn,Health,"Future Ventures, Apeiron Investment Group, Moore Capital Management",2019,Series C,$164.75M
+682,AIWAYS,$1.78B,4/16/2018,China,Shanghai,Auto & transportation,"Jiangsu Sha Steel Group, Shanghai Puyin Industry, Funa Yuanchuang Technology",2017,Acq - Pending,$330.93M
+683,DataStax,$1.6B,5/26/2021	,United States,Santa Clara,Data management & analytics,"Crosslink Capital, Meritech Capital Partners, Lightspeed Venture Partners",2010,Series F - II,$342.27M
+684,FullStory,$1.8B,8/4/2021,United States,Atlanta,Internet software & services,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",2014,Series E,$195.2M
+685,Slice,$1.8B,11/28/2021,India,Bengaluru,Fintech,"Gunosy Capital, Blume Ventures, Das Capital",2020,Angel,$370K
+686,MEGAZONE,$1.83B,8/16/2022,South Korea,Seoul,Internet software & services,"Salesforce Ventures, ATP Investment, kt investment",1998,Series C - II,$660.35M
+687,Material Bank,$1.9B,5/6/2022,United States,Boca Raton,E-commerce & direct-to-consumer,"Bain Capital Ventures, SoftBank Group, Fifth Wall Ventures",2018,Series D,$310.19M
+688,Diamond Foundry,$1.8B,3/29/2021,United States,San Francisco,Other,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",2012,Series C,$300M
+689,ZocDoc,$1.8B,8/20/2015,United States,New York,Health,"Founders Fund, Khosla Ventures, Goldman Sachs",2007,Series E,$383.02M
+690,Acorns,$1.9B,3/9/2022,United States,Irvine,Fintech,"e.ventures, Bain Capital Ventures, Greycroft",2012,Series F,$563.82M
+691,CoinSwitch Kuber,$1.9B,10/6/2021,India,Bangalore,Fintech,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",2017,Series C,$300M
+692,eDaili,$1.9B,2/1/2019,China,Shanghai,E-commerce & direct-to-consumer,"K2VC, Lightspeed China Partners, Sky9 Capital",None,Series D,$1M
+693,MX Technologies,$1.9B,1/13/2021,United States,Lehi,Fintech,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",None,None,None
+694,ConcertAI,$1.9B,3/29/2022,United States,Boston,Artificial Intelligence,"Sixth Street Partners, Declaration Partners, Maverick Ventures Israel",2017,Series C,$320M
+695,Ankorstore,$1.98B,1/10/2022	,France,Paris,E-commerce & direct-to-consumer,"Global Founders Capital, Aglae Ventures, Alven Capital",2019,Series C,$420.89M
+696,Solugen,$2B,9/10/2021,United States,Houston,Other,"Fifty Years Fund, Refactor Capital, Temasek",2016,Series D,$643.07M
+697,Geek+,$2B,11/21/2018,China,Beijing,Hardware,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",2015,Series E,$533.61M
+698,Rimac Automobili,$2B,6/1/2022,Croatia,Sveta Nedelja,Auto & transportation,"Porsche, 	InvestIndustrial, SoftBank Group",2009,Series D,$917.18M
+699,Hugging Face,$2B,5/9/2022,United States,New York,Artificial intelligence,"Betaworks Ventures, Addition, Lux Capital",2016,Series C,$163.92M
+700,ROX Motor,$2B,4/29/2022,China,Shanghai,Auto & transportation,"Sequoia Capital China, IDG Capital, Qiming Venture Partners",2021,Series D,$420M
+701,UpGrad,$2.25B,8/9/2021,India,Mumbai,Edtech,"Qualcomm Ventures, Accel, Canaan Partners",2015,Private Equity - III,$796.23M
+702,Opentrons,$1.8B,9/23/2021,United States,New York,Hardware,"SOSV, Khosla Ventures, Lerer Hippeau",2016,Series C,$250.83M
+703,Cloudinary,$2B,2/15/2022,United States,Santa Clara,Internet software & services,"Blackstone, Bessemer Venture Partners",2011,Secondary Market,None
+704,Pax8,$1.7B,4/11/2022,United States,Greenwood Village,Internet software & services,"Liberty Global Ventures, Sageview Capital, Blue Cloud Ventures",2012,Option/Warrant - III,$354.14M
+705,thatgamecompany, $1.94 B,3/3/2022,United States,Los Angeles,Internet software & services,"Benchmark, Sequoia Capital, TPG Capital",2006,Series D,$172.5M
+706,Apus Group,$1.73B,1/16/2015,China,Beijing,Mobile & telecommunications,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",2014,Series C,$116.3M
+707,Lunar,$2B,7/12/2021,Denmark,Aarhus,Fintech,"SEED Capital, Greyhound Capital, Socii Capital",2015,Series E - II,$480.34M
+708,ENOVATE,$1.85B,4/15/2019,China,Shanghai,Auto & transportation,Automobile Industry Guidance Fund,2015,Series B - II,$1.333B
+709,Lightricks,$1.8B,7/31/2019,Israel,Jerusalem,Artificial intelligence,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",2013,Angel,$335M
+710,Dremio,$2B,1/6/2021,United States,Santa Clara,Data management & analytics,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",2015,Series E,$405M
+711,Roofstock,$1.94B,3/10/2022,United States,Oakland,Fintech,"Khosla Ventures, Bain Capital Ventures, Lightspeed Venture Partners",2015,Series E,$365.25M
+712,Fenbi Education,$1.95B,	2/7/2021,China,Beijing,Edtech,"Trustbridge Partners, Hony Capital, IDG Capital",2015,IPO,$390M
+713,Volocopter,$1.87B,3/4/2022,Germany,Bruchsal,Auto & transportation,"btov Partners, Geely, Intel Capital",2011,Series E - II,$725.21M
+714,ZigBang, $1.93B,6/7/2022,South Korea,Seoul,Mobile & telecommunications,"Black Pearl Ventures, Stonebridge Ventures, Yuanta Investment Korea",2010,Series E,$271.71M
+715,Exotec,$2B,1/17/2022,France,Croix,Hardware,"Breega Capital, Iris Capital, 360 Capital Partners",2015,Series D,$446.7M
+716,Trax,$2B,7/22/2019,Singapore,,Artificial intelligence,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",2010,Unattributed VC,$1.013B
+717,Devo Technology,$2B,10/26/2021,United States,Cambridge,Data management & analytics,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",2011,Series F,$481M
+718,CertiK,$2B,3/31/2022,United States,New York,Cybersecurity,"Tiger Global Management, Lightspeed Venture Partners, Hillhouse Capital Management",2018,Series B - IV,$296.85M
+719,Salsify,$2B,4/13/2022,United States,Boston,Internet software & services,"Matrix Partners, North Bridge Venture Partners, Venrock",2012,Series F,$452.6M
+720,Akulaku,$2B,2/15/2022,Indonesia,Jakarta,E-commerce & direct-to-consumer,"DCM Ventures, IDG Capital, Siam Commercial Bank",2014,Unattributed,$665M
+721,LTK,$2B,11/22/2021,United States,Dallas,Internet software & services,"SoftBank Group, Maverick Capital",2011,Series B,$315M
+722,VerbIT,$2B,6/8/2021,United States,New York,Artificial intelligence,"ClalTech, Vertex Ventures, Oryzn Capital",2016,Series E,$532M
+723,Everlaw,$2B,3/10/2020,United States,Oakland,Internet software & services,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",2010,Series D,$314.61M
+724,Tier,$2B,10/25/2021,Germany,Berlin,Travel,"Northzone Ventures, White Star Capital, Novator Partners",2018,Series D,$667.38M
+725,Netlify,$2B,11/17/2021,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",None,Series D,$211.87M
+726,SWORD Health,$2B,11/22/2021,United States,New York,Health,"Khosla Ventures, Green Innovations, Founders Fund",2015,Series D,$322.16M
+727,StarkWare,$8B,11/17/2021,Israel,Netanya,Cybersecurity,"Sequoia Capital, Paradigm, Pantera Capital",2017,Series D,$267.7M
+728,Zilch,$2B,11/10/2021,United Kingdom,London,Fintech,"Gauss Ventures, Ventura Capital, dmg ventures",2018,Incubator/Accelerator,None
+729,ClickHouse,$2B,10/28/2021,United States,Portola Valley,Data management & analytics,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",2021,Series B - II,$300M
+730,Modern Treasury,$2B,10/6/2021,United States,San Francisco,Fintech,"Benchmark, Altimeter Capital, Quiet Capital",2018,Series C - II,$183.12M
+731,Misfits Market,$2B,4/21/2021,United States,Pennsauken,"Supply chain, logistics, & delivery","Accel, D1 Capita Partners, Greenoaks Capital Management",2018,Series C - II,$526.5M
+732,Advance Intelligence Group,$2B,9/23/2021,Singapore,,Artificial intelligence,"Vision Plus Capital, GSR Ventures, ZhenFund",2016,Series D,$536M
+733,Magic Leap,$2B,10/21/2014,United States,Plantation,Hardware,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",2010,Convertible Note,$3.934B
+734,Spring Health,$2B,9/16/2021,United States,New York,Health,"Rethink Impact, Work-Bench, RRE Ventures",2016,Series C,$296.2M
+735,Black Sesame Technologies,$2B,9/22/2021,China,Shanghai,Artificial intelligence,"Northern Light Venture Capital, Xiaomi, FutureX Capital",2016,Private Equity,$615M
+736,Mynt,$2B,11/1/2021,Philippines,Taguig City,Fintech,"Insight Partners, Warburg Pincus, Ayala Corporation",2015,Private Equity - II,$475M
+737,SmartNews,$2B,8/5/2019,Japan,Tokyo,Mobile & telecommunications,"Japan Post Capital, Globis Capital Partners, Atomico",2012,Series F,$409.6M
+738,Apeel Sciences,$2B,5/26/2020,United States,Goleta,Other,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",2012,Series E,$640M
+739,MURAL,$2B,7/20/2021,United States,San Francisco,Internet software & services,"Insight Partners, Tiger Global Management, Gradient Ventures",2022,Seed VC,$5.6M
+740,Opay,$2B,8/23/2021,Nigeria,Lagos,Fintech,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",2018,Series C,$570M
+741,OCSiAl,$2B,3/4/2019,Luxembourg,Leudelange,Other,"A&NN, Rusnano",2012,Corporate Minority,$5M
+742,XtalPi,$2B,8/11/2021,China,Shenzhen,Artificial intelligence,"Tencent Holdings, 5Y Capital, Sequoia Capital China",2014,Series D,$783.81M
+743,Loggi,$2B,6/5/2019,Brazil,Sao Paulo,"Supply chain, logistics, & delivery","Qualcomm Ventures, SoftBank Group. Monashees+",2013,Series F,$489.32M
+744,Aviatrix,$2B,9/8/2021,United States,Santa Clara,Internet software & services,"Ignition Partners, Formation 8, CRV",2014,Series E,$340M
+745,Divvy Homes,$2B,8/13/2021,United States,San Francisco,Fintech,"Andreessen Horowitz, Caffeinated Capital, SciFi VC",2017,Debt - II,$1.127B
+746,Iterable,$2B,6/15/2021,United States,San Francisco,Internet software & services,"CRV, Blue Cloud Ventures, Index Ventures",2013,Series E,$342.4M
+747,Beisen,$2B,5/11/2021,China,Beijing,Internet software & services,"Matrix Partners China, Sequoia Capital China, Genesis Capital",2002,Series F,$421.18M
+748,Pipe,$2B,5/19/2021,United States,Miami,Fintech,"next47, MaC Venture Capital, FinVC",2019,Debt,$378.12M
+749,Bunq,$2B,6/18/2021,Netherlands,Amsterdam,Fintech,Undisclosed,2013,Series A,$228M
+750,PayFit,$2.1B,1/6/2022,United Kingdom,London,Fintech,"Accel, frst, Kima Ventures",2016,Series E,$497.24M
+751,Clip,$2B,6/10/2021,Mexico,Mexico City,Fintech,"Alta Ventures Mexico, General Atlantic, SoftBank Group",2012,Line of Credit,$447.36M
+752,Kajabi,$2B,5/4/2021,United States,Irvine,Internet software & services,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",2010,Private Equity,$550M
+753,KRY,$2B,4/27/2021,Sweden,Stockholm,Health,"Index Ventures, Creandum, Accel",2014,Series D - III,$730.99M
+754,Earnix,$2B,2/21/2021,Israel,Giv'atayim,Fintech,"Jerusalem Venture Partners, Israel Growth Partners, Insight Partners",2001,Series D,$98.5M
+755,Clearco,$2B,4/20/2021,Canada,Toronto,Fintech,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",2015,Series C - II,$935.01M
+756,ISN,$2B,12/17/2020,United States,Dallas,"Supply chain, logistics, & delivery",Blackstone,2001,Private Equity,None
+757,Virta Health,$2B,12/2/2020,United States,San Francisco,Health,"Caffeinated Capital, Obvious Ventures, Venrock",2015,Series E,$376.5M
+758,Xingyun Group,$2B,9/24/2020,China,Shenzhen,E-commerce & direct-to-consumer,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",2015,Series C - II,$953.5M
+759,Druva,$2B,6/20/2019,United States,Sunnyvale,Data management & analytics,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",2007,Series H,$475M
+760,Ethos,$2.7B,5/11/2021,United States,San Francisco,Fintech,"Sequoia Capital, Google Ventures, Accel",None,None,None
+761,Guoquan Shihui,$2B,3/17/2021,China,Shanghai,Consumer & retail,"Tiantu Capital, CMB International Capital, Vision Knight Capital",2017,Series D - II,$423.44M
+762,Keep,$2B,5/19/2020,China,Beijing,Internet software & services,"Bertelsmann Asia Investments, GGV Capital, Morningside Venture Capital",2014,Series F,$614.49M
+763,Hive,$2B,4/21/2021,United States,San Francisco,Artificial intelligence,"Tomales Bay Capital, Bain & Company, General Catalyst",2013,Series D,$85M
+764,Redis Labs,$2B,8/25/2020,United States,Mountain View,Data management & analytics,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",2011,Series G,$355M
+765,AppsFlyer,$2B,1/21/2020,United States,San Francisco,Mobile & telecommunications,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",2011,Series D - II,$303.1M
+766,Unqork,$2B,10/6/2020,United States,New York,Fintech,"Blackrock, capitalG, World Lab Innovation",2017,Series C,$367.17M
+767,Kujiale,$2B,10/25/2019,China,Hangzhou,Internet software & services,"GGV Capital, IDG Capital, Linear Venture",2011,Series E,$312M
+768,Mafengwo,$2B,5/23/2019,China,Beijing,Travel,"Qiming Venture Partners, Capital Today, General Atlantic",2010,Series E,$488M
+769,4Paradigm,$2B,12/19/2018,China,Beijing,Artificial intelligence,"Sequoia Capital China, China Construction Bank, Bank of China",2015,Series D - II,$930M
+770,Quora,$2B,4/21/2017,United States,Mountain View,Internet software & services,"Y Combinator, Matrix Partners, Benchmark",2009,Series D - II,$286M
+771,BlaBlaCar,$2B,9/16/2015,France,Paris,Auto & transportation,"Accel Partners, Index Ventures, Insight Venture Partners",2006,Unattributed,$579.3M
+772,Tubatu.com,$2B,3/9/2015,China,Shenzhen,E-commerce & direct-to-consumer,"Sequoia Capital China, Matrix Partners China, 58.com",None,Series C,$216.48M
+773,Preferred Networks,$2B,5/17/2018,Japan,Tokyo,Artificial intelligence,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",2014,Corporate Minority - VII,$152.19M
+774,Kaseya,$2B,3/27/2019,United States,Miami,Cybersecurity,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",2000,Unattributed VC - III,$681.65M
+775,Avant,$2B,12/17/2012,United States,Chicago,Artificial intelligence,"RRE Ventures, Tiger Global, August Capital",2012,Debt - IV,$2.23B
+776,Calm,$2B,2/6/2019,United States,San Francisco,Internet software & services,"Insight Venture Partners, TPG Growth, Sound Ventures",2012,Series C,$217.98M
+777,HuiMin,$2B,9/5/2016,China,Beijing,E-commerce & direct-to-consumer,"Zheshang Venture Capital, GP Capital, Western Capital Management",2013,Series C,$519.63M
+778,Mysten Labs,$2B,9/8/2022,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Circle Ventures",2021,Series B,$336M
+779,Drata,$2B,11/8/2021,United States,San Diego,Cybersecurity,"Cowboy Ventures, Leaders Fund, GGV Capital",2020,Series C,$328.2M
+780,GO1,$2B,7/19/2021,Australia,Brisbane,Internet software & services,"Y Combinator, M12, SEEK",2015,Series E,$373.25M
+781,Formlabs,$2B,8/1/2018,United States,Somerville,Hardware,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",2011,Series E,$261.25M
+782,BeZero,$2B,11/14/2022,United Kingdom,London,Other,"Molten Ventures, Contrarian Ventures, Hitachi Ventures",2020,Series B,$72.47M
+783,Jeeves,$2.1B,3/14/2022,United States,Orlando,Fintech,"Tencent Holdings, CRV, Clocktower Technology Ventures",2019,Series C,$370.66M
+784,Trendy Group International,$2B,2/13/2012,Hong Kong,Kowloon,Consumer & retail,L Capital Partners,1999,Private Equity,$200M
+785,Babel Finance,$2B,5/25/2022,Hong Kong,Hong Kong,Fintech,"Dragonfly Capital, BAI Capital, 10T Fund",2018,Loan,$168M
+786,GrubMarket,$2B,9/14/2021,United States,San Francisco,E-commerce & direct-to-consumer,"GGV Capital, BlackRock, ACE & Company",2013,Series F,$516.06M
+787,Forto,$2.1B,6/21/2021,Germany,Berlin,"Supply chain, logistics, & delivery","Cherry Ventures, Northzone Ventures, Global Founders Capital",2016,Series D - II,$615.83M
+788,Aledade,$2.1B,1/19/2021,United States,Bethesda,Health,"Venrock, CVF Capital Partners, ARCH Venture Partners",2014,Series E,$417.65M
+789,ReCharge,$2.1B,5/6/2021,United States,Los Angeles,Fintech,"ICONIQ Growth, Bain Capital Ventures, Summit Partners",2017,Seed VC - II,None
+790,FirstCry,$2.1B,2/7/2020,India,Pune,E-commerce & direct-to-consumer,"SoftBank Group, SAIF Partners India, Valiant Capital Partners",2010,Secondary Market,$731M
+791,GoCardless,$2.1B,2/8/2022,United Kingdom,London,Fintech,"Accel, Passion Capital, Balderton Capital",2011,Series G,$529.32M
+792,Moveworks,$2.1B,6/30/2021,United States,Mountain View,Artificial intelligence ,"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",2016,Series C,$305M
+793,Urban Company,$2.1B,4/27/2021,India,Gurgaon,E-commerce & direct-to-consumer,"VY Capital, Accel, Elevation Capital",2014,Series F - II,$441.24M
+794,Medable,$2.1B,10/26/2021,United States,Palo Alto,Health,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",2013,Series D,$533.75M
+795,Eightfold.ai,$2.1B,10/27/2020,United States,Santa Clara,Internet software & services,"Foundation Capital, Institutional Venture Partners, General Catalyst",2016,Series E,$397M
+796,CoinDCX,$2.15B,8/10/2021,India,Maharashtra,Fintech,"Polychain Capital, Coinbase Ventures, Jump Capital",2017,Series D,$244.4M
+797,CloudWalk,$2.15B,9/8/2021,Brazil,Sao Paulo,Fintech,"Plug and Play Ventures, Valor Capital Group, DST Global",2013,Series C,$345M
+798,Hesai Tech,$2.18B,8/1/2020,China,Shanghai,Artificial intelligence,"Lightspeed China Partners, Baidu Ventures, Qiming Venture Partners",2013,Series D - II,$717.29M
+799,Accelerant,$2.19B,1/12/2022,United Kingdom,Colchester,Other,"Deer Park Road, Altamont Capital Partners, Eldridge",2015,None,None
+800,YITU Technology,$2.17B,3/8/2018,China,Shanghai,Artificial intelligence,"Sequoia Capital China, Banyan Capital",2012,Unattributed VC,$385.12M
+801,Qualia,$2.17B,12/21/2020,United States,San Francisco,Fintech,"8VC, Menlo Ventures, Tiger Global Management",2015,Series D - II,$200.18M
+802,Neo4j,$2B,6/17/2021,United States,San Mateo,Data management & analytics,"Eight Roads Ventures, One Peak Partners, Creandum",2007,Series F - II,$581.1M
+803,G7 Networks,$2.2B,2/15/2022,China,Beijing,"Supply chain, logistics, & delivery","Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",1998,Merger,None
+804,Current,$2.2B,4/27/2021,United States,New York,Fintech,"Expa, QED Investors, Foundation Capital",2019,Acquired,None
+805,Dialpad,$2.2B,10/6/2020,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Google Ventures, Section 32",2011,Corporate Minority,$425.96M
+806,Bitso,$2.2B,5/5/2021,Mexico,Mexico City,Fintech,"Pantera Capital, QED Investors, Coinbase Ventures",2014,Series C,$314.66M
+807,MUSINSA,$2.2B,11/11/2019,South Korea,Seoul,E-commerce & direct-to-consumer,Sequoia Capital,2001,Unattributed VC - II,$286.36M
+808,Motif FoodWorks, $2.20 B,6/16/2021,United States,Boston,Consumer & retail ,"General Atlantic, Breakthrough Energy Ventures, Viking Global Investors",2019,Series C,$343.5M
+809,Gympass,$2.2B,6/12/2019,United States,New York,Internet software & services,"General Atlantic, SoftBank Group, Atomico",2012,Unattributed - II,$529.16M
+810,BloomReach,$2.2B,2/23/2022,United States,Mountain View,Artificial intelligence,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",2009,Line of Credit,$452M
+811,Addepar,$2.17B,6/15/2021,United States,Mountain View,Fintech,"8VC, D1 Capital Partners, Sway Ventures",2009,Series F,$513.93M
+812,NuCom Group,$2.2B,2/22/2018,Germany,Unterfoehring,Other,General Atlantic,2016,Growth Equity - II,None
+813,Algolia,$2.25B,7/28/2021,United States,San Francisco,Internet software & services,"Accel, Alven Capital, Storm Ventures",2012,Series D,$334.34M
+814,Pattern,$2.25B,10/6/2021,United States,Lehi,Internet software & services,"Knox Lane, Ainge Advisory, Carlson Private Capital Partners",2013,Private Equity,$277M
+815,Newfront Insurance,$2.2B,4/12/2022,United States,San Francisco,Fintech,"Founders Fund, Meritech Capital Partners, GS Growth",2017,Series D,$300.03M
+816,Zume,$2.25B,11/1/2018,United States,Mountain View,Consumer & retail,"Softbank Group, AME Cloud Ventures, SignalFire",2015,Series C,$445.69M
+817,MoMo,$2.27B,12/10/2021,Vietnam,Ho Chi Minh City,Fintech,"Goodwater Capital, Warburg Pincus, GS Growth",2013,Series E,$433.7M
+818,Bowery Farming,$2.3B,5/25/2021,United States,New York,Other,"Temasek, Google Ventures, General Catalyst",2015,Unattributed VC,$630.9M
+819,Jobandtalent,$2.35B,12/1/2021,Spain,Madrid,Internet software & services,"Kibo Ventures, SoftBank Group, Atomico",2009,Line of Credit,$1.322B
+820,Huaqin Telecom Technology,$2.19B,10/8/2019,China,Shanghai,Mobile & telecommunications,"Zhangjiang Haocheng Venture Capital, Walden International, Intel Capital",2005,Series B,$276.35M
+821,Motive,$2.85B,4/23/2019,United States,San Francisco,"Supply chain, logistics, & delivery","Google Ventures, Index Ventures, Scale Venture Partners",2013,Series F,$567.3M
+822,Voodoo,$2.31B,8/17/2020,France,Paris,Other,"Tencent Holdings, Goldman Sachs",2013,Corporate Minority - II,$569.95M
+823,Greenlight,$2.3B,9/24/2020,United States,Atlanta,Fintech,"Relay Ventures, TTV Capital, Canapi Ventures",2014,Series D,$556.5M
+824,WEMAKEPRICE,$2.34B,9/9/2015,South Korea,Seoul,E-commerce & direct-to-consumer,"IMM Investment, NXC",2009,Series C,$486.65M
+825,Shield AI,$2.3B,8/24/2021,United States,San Diego,Artificial intelligence,"Andreessen Horowitz, Homebrew, Point72 Ventures",2015,Series E - II,$570.6M
+826,Uptake,$2.3B,10/27/2015,United States,Chicago,Artificial intelligence,"Revolution, New Enterprise Associates, Caterpillar",2014,Series E,$317M
+827,Biren Technology,$2.32B,8/18/2020,China,Shanghai,Hardware,"V FUND, IDG Capital, Green Pine Capital Partners",2019,Series B,$288.22M
+828,ManyPets,$2.35B,6/1/2021,United Kingdom,London,Fintech,"Octopus Ventures, Munich Re Ventures, CommerzVentures",2012,Series D,$477.27M
+829,Project44,$2.62B,6/1/2021,United States,Chicago,"Supply chain, logistics, & delivery","Emergence Capital Partners, 8VC, Chicago Ventures",2014,Series F - II,$1.009B
+830,Beta Technologies,$2.4B,4/19/2022,United States,South Burlington,Other,"The Rise Fund, Fidelity Investments. RedBird Capital Partners",2017,Series B,$743.68M
+831,Freenome,$2.62B,8/26/2020,United States,South San Francisco,Health,"Andreessen Horowitz, Data Collective, Roche Venture Fund",2014,Series E,$1.099B
+832,ABL Space Systems,$2.4B,3/25/2021,United States,El Segundo,Other,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",2017,Series B - II,$483.5M
+833,HoneyBook,$2.4B,5/4/2021,United States,San Francisco,Internet software & services,"Norwest Venture Partners, Hillsven Capital, Aleph",2013,Series E,$480.34M
+834,Paxos,$2.4B,4/29/2021,United States,New York,Fintech,"Liberty City Ventures, RRE Ventures, Mithril Capital Management",None,Other Investors,None
+835,Trumid,$2.4B,7/15/2020,United States,New York,Fintech,"T. Rowe Price, Dragoneer Investment Group, BlackRock",2014,Series F,$711.73M
+836,Exabeam,$2.4B,6/1/2021,United States,Foster City,Cybersecurity,"Norwest Venture Partners, Aspect Ventures, Lightspeed Venture Partners",2013,Series F,$390M
+837,Star Charge,$2.41B,5/19/2021,China,Changzhou,Auto & transportation,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",2014,Series B,$125.58M
+838,EquipmentShare,$2.41B,5/1/2020,United States,Columbia,Fintech,"Romulus Capital, Insight Partners, RedBird Capital Partners",2014,Line of Credit,$2.464B
+839,PolicyBazaar,$2.4B,5/6/2019,India,Gurgaon,Fintech,"Info Edge, Softbank Capital",2008,Secondary Market - V,$633.78M
+840,Cgtz,$2.41B,2/21/2017,China,Hangzhou,Fintech,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",2014,Series D,$535.86M
+841,Carbon,$2.4B,8/20/2015,United States,Redwood City,Hardware,"Google Ventures, Sequoia Capital, Wakefield Group",2013,Shareholder Liquidity,$692M
+842,Cybereason,$2.44B,8/6/2019,United States,Boston,Cybersecurity,"SoftBank Group, CRV, Spark Capital",2012,Series F - II,$713.62M
+843,Coda Payments,$2.5B,4/15/2022,Singapore,,Fintech,"GIC. Apis Partners, Insight Partners",2011,Series C,$715.2M
+844,Fetch Rewards,$2.5B,3/31/2021,United States,Madison,E-commerce & direct-to-consumer,"Greycroft, Loeb.NYC, DST Global",2014,Debt - II,$581.51M
+845,Games24x7,$2.5B,3/30/2022,India,Mumbai,Internet software & services,"Tiger Global Management, The Raine Group, Malabar Investments",2006,Unattributed,$75M
+846,Mobile Premier League,$2.45B,9/15/2021,India,Bengaluru,Internet software & services,"Sequoia Capital India, RTP Global, Go-Ventures",2018,Series E,$377.7M
+847,DriveNets,$2.5B,1/27/2021,Israel,Ra'anana,Internet software & services,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",2015,Series C,$587M
+848,Uniphore,$2.5B,2/16/2022,United States,Palo Alto,Artificial Intelligence,"Chiratae Ventures, March Capital Partners, National Grid Partners",2008,Incubator/Accelerator - II,$626.63M
+849,SiFive,$2.5B,3/16/2022,United States,San Mateo,Hardware,"Sutter Hill Ventures, Osage University Partners, Spark Capital",2015,Series F,$365.56M
+850,Hibob,$2.45B,10/12/2021,Israel,Tel Aviv,Internet software & services,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",2015,Series D,$415M
+851,A24 Films,$2.5B,3/9/2022,United States,New York,Other,"Stripes Group, Neuberger Berman",2012,Growth Equity,$225M
+852,Zetwerk,$2.68B,8/20/2021,India,Bengaluru,Internet software & services,"Sequoia Capital India, Kae Capital, Accel",2018,Unattributed,$686.67M
+853,Uala,$2.45B,8/13/2021,Argentina,Buenos Aires,Fintech,"Soros Fund Management, Ribbit Capital, Monashees+",2017,Series D,$608M
+854,Immutable,$2.5B,3/7/2022,Australia,Sydney,Fintech,"Fabric Ventures, AirTree Ventures, Temasek",2018,Series C,$272.74M
+855,Somatus,$2.5B,2/23/2022,United States,McLean,Health,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",2016,Series E,$465M
+856,Sysdig,$2.5B,4/28/2021,United States,San Francisco,Cybersecurity,"Accel, Bain Capital Ventures, Insight Partners",2013,Series G,$728.2M
+857,Rokt,$2.4B,12/16/2021,United States,New York,Internet software & services,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",2012,Secondary Market,$488.5M
+858,Vercel,$2.5B,6/23/2021,United States,San Francisco,Internet software & services,"CRV, Accel, Google Ventures",2020,Other Investors,None
+859,Infra.Market,$2.5B,2/25/2021,India,Thane,E-commerce & direct-to-consumer,"Accel, Tiger Global Management, Nexus Venture Partners",2016,Debt - VII,$431.4M
+860,Vista Global,$2.5B,8/23/2017,United Arab Emirates,Dubai,Other,Rhone Capital,2004,Private Equity,None
+861,Aura,$2.5B,6/9/2021,United States,Burlington,Cybersecurity,"Warburg Pincus, General Catalyst",2019,Series F,$561.82M
+862,Cribl,$2.5B,8/25/2021,United States,San Francisco,Data management & analytics,"Institutional Venture Partners, CRV, Sequoia Capital",2017,Series D,$392.41M
+863,Varo Bank,$2.5B,9/9/2021,United States,San Francisco,Fintech,"Warburg Pincus, The Rise Fund, HarbourVest Partners",2015,Series E,$991.33M
+864,Jetti Resources,$2.5B,10/24/2022,United States,Boulder,Other,"BMW i Ventures, BHP Ventures",2014,Series D,$169.41M
+865,Eat Just,$2.59B,11/30/2017,United States,San Francisco,Consumer & retail,"Khosla Ventures, Horizons Ventures, Founders Fund",2011,Private Equity,$731.6M
+866,Unico,$2.6B,8/3/2021,Brazil,Sao Paulo,Artificial intelligence,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",2007,Series D,$335.94M
+867,Cato Networks,$2.5B,11/17/2020,Israel,Tel Aviv,Cybersecurity,"Aspect Ventures, SingTel Innov8, Greylock Partners",2015,Unattributed VC,$512M
+868,BYTON,$2.5B,4/20/2018,China,Nanjing,Auto & transportation,"FAW Group, Tencent Holdings, Tus Holdings",2016,Corporate Minority - II,$1.208B
+869,Xinchao Media,$2B,4/9/2018,China,Chengdu,Internet software & services,"JD.com, Baidu, Vision Plus Capital",2007,Unattributed - VI,$1.33B
+870,Axonius,$2.6B,3/1/2021,United States,New York,Cybersecurity,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",2017,Series E,$395M
+871,Side,$2.5B,3/22/2021,United States,San Francisco,Internet software & services,"Coatue Managemeny, Trinity Ventures, Matrix Partners",2017,Series D - II,$262.82M
+872,JumpCloud,$2.62B,9/13/2021,United States,Louisville,Data management & analytics,"Foundry Group, General Atlantic, BlackRock",2012,Option/Warrant - XII,$418.45M
+873,Oura,$2.55B,4/5/2022,Finland,Oulu,Health,"Forerunner Ventures, Lifeline Ventures, MSD Capital",2013,Series D,$145.49M
+874,Moglix,$2.6B,5/17/2021,Singapore,,E-commerce & direct-to-consumer,"Jungle Ventures, Accel, Venture Highway",2015,Series F,$470.71M
+875,Pendo,$2.6B,10/17/2019,United States,Raleigh,Internet software & services,"Contour Venture Partners, Battery Ventures, Core Capital Partners",2013,Secondary Market,$359.17M
+876,Plume,$2.6B,2/23/2021,United States,Palo Alto,Internet software & services,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",2015,Series F,$712.93M
+877,o9 Solutions,$2.7B,4/28/2020,United States,Dallas,Artificial intelligence,KKR,2009,Private Equity - II,$420M
+878,Illumio,$2.75B,4/14/2015,United States,Sunnyvale,Cybersecurity,"Data Collective, Formation 8, General Catalyst Partners",2013,Incubator/Accelerator,$557.15M
+879,Dream Games,$2.75B,6/30/2021,Turkey,Istanbul,Mobile & telecommunications,"Makers Fund, Index Ventures, Inova Ventures Participacees",2019,Series C,$467.2M
+880,Thought Machine,$2.7B,11/29/2021,United Kingdom,London,Fintech,"British Patient Capital, SEB Venture Capital, IQ Capital",2014,Series D - II,$508.05M
+881,Hozon Auto,$3.95B,2/22/2022,China,Shanghai,Auto & transportation,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",2014,Series D - III,$3.563B
+882,ManoMano,$2.6B,7/5/2021,France,Paris,E-commerce & direct-to-consumer,"General Atlantic, Piton Capital, Partech Partners",2013,Series F,$708.73M
+883,Tradeshift,$2.7B,5/30/2018,United States,San Francisco,Fintech,"Notion Capital, Scentan Ventures, Kite Ventures",2009,Series G,$1.103B
+884,Tridge,$2.7B,8/24/2022,South Korea,Seoul,Internet software & services,"Forest Partners, Softbank Ventures Asia",2014,Series D,$115.68M
+885,Sourcegraph,$2.62B,7/13/2021,United States,San Francisco,Internet software & services,"Redpoint Ventures, Goldcrest Capital, Insight Partners",2013,Series D,$223M
+886,MasterClass,$2.75B,5/13/2021,United States,San Francisco,Edtech,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",2015,Corporate Minority,$461.4M
+887,Transmit Security,$2.74B,6/22/2021,Israel,Tel Aviv,Cybersecurity,"General Atlantic, Insight Partners, Vintage Investment Partners",2014,Series A,$583M
+888,BackBase,$2.66B,6/9/2022,Netherlands,Amsterdam,Fintech,Motive Partners,2003,Private Equity,$127.83M
+889,Nutrabolt,$2.79B,12/8/2022,United States,Austin,Consumer & retail,MidOcean Partners,2002,Shareholder Liquidity,$3.5M
+890,Nextiva,$2.7B,9/14/2021,United States,Scottsdale,Internet software & services,Goldman Sachs Asset Management,2008,Unattributed,$207.5M
+891,Zipline,$2.8B,5/20/2019,United States,South San Francisco,"Supply chain, logistics, & delivery","Sequoia Capital, Baillie Gifford & Co., Google Ventures",2014,Series E,$487.16M
+892,Graphcore,$2.77B,12/18/2018,United Kingdom,Bristol,Artificial intelligence,"Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners",2016,Incubator/Accelerator,$682M
+893,Sentry,$3B,2/18/2021,United States,San Francisco,Other,"New Enterprise Associates, Accel, Bond",2021,Seed VC,$310K
+894,DriveWealth,$2.85B,8/20/2021,United States,Chatham,Fintech,"Point72 Ventures, Route 66 Ventures, Accel",2012,Series D,$550.8M
+895,Workrise,$2.9B,9/30/2019,United States,Austin,Internet software & services,"Founders Fund, Quantum Energy Partners, Bedrock Capital",2014,Series E,$752.5M
+896,Meicai,$2.8B,6/22/2016,China,Beijing,Mobile & telecommunications,"Tiger Global Management, Blue Lake Capital, ZhenFund",2014,Series E,$651.6M
+897,Loft,$2.9B,1/3/2020,Brazil,Sao Paulo,E-commerce & direct-to-consumer,"Monashees+, Andreessen Horowitz, QED Investors",None,None,None
+898,Kraken,$2.92B,6/25/2019,United States,San Francisco,Fintech,"Bnk To The Future, Trammell Ventures, SBI Investment",2011,Corporate Minority,$20.07M
+899,Gokin Solar,$2.88B,4/13/2022,China,Zhuhai,Other,"IDG Capital, Puluo Capital, Midea Capital",2019,Series B,$616.17M
+900,Cross River Bank,$3B,2/11/2022,United States,Fort Lee,Fintech,"Battery Ventures, Andreessen Horowitz, Ribbit Capital",2008,Series D,$1.053B
+901,Amber Group,$3B,6/21/2021,Hong Kong,,Fintech,"Tiger Global Management, Tiger Brokers, DCM Ventures",2015,Series C,$628M
+902,Alan,$2.85B,4/19/2021,France,Paris,Fintech,"Index Ventures, Temasek, Portag3 Ventures",2016,Series E,$556.1M
+903,Inxeption,$3B,1/13/2022,United States,San Francisco,Fintech,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",2017,Debt,$486.5M
+904,Anchorage Digital,$3B,12/15/2021,United States,San Francisco,Fintech,"Andreessen Horowitz, Blockchain Capital, Lux Capital",2017,Series D,$487M
+905,OpenAI,$2.92B,7/22/2019,United States,San Francisco,Artificial intelligence,Khosla Ventures,2015,Corporate Minority - II,$3B
+906,Flutterwave,$3B,3/9/2021,United States,San Francisco,Fintech,"Green Visor Capital, CRE Venture Capital, Greycroft",2016,Series D,$474.71M
+907,Lattice,$3B,3/23/2021,United States,San Francisco,Internet software & services,"Khosla Ventures, Thrive Capital, Y Combinator",2015,Series F,$329.32M
+908,Podium,$3B,4/7/2020,United States,Lehi,Internet software & services,"Accel, Summit Partners, Google Ventures",2014,Series D,$422.22M
+909,TradingView,$3B,10/14/2021,United States,Westerville,Fintech,"Tiger Global Management, Insight Partners, Jump Capital",2011,Series C,$339.37M
+910,Contentful,$3B,7/28/2021,Germany,Berlin,Internet software & services,"Balderton Capital, General Catalyst, Tiger Global Management",2013,Series F,$331M
+911,Sky Mavis,$3B,10/4/2021,Vietnam,Ho Chi Minh City,Internet software & services,"Fabric Ventures, 500 Global, Standard Crypto",2019,Series C,$311M
+912,Seismic,$3B,12/18/2018,United States,San Diego,Internet software & services,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",2010,Series G,$426.5M
+913,Outschool,$3B,4/14/2021,United States,San Francisco,Edtech,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",2015,Series D,$240.02M
+914,LaunchDarkly,$3B,8/10/2021,United States,Oakland,Internet software & services,"Uncork Capital, Threshold Ventures, Bloomberg Beta",2014,Series D,$330.34M
+915,Groww,$3B,4/7/2021,India,Bengaluru,Fintech,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",2017,Series E - II,$399.89M
+916,Via,$3.3B,3/30/2020,United States,New York,Auto & transportation,"83North, RiverPark Ventures, Pitango Venture Capital",2012,Series G,$697.06M
+917,Carbon Health,$3B,7/21/2021,United States,San Francisco,Health,"Brookfield Asset Management, Blackstone, Data Collective",2015,Series D - III,$623.18M
+918,Age of Learning,$3B,5/3/2016,United States,Glendale,Edtech,Iconiq Capital,2007,Private Equity,$481.5M
+919,Gorillas,$3.1B,3/25/2021,Germany,Berlin,"Supply chain, logistics, & delivery","Coatue Management, Atlantic Food Labs, DST Global",2020,Acquired,$1.335B
+920,Lucid Software,$3B,6/29/2021,United States,South Jordan,Internet software & services,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",2010,Secondary Market,$166M
+921,ActiveCampaign,$3B,4/21/2021,United States,Chicago,Internet software & services,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",2003,Series C,$360M
+922,BlockFi,$3B,3/11/2021,United States,Jersey City,Fintech,"ConsenSys Ventures, Valar Ventures, PUC",2017,Line of Credit,$762.75M
+923,CMR Surgical,$3B,9/17/2019,United Kingdom,Cambridge,Health,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",2014,Series D,$986.3M
+924,FlixMobility,$3B,7/18/2019,Germany,Munich,Auto & transportation,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",2013,Series G,$1.211B
+925,Wildlife Studios,$3B,12/5/2019,Brazil,Sao Paulo,Other,"Benchmark, Bessemer Venture Partners",2011,Secondary Market,$180M
+926,ApplyBoard,$3.2B,5/5/2020,Canada,Kitchener,Edtech,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",2015,Unattributed,$479.91M
+927,Verkada,$3.2B,1/29/2020,United States,San Mateo,Cybersecurity,"next47, First Round Capital, Sequoia Capital",2016,Series D,$344.64M
+928,Zuoyebang,$3B,7/18/2018,China,Beijing,Edtech,"Sequoia Capital China, Xiang He Capital, GGV Capital",2014,Series E - II,$3.435B
+929,HighRadius,$3.1B,1/7/2020,United States,Houston,Fintech,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",2006,Series C,$475M
+930,SouChe Holdings,$3B,11/1/2017,China,Hangzhou,E-commerce & direct-to-consumer,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",2012,Debt - II,$1.282B
+931,Udaan,$3.1B,9/4/2018,India,Bengaluru,"Supply chain, logistics, & delivery","DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",2016,Debt - V,$1.632B
+932,Circle,$3B,5/15/2018,United States,Boston,Fintech,"General Catalyst, Digital Currency Group, Accel",2013,Unattributed VC,$1.113B
+933,Calendly,$3B,1/26/2021,United States,Atlanta,Internet software & services,"ICONIQ Capital, OpenView Venture Partners",2013,Series B,$350.55M
+934,PsiQuantum,$3.15B,7/27/2021,United States,Palo Alto,Hardware,"Playground Global, M12, BlackRock",2016,Series D,$728.5M
+935,Skims,$3.2B,4/9/2021,United States,Los Angeles,E-commerce & direct-to-consumer,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",2019,Series B,$394M
+936,Ironclad,$3.2B,1/18/2022,United States,Sacramento,Internet software & services,"Accel, Sequoia Capital, Y Combinator",2014,Series E,$331.12M
+937,Eruditus Executive Education,$3.2B,8/12/2021,India,Mumbai,Edtech,"Sequoia Capital India, Softbank, Bertelsmann India Investments",2015,Debt - II,$943.46M
+938,Eikon Therapeutics, $3.2B,1/6/2022,United States,Hayward,Health,"The Column Group, Foresite Capital, Foresite Capital",2019,Series B,$665.8M
+939,Cedar,$3.2B,3/9/2021,United States,New York,Fintech,"Thrive Capital, Founders Fund, Cocnord Health Partners",2016,Corporate Minority,$350.81M
+940,Thumbtack,$3.2B,9/29/2015,United States,San Francisco,E-commerce & direct-to-consumer,"Tiger Global, Sequoia Capital, Google Capital",2008,Series I,$698.85M
+941,Aiven,$3.21B,10/18/2021,Finland,Helsinki,Internet software & services,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",2016,Series D,$419.93M
+942,BlockDaemon,$3.25B,9/21/2021,United States,Los Angeles,Fintech,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",2016,Series C - II,$401.54M
+943,BGL Group,$3B,11/24/2017,United Kingdom,Peterborough,Fintech,CPP Investment Board,1992,Corporate Minority,$900M
+944,Traveloka,$3B,1/1/2017,Indonesia,Jakarta,Travel,"Global Founders Capital, East Ventures, Expedia Inc.",2012,Series E,$1.47B
+945,Dadi Cinema,$3.24B,5/11/2016,China,Shenzhen,Other,Alibaba Pictures Group,2006,Convertible Note,$154M
+946,Scopely,$3.3B,10/29/2019,United States,Culver City,Mobile & telecommunications,"Greycroft, Sands Capital, Revolution Growth",2011,Series E,$998.5M
+947,Nuvemshop,$3.1B,8/17/2021,Brazil,Sao Paulo,E-commerce & direct-to-consumer,"Kaszek Ventures, Qualcomm Ventures, Accel",2011,Series E,$628.3M
+948,Astera Labs,$3.2B,11/17/2022,United States,Santa Clara,Hardware,"Intel Capital, Sutter Hill Ventures, VentureTech",2017,Series D,$232.35M
+949,Komodo Health,$3.3B,5/22/2020,United States,San Francisco,Health,"Andreessen Horowitz, IA Ventures, Felicis Ventures",2014,Unattributed,$515M
+950,Retool,$3.2B,12/22/2021,United States,San Francisco,Internet software & services,Sequoia Capital,2000,Private Equity - II,$18.58M
+951,Yixia,$3B,11/24/2015,China,Beijing,Mobile & telecommunications,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",2011,Series E,$775M
+952,Kurly,$3.3B,7/9/2021,South Korea,Seoul,"Supply chain, logistics, & delivery","Sequoia Capital China, DST Global, DST Global",2014,Private Equity,$769.86M
+953,Sila Nanotechnologies,$3.3B,4/16/2019,United States,Alameda,Other,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",2011,Grant - VI,$1.031B
+954,ECARX,$3.31B,10/26/2020,China,Wuhan,Auto & transportation,"Geely, SIG Asia Investments, China State Capital Venture Capital Fund",2016,Reverse Merger,$508.67M
+955,Forter,$3B,11/19/2020,United States,New York,Cybersecurity,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",2013,Series F,$525M
+956,Blockstream,$3.2B,8/24/2021,Canada,Vancouver,Fintech,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",2014,Series B,$311M
+957,Innovaccer,$3.2B,2/19/2021,United States,San Francisco,Health,"M12, WestBridge Capital, Lightspeed Venture Partners",2014,Series E,$375.68M
+958,Cars24,$3.3B,11/24/2020,India,Gurgaon,E-commerce & direct-to-consumer,"Moore Strategic Ventures, DST Global, Sequoia Capital India",2015,Debt - V,$1.296B
+959,Youxia Motors,$3.35B,4/2/2018,China,Shanghai,Auto & transportation,"China Environmental Protection Industry, China Fortune Ocean",2014,Series B - II,$1.326B
+960,Starling Bank,$3.34B,3/8/2021,United Kingdom,London,Fintech,"JTC Group, Qatar Investment Authority, Fidelity Investment",2014,Secondary Market,$905.62M
+961,OwnBackup,$3.35B,1/28/2021,United States,Englewood Cliffs,Data management & analytics,"Insight Partners, Salesforce Ventures, Vertex Ventures",2015,Series E,$507.25M
+962,Starburst,$3.35B,1/6/2021,United States,Boston,Data management & analytics,"Index Ventures, Coatue Management, Andreessen Horowitz",2017,Series D,$414M
+963,Improbable,$3.36B,5/11/2017,United Kingdom,London,Other,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",2012,Corporate Minority - II,$865.95M
+964,Acronis,$3.5B,9/18/2019,Switzerland,Schaffhausen,Cybersecurity,"Goldman Sachs, VebVentures, Insight Partners",2003,Unattributed - III,$677.51M
+965,MoonPay,$3.4B,11/22/2021,United States,Miami,Fintech,"New Enterprise Associates, Coatue Management, Tiger Global Management",2019,Unattributed VC,$555M
+966,Unacademy,$3.44B,9/2/2020,India,Bengaluru,Edtech,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",2015,Series H,$875.73M
+967,Odoo,$3.43B,7/29/2021,Belgium,Louvain-la-Neuve,Internet software & services,"Summit Partners, Noshaq, Sofinnova Partners",2005,Secondary Market,$319M
+968,Upstox,$3.4B,11/29/2021,India,Mumbai,Fintech,"Tiger Global Management, Kalaari Capital",2010,Series C,$54M
+969,Helion Energy,$3.50B,11/5/2021,United States,Redmond,Other,"Mithril Capital Management, Y Combinator, Capricorn Investment Group",2010,Series E,$512.11M
+970,Flock Safety,$3.5B,7/13/2021,United States,Atlanta,Hardware,"Matrix Partners, Initialized Capital, Tiger Global Management",2017,Series E,$382.14M
+971,Handshake,$3.5B,5/12/2021,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",2012,None,None
+972,Indigo Ag,$3.5B,9/26/2017,United States,Boston,Artificial intelligence,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",2012,None,None
+973,ChargeBee Technologies,$3.5B,4/20/2021,United States,San Francisco,Fintech,"Insight Partners, Tiger Global Management, Accel",2011,Series H,$468.65M
+974,Tekion,$3.5B,10/21/2020,United States,San Ramon,Internet software & services,"Airbus Ventures, Index Ventures, Advent International",2016,Series D,$400M
+975,GoStudent,$3.5B,6/22/2021,Austria,Vienna,Edtech,"DN Capital, Left Lane Capital, Coatue Management",2017,Series D,$684.79M
+976,Celsius Network,$3.5B,10/12/2021,United States,Hoboken,Fintech,"WestCap Group, Caisse de depot et placement du Quebec",2017,Loan,$783.8M
+977,Mirakl,$3.5B,9/22/2020,France,Paris,E-commerce & direct-to-consumer,"Elaia Partners, 83North, Felix Capital",2011,Series E,$948M
+978,Highspot,$3.5B,2/22/2021,United States,Seattle,Internet software & services,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",2013,Series F,$652.85M
+979,HyalRoute,$3.5B,5/26/2020,Singapore,,Mobile & telecommunications,Kuang-Chi,2015,Corporate Minority,$263.12M
+980,Otto Bock HealthCare,$3.52B,6/24/2017,Germany,Duderstadt,Health,EQT Partners,1919,Loan,$815.49M
+981,Commure,$3.5B,9/16/2021,United States,San Francisco,Internet software & services,"General Catalyst, HCA Healthcare",2017,Series D - II,$743.89M
+982,Rec Room,$3.5B,3/23/2021,United States,Seattle,Internet software & services,"First Round Capital, Sequoia Capital, Index Ventures",2016,Series E,$294.82M
+983,Course Hero,$3.6B,2/12/2020,United States,Redwood City,Edtech,"NewView Capital, Maveron, Ridge Ventures",2006,Series C,$475.68M
+984,Applied Intuition,$3.6B,10/22/2020,United States,Sunnyvale,Auto & transportation,"Andreessen Horowitz, Lux Capital, General Catalyst",2017,Series D,$340M
+985,SpotOn,$3.6B,5/26/2021,United States,San Francisco,Fintech,"Dragoneer Investment Group, DST Global, Franklin Templeton",2017,Series F,$900M
+986,Whoop,$3.6B,10/28/2020,United States,Boston,E-commerce & direct-to-consumer,"NextView Ventures, Promus Ventures, Two Sigma Ventures",2012,Series F,$404.38M
+987,Relativity,$3.6B,3/18/2021,United States,Chicago,Internet software & services,"Silver Lake, ICONIQ Capital",2001,Private Equity,$125M
+988,Autograph,$3.66B,1/20/2022,United States,Santa Monica,Internet software & services,01 Advisors. Kleiner Perkins Caufield & Byers. Andreessen Horowitz,2021,Series B,$205M
+989,Whatnot,$3.7B,9/16/2021,United States,Marina del Rey,E-commerce & direct-to-consumer,"Y Combinator, Andreessen Horowitz, Wonder Ventures",2019,Series D,$484.15M
+990,Harness,$3.7B,1/14/2021,United States,San Francisco,Artificial intelligence,"Menlo Ventures, Alkeon Capital Management, Citi Ventures",2016,Series D,$425M
+991,Abogen,$3.7B,11/29/2021,China,Suzhou,Health,"Hillhouse Capital Management, SoftBank Group, Qiming Venture Partners",2003,Series C - II,$1.134B
+992,VAST Data,$3.7B,4/16/2020,United States,New York,Data management & analytics,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",2016,Series D,$263M
+993,Dutchie,$3.75B,3/16/2021,United States,Bend,E-commerce & direct-to-consumer,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",2017,Series D,$603M
+994,Dataiku,$3.7B,12/4/2019,United States,New York,Artificial intelligence,"Alven Capital, FirstMark Capital, capitalG",2013,Series F,$846.6M
+995,Papaya Global,$3.7B,3/4/2021,United States,New York,Internet software & services,"Bessemer Venture Partners, Insight Partners, New Era Ventures",2016,Series D,$438M
+996,GOAT,$3.7B,9/23/2020,United States,Culver City,E-commerce & direct-to-consumer,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",2015,Series F,$491.62M
+997,Redwood Materials,$3.7B,7/28/2021,United States,Carson City,Other,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",2017,Convertible Note,$991.2M
+998,StockX,$3.8B,6/26/2019,United States,Detroit,E-commerce & direct-to-consumer,"Google Ventures, Battery Ventures, DST Global",2016,Series E - II,$520M
+999,Convoy,$3.8B,9/21/2018,United States,Seattle,"Supply chain, logistics, & delivery","Greylock Partners, capitalG, Y Combinator",2015,Line of Credit,$1.085B
+1000,MessageBird,$3.8B,10/8/2020,Netherlands,Amsterdam,Mobile & telecommunications,"Y Combinator, Atomico, Accel",2011,Series C - II,$1.1B
+1001,Cohesity,$3.7B,6/11/2018,United States,San Jose,Data management & analytics,"SoftBank Group, Sequoia Capital, Wing Venture Capital",2013,Secondary Market,$660M
+1002,Aurora Solar,$4B,5/24/2021,United States,San Francisco,Internet software & services,"Fifth Wall Ventures, Energize Ventures, 	ICONIQ Capital",2013,Series D,$520.4M
+1003,Medlinker,$3.92B,7/31/2018,China,Chengdu,Health,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",2014,Series E,$764.74M
+1004,Abnormal Security,$4B,5/10/2022,United States,San Francisco,Cybersecurity,"Greylock Partners, Insight Partners,Menlo Ventures",2018,Series C,$284M
+1005,Webflow,$4B,1/13/2021,United States,San Francisco,Internet software & services,"Accel, Silversmith Capital Partners, capitalG",2012,Series C,$334.92M
+1006,Yuga Labs,$4B,3/22/2022,United States,Miami,Internet software & services,"Andreessen Horowitz, Thrive Capital, Sound Ventures",2021,Seed VC,$450M
+1007,Digit Insurance,$4B,1/15/2021,India,Bengaluru,Fintech,"Fairfax Financial Holdings, A91 Partners, TVS Capital",2016,Series F,$478.85M
+1008,Intarcia Therapeutics,$3.8B,4/1/2014,United States,Boston,Health,"New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital",1995,Debt - VI,$1.487B
+1009,ClickUp,$4B,12/15/2020,United States,San Diego,Internet software & services,"Georgian Partners, Craft Ventures",2017,Series C,$535M
+1010,Farmers Business Network,$4B,8/3/2020,United States,San Carlos,Other,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",2014,Series G,$739.6M
+1011,Branch,$4B,9/10/2018,United States,Redwood City,Mobile & telecommunications,"New Enterprise Associates, Pear, Cowboy Ventures",2014,Series F,$542M
+1012,Noom,$3.7B,5/24/2021,United States,New York,Health,"Qualcomm Ventures, Samsung Ventures, Silver Lake",2006,Series F,$627.8M
+1013,BrowserStack,$4B,6/16/2021,Ireland,Dublin,Internet software & services,"Accel, Insight Partners, Bond Capital",2011,Series B,$250M
+1014,Melio,$4B,1/25/2021,United States,New York,Fintech,"Accel, Aleph, American Express Ventures",2019,Incubator/Accelerator,None
+1015,Rubrik,$4B,4/28/2017,United States,Palo Alto,Data management & analytics,"Greylock Partners, Lightspeed Venture Partners, Khosla Ventures",2014,Corporate Minority,$553M
+1016,Olive,$4B,12/1/2020,United States,Columbus,Health,"Drive Capital, General Catalyst, Ascension Ventures",2012,Series H,$858.8M
+1017,Cerebras Systems,$4B,11/14/2018,United States,Los Altos,Hardware,"Benchmark, Foundation Capital, Sequoia Capital",2016,Series F,$718M
+1018,Clubhouse,$4B,1/24/2021,United States,San Francisco,Mobile & telecommunications,"Andreessen Horowitz, TQ Ventures",2020,None,None
+1019,Greensill,$4B,7/16/2018,United Kingdom,London,Fintech,"SoftBank Group, General Atlantic",2011,Corporate Minority - II,$1.705B
+1020,Patreon,$4B,9/2/2020,United States,San Francisco,Internet software & services,"Index Ventures, Thrive Capital, CRV",2013,Series F,$412.1M
+1021,Impossible Foods,$4B,5/13/2019,United States,Redwood City,Consumer & retail,"Khosla Ventures, Horizons Ventures, Temasek Holdings",2011,Series H,$2.006B
+1022,Radiology Partners,$4B,2/26/2018,United States,El Segundo,Health,"New Enterprise Associates, Starr Investment Holdings",2012,Unattributed - V,$1.347B
+1023,Next Insurance,$4B,10/7/2019,United States,Palo Alto,Fintech,"Zeev Ventures, Ribbit Capital, TLV Partners",2016,Corporate Minority,$881M
+1024,PointClickCare,$4B,1/7/2021,Canada,Mississauga,Internet software & services,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",2000,Private Equity,$86.88M
+1025,MEGVII,$4B,10/31/2017,China,Beijing,Artificial intelligence,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",2011,Series D - II,$1.358B
+1026,Zapier,$4B,1/14/2021,United States,Sunnyvale,Internet software & services,"Sequoia Capital, Bessemer Venture Partners, Threshold Ventures",None,Secondary Market,$2.58M
+1027,Houzz,$4B,9/30/2014,United States,Palo Alto,E-commerce & direct-to-consumer,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",2008,Corporate Minority,$613.6M
+1028,Yello Mobile,$4B,11/11/2014,South Korea,Seoul,Mobile & telecommunications,Formation 8,2012,Convertible Note - II,$216.07M
+1029,Skydance Media,$4B,2/11/2020,United States,Santa Monica,Other,"RedBird Capital Partners, CJ ENM, Tencent Holdings",2010,Private Equity - II,$2.475B
+1030,Weee!,$4.1B,3/16/2021,United States,Fremont,"Supply chain, logistics, & delivery","Goodwater Capital, iFly, XVC Venture Capital",2015,Series E,$836.3M
+1031,Globalization Partners,$4.2B,1/24/2022,United States,Boston,Internet software & services,"Vista Equity Partners, Wincove, TDR Capital",2012,Private Equity - II,$353.5M
+1032,dbt Labs,$4.2B,6/30/2021,United States,Philadelphia,Data management & analytics,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",2016,Series D,$415.9M
+1033,Dataminr,$4.1B,6/4/2018,United States,New York,Artificial intelligence,"Venrock, Institutional Venture Partners, Goldman Sachs",2009,Series F,$1.044B
+1034,Relativity Space,$4.2B,11/23/2020,United States,Inglewood,Other,"Playground Global, Bond, Tribe Capital",2016,Series E - II,$1.385B
+1035,ThoughtSpot,$4.2B,5/8/2018,United States,Sunnyvale,Internet software & services,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",2012,Series F,$673.7M
+1036,BitPanda,$4.11B,3/16/2021,Austria,Vienna,Fintech,"Speedinvest, Valar Ventures, Uniqa Ventures",2014,Series C,$497.43M
+1037,Sorare,$4.3B,9/21/2021	,France,Paris,Internet software & services,"Benchmark, Accel, SoftBank Group",2019,Angel - II,$737.08M
+1038,Arctic Wolf Networks,$4.3B,10/22/2020,United States,Eden Prairie,Cybersecurity,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",2012,Convertible Note,$899.25M
+1039,Guild Education,$4.4B,11/13/2019,United States,Denver,Internet software & services,"General Atlantic, Blackstone, ICONIQ Growth",2015,Series F - II,$641.17M
+1040,Miaoshou Doctor,$4.25B,6/27/2019,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",2015,Series F,$971.14M
+1041,Outreach,$4.4B,4/16/2019,United States,Seattle,Internet software & services,"Mayfield Fund, M12, Trinity Ventures",2011,Series G,$489.78M
+1042,Lenskart,$4.5B,12/20/2019,India,Faridabad,E-commerce & direct-to-consumer,"Chiratae Ventures, PremjiInvest, Softbank",2008,Series J - II,$1.081B
+1043,UBTECH Robotics,$4.58B,7/25/2016,China,Shenzhen,Hardware,"CDH Investments, Goldstone Investments, Qiming Venture Partners",2012,Unattributed VC,$645.6M
+1044,WeRide,$4.4B,12/23/2020,China,Guangzhou,Auto & transportation,"Atop Capital, IDInvest Partners, Qiming Venture Partners",2017,Series C - IV,$1.189B
+1045,wefox,$4.5B,3/5/2019,Germany,Berlin,Fintech,"Salesforce Ventures, Seedcamp, OMERS Ventures",2014,Debt,$1.324B
+1046,Monzo,$4.5B,10/31/2018,United Kingdom,London,Fintech,"Passion Capital, Thrive Capital, Orange Digital Ventures",2018,Other Investors,None
+1047,Pleo,$4.7B,7/6/2021,Denmark,Copenhagen,Fintech,"Creandum, Founders, Kinnevik",2015,Series C - II,$428.8M
+1048,Chipone,$4.73B,12/16/2021,China,Beijing,Hardware,"China Grand Prosperity Investment, Silk Road Huacheng, Oriza Equity Investment",2008,Series E,$1.024B
+1049,SonarSource,$4.7B,4/26/2022,Switzerland,Geneva,Internet software & services,"Advent International,General Catalyst,Insight Partners",2008,Unattributed VC,$457M
+1050,VIPKid,$4.5B,8/4/2016,China,Beijing,Edtech,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",2013,Series E,$975.49M
+1051,Socure,$4.5B,3/16/2021,United States,New York,Cybersecurity,"Two Sigma Ventures, Flint Capital, Commerce Ventures",2012,Series E,$648.25M
+1052,Vinted,$4.53B,11/27/2019,Lithuania,Vilnius,E-commerce & direct-to-consumer,"Accel, Insight Partners, Burda Principal Investments",2008,Series F,$562.23M
+1053,BetterUp,$4.7B,2/25/2021,United States,San Francisco,Internet software & services,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",2013,Series E,$566.9M
+1054,Lendable,$4.58B,3/31/2021,United Kingdom,London,Fintech,"Ontario Teachers' Pension Plan, Goldman Sachs",2014,Growth Equity,$527.41M
+1055,Reify Health,$4.8B,8/10/2021,United States,Boston,Health,"Sierra Ventures, Battery Ventures, Asset Management Ventures",2012,Series D,$477.64M
+1056,Color,$4.6B,1/4/2021,United States,Burlingame,Health,"General Catalyst, Viking Global Investors, T. Rowe Price",2013,Series E,$496.04M
+1057,Checkr,$4.6B,9/19/2019,United States,San Francisco,Internet software & services,"Y Combinator, Accel, T. Rowe Price",2014,Series E - II,$679M
+1058,Cerebral,$4.8B,6/10/2021,United States,San Francisco,Health,"Oak HC/FT Partners, Artis Ventures, WestCap Group",2019,Series C,$462M
+1059,Creditas,$4.8B,12/18/2020,Brazil,Sao Paulo,Fintech,"Kaszek Ventures, Amadeus Capital Partners, Quona Capital",2012,Series F - II,$917.44M
+1060,Lyra Health,$5.85B,8/25/2020,United States,Burlingame,Health,"Greylock Partners, Venrock, Providence Ventures",2015,Series G,$906.13M
+1061,Meesho,$4.9B,4/5/2021,India,Bengaluru,Internet software & services,"Venture Highway, Sequoia Capital India, Prosus Ventures",2015,Series F,$1.061B
+1062,SSENSE,$4.15B,6/8/2021,Canada,Montreal,E-commerce & direct-to-consumer,Sequoia Capital,None,None,None
+1063,Grafana Labs,$4.93B,3/25/2021,United States,New York,Internet software & services,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",2014,Series D,$570.23M
+1064,OfBusiness,$5B,7/31/2021,India,Gurgaon,E-commerce & direct-to-consumer,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",2015,Series G,$855.55M
+1065,ShareChat,$5B,4/8/2021,India,Bengaluru,Internet software & services,"India Quotient, Elevation Capital, Lightspeed Venture Partners",2015,Series H - II,$1.655B
+1066,Ola Electric Mobility,$5B,7/2/2019,India,Bengaluru,Auto & transportation,"SoftBank Group, Tiger Global Management, Matrix Partners India",2019,Series C - II,$822.29M
+1067,VerSe Innovation,$5B,12/22/2020,India,Bengaluru,Mobile & telecommunications,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",2007,Shareholder Liquidity,$1.674B
+1068,OakNorth Bank,$5B,10/12/2017,United Kingdom,London,Fintech,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",2015,Secondary Market - II,$990.52M
+1069,Qonto,$5B,1/11/2022,France,Paris,Fintech,"Alven Capital, Valar Ventures, Tencent Holdings",2016,Angel - II,$708.82M
+1070,Pine Labs,$5B,1/24/2020,India,Noida,Fintech,"Sequoia Capital India, Temasek, PayPal Ventures",1998,Unattributed - IV,$1.127B
+1071,ZEPZ,$5B,8/23/2021,United Kingdom,London,Fintech,"Accel, Technology Crossover Ventures, LeapFrog Investments",2010,Series E,$692M
+1072,Coalition,$5B,3/17/2021,United States,San Francisco,Cybersecurity,"Two Sigma Ventures, Flint Capital, Commerce Ventures",2017,Series F,$770M
+1073,Hopper,$5B,3/24/2021,Canada,Montreal,Travel,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",2007,Series H,$710.2M
+1074,SambaNova Systems,$5B,4/13/2021,United States,Palo Alto,Data management & analytics,"Walden International, Google Ventures, Intel Capital",2017,Series D,$1.132B
+1075,Icertis,$5B,7/17/2019,United States,Bellevue,Artificial intelligence,"Eight Roads Ventures, Greycroft, Ignition Partners",2009,Line of Credit,$521.5M
+1076,Cockroach Labs,$5B,1/12/2021,United States,New York,Data management & analytics,"Google Ventures, Benchmark, FirstMark Capital",2015,Series F,$632.85M
+1077,Howden Group Holdings,$5B,9/29/2020,United Kingdom,London,Other,"General Atlantic, 3i Group, Huagai Capital",1994,Private Equity - III,$187.26M
+1078,Airwallex,$5.5B,3/25/2019,Australia,Melbourne,Fintech,"DST Global, Sequoia Capital China, Tencent Holdings",2015,Series E - III,$902M
+1079,QuintoAndar,$5.1B,9/9/2019,Brazil,Campinas,E-commerce & direct-to-consumer,"Kaszek Ventures, General Atlantic, SoftBank Group",2012,Unattributed,$755.74M
+1080,Rappi,$5.25B,8/31/2018,Colombia,Bogota,"Supply chain, logistics, & delivery","DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",2015,None,None
+1081,Horizon Robotics,$5B,2/27/2019,China,Beijing,Artificial intelligence,"Hillhouse Capital Management, Linear Venture, Morningside Venture Capital",2015,Corporate Minority - IV,$3.2B
+1082,Hello TransTech,$5B,6/1/2018,China,Shanghai,Auto & transportation,"Ant Financial Services Group, GGV Capital",2016,Corporate Minority - III,$2.701B
+1083,Collibra,$5.25B,1/29/2019,Belgium,Brussels,Data management & analytics,"Index Ventures, Battery Ventures, ICONIQ Capital",2008,Unattributed VC,$595.9M
+1084,Flink,$5B,12/1/2021,Germany,Berlin,E-commerce & direct-to-consumer,"Mubadala Capital, Bond, Prosus Ventures",2021,Series C,$1.11B
+1085,Mambu,$5.5B,1/6/2021,Netherlands,Amsterdam,Fintech,"Runa Capital, Acton Capital Partners, Point Nine Capital",2011,Debt,$445.51M
+1086,The Boring Company,$5.7B,4/20/2022,United States,Pflugerville,Other,"VY Capital, 8VC, Craft Ventures",2016,Series C,$907.52M
+1087,ContentSquare,$5.6B,5/25/2021,France,Paris,Internet software & services,"Highland Europe, Eurazeo, Canaan Partners",2012,Debt,$1.412B
+1088,Trade Republic,$5.36B,5/20/2021,Germany,Berlin,Fintech,"Founders Fund. Accel, Creandum",2015,Series C - II,$1.255B
+1089,OneTrust,$5.1B,7/11/2019,United States,Atlanta,Internet software & services,Insight Partners,2016,Unattributed,$943.65M
+1090,RELEX,$5.7B,2/17/2022,Finland,Helsinki,"Supply chain, logistics, & delivery","Blackstone, Technology Crossover Ventures, Summit Partners",2005,Growth Equity - IV,$792.36M
+1091,FiveTran,$5.6B,6/30/2020,United States,Oakland,Data management & analytics,"Matrix Partners, Andreessen Horowitz, General Catalyst",2012,Series D,$728.02M
+1092,Postman,$5.6B,6/11/2020,United States,San Francisco,Internet software & services,"Nexus Venture Partners, CRV, Insight Partners",2014,Series D,$433M
+1093,Back Market,$5.7B,5/18/2021,France,Paris,E-commerce & direct-to-consumer,"Aglae Ventures, Eurazeo, Daphni",2014,Series E,$1.021B
+1094,Attentive,$5.99B,9/23/2020,United States,Hoboken,Mobile & telecommunications,"NextView Ventures, Eniac Ventures, Sequoia Capital",2016,Series E - II,$864.52M
+1095,Lianjia,$5.77B,4/7/2016,China,Beijing,E-commerce & direct-to-consumer,"Tencent, Baidu, Huasheng Capital",2001,Series E,$1.701B
+1096,6Sense,$5.2B,3/30/2021,United States,San Francisco,Artificial intelligence,"Venrock, Battery Ventures, Insight Partners",2013,Series E,$424M
+1097,Better.com,$6B,11/10/2020,United States,New York,Fintech,"Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers",2018,Seed VC - III,$1.42M
+1098,Benchling,$6.1B,4/14/2021,United States,San Francisco,Internet software & services,"Thrive Capital, Benchmark, MenloVentures",2012,Series F,$412M
+1099,Royole Corporation,$6B,8/18/2015,China,Shenzhen,Hardware,"Warmsun Holding, IDG Capital Partners",2012,Unattributed - III,$1.414B
+1100,Workato,$5.7B,1/12/2021,United States,Mountain View,Internet software & services,"Battery Ventures, Storm Ventures, Redpoint Ventures",2013,Corporate Minority,$415M
+1101,Easyhome,$5.78B,2/12/2018,China,Beijing,Consumer & retail,"Alibaba Group, Boyu Capital, Borui Capital",1999,Corporate Minority,$2.085B
+1102,Vice Media,$5.7B,4/2/2011,United States,Brooklyn,Internet software & services,"Technology Crossover Ventures, A&E Television Networks",1994,Private Equity - II,$1.555B
+1103,iCapital Network,$6B,7/27/2021,United States,New York,Fintech,"BlackRock, Blackstone, UBS",2013,Corporate Minority,$729.22M
+1104,Wiz,$6B,3/17/2021,Israel,Tel Aviv,Cybersecurity,"Insight Partners, Sequoia Capital, Index Ventures",2020,Series D,$600M
+1105,Black Unicorn Factory,$6.1B,5/20/2021,United States,Los Angeles,Other,Barter Ventures,2020,Series B,$645M
+1106,Upgrade,$6.28B,2/12/2018,United States,San Francisco,Fintech,"Union Square Ventures, Ribbit Capital, VY Capital",2009,None,None
+1107,Cityblock Health,$5.7B,12/10/2020,United States,Brooklyn,Health,"Thrive Capital, Maverick Ventures, Redpoint Ventures",2017,Series D,$891.3M
+1108,Hinge Health,$6.2B,1/6/2021,United States,San Francisco,Health,"Atomico, Insight Partners, Coatue Management",2015,Secondary Market,$853.85M
+1109,National Stock Exchange of India,$6.5B,7/1/2020,India,Mumbai,Fintech,"TA Associates, SoftBank Group, GS Growth",1992,Private Equity,$149.5M
+1110,Doctolib,$6.4B,3/19/2019,France,Paris,Health,"BPI France, Kerala Ventures, Accel",2013,Debt,$815.98M
+1111,CRED,$6.4B,4/6/2021,India,Bengaluru,Fintech,"Tiger Global Management, DST Global, Sequoia Capital India",2021,None,None
+1112,SVOLT,$6.51B,6/8/2020,China,Changzhou,Auto & transportation,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",2018,Series B - III,$3.207B
+1113,1Password,$6.8B,7/8/2021,Canada,Toronto,Cybersecurity,"Slack Fund, Accel, Skip Capital",2005,Series C,$920.14M
+1114,Ola Cabs,$7.5B,10/27/2014,India,Bengaluru,Auto & transportation,"Accel Partners, SoftBank Group, Sequoia Capital",None,Acq - Fin,None
+1115,Ziroom,$6.6B,1/17/2018,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Warburg Pincus, General Catalyst",2011,Series C,$2.121B
+1116,C6 Bank,$5.05B,12/2/2020,Brazil,Sao Paulo,Fintech,Credit Suisse,None,None,None
+1117,Klarna,$6.7B,12/12/2011,Sweden,Stockholm,Fintech,"Institutional Venture Partners, Sequoia Capital, General Atlantic",2005,Private Equity - IV,$4.272B
+1118,DataRobot,$6.3B,7/29/2019,United States,Boston,Artificial intelligence,"New Enterprise Associates, Accomplice, IA Ventures",2012,Series G - II,$1.089B
+1119,ConsenSys,$7B,11/17/2021,United States,New York,Fintech,"Third Point, Electric Capital, Coinbase Ventures",2014,Secondary Market,$732.5M
+1120,Mollie,$6.5B,9/8/2020,Netherlands,Amsterdam,Fintech,Technology Crossover Ventures,2004,Series C,$934.32M
+1121,We Doctor,$7B,9/22/2015,China,Hangzhou,Health,"Tencent, Morningside Group",2010,Series G,$1.936B
+1122,Ro,$7B,7/27/2020,United States,New York,Health,"Initialized Capital, General Catalyst, SignalFire",2017,Series D - II,$1.027B
+1123,Automation Anywhere,$6.8B,7/2/2018,United States,San Jose,Artificial intelligence,"General Atlantic, Goldman Sachs, New Enterprise Associates",2003,Loan,$1.04B
+1124,Toss,$7B,12/9/2018,South Korea,Seoul,Fintech,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",2013,Series G - III,$1.653B
+1125,Argo AI,$7.25B,7/12/2019,United States,Pittsburgh,Auto & transportation,"Volkswagen Group, Ford Autonomous Vehicles",2016,Dead,$500M
+1126,Gemini,$7.1B,11/19/2021,United States,New York,Fintech,"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",2015,Series A,$400M
+1127,Gong,$7.25B,8/12/2020,United States,Palo Alto,Artificial intelligence,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",2015,Series E,$583M
+1128,Scale AI,$7.3B,8/5/2019,United States,San Francisco,Artificial intelligence,"Accel, Y Combinator, Index Ventures",None,Other Investors,None
+1129,Carta,$7.4B,5/6/2019,United States,San Francisco,Fintech,"Menlo Ventures, Spark Capital, Union Square Ventures",2012,Series G,$1.158B
+1130,Hopin,$7.75B,11/10/2020,United Kingdom,London,Internet software & services,"Accel, Northzone Ventures, Institutional Venture Partners",None,None,None
+1131,Dapper Labs,$7.6B,3/30/2021,Canada,Vancouver,Internet software & services,"Union Square Ventures, Venrock, Andreessen Horowitz",2018,Unattributed - III,$676.96M
+1132,Flexport,$8B,4/30/2018,United States,San Francisco,"Supply chain, logistics, & delivery","Bloomberg Beta, Founders Fund, First Round Capital",2013,Line of Credit,$2.437B
+1133,Snyk,$7.4B,1/21/2020,United States,Boston,Cybersecurity,"BOLDstart Ventures, Google Ventures, Accel",2015,Series G,$1.222B
+1134,Caris Life Sciences,$7.83B,5/12/2021,United States,Irving,Health,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",1996,Private Equity - II,$1.314B
+1135,Razorpay,$7.5B,10/11/2020,India,Bengaluru,Fintech,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",2013,Secondary Market,$741.62M
+1136,Automattic,$7.5B,5/27/2013,United States,San Francisco,Internet software & services,"Insight Venture Partners, Lowercase Capital, Polaris Partners",2005,Series E,$861.69M
+1137,FalconX,$8B,8/10/2021,United States,San Mateo,Fintech,"Tiger Global Management, American Express Ventures, B Capital Group",2018,Series D,$427M
+1138,Fireblocks,$8B,7/27/2021,United States,New York,Fintech,"Tenaya Capital, Coatue Management, Stripes Group",2018,Series E,$1.039B
+1139,Weilong,$10.88B,5/8/2021,China,Luohe,Consumer & retail,"Tencent Holdings, Hillhouse Capital Management, Yunfeng Capital",2001,IPO,$559.74M
+1140,Alchemy,$10.2B,10/28/2021,United States,San Francisco,Fintech,"DFJ Growth Fund, Coatue Management, Addition",2017,Series D,$545M
+1141,Swiggy,$10.7B,6/21/2018,India,Bengaluru,"Supply chain, logistics, & delivery","Accel India, SAIF Partners, Norwest Venture Partners",2014,Series K,$3.571B
+1142,Dream11,$8B,4/9/2019,India,Mumbai,Internet software & services,"Kaalari Capital, Tencent Holdings, Steadview Capital",2007,Series F,$1.165B
+1143,Ramp,$8.1B,3/29/2021,United States,New York,Fintech,"D1 Capital Partners, Stripe, Coatue Management",2019,Debt - II,$1.377B
+1144,Global Switch,$11.1B,12/22/2016,United Kingdom,London,Hardware,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",1998,Corporate Minority - II,$6.255B
+1145,Bolt,$11B,10/8/2021,United States,San Francisco,Fintech,"Activant Capital, Tribe Capital, General Atlantic",2014,Series E,$963M
+1146,Xingsheng Selected,$12B,7/22/2020,China,Changsha,E-commerce & direct-to-consumer,"KKR, Tencent Holdings, Sequoia Capital China",2009,Unattributed,$5.04B
+1147,Getir,$11.8B,3/26/2021,Turkey,Istanbul,"Supply chain, logistics, & delivery","Tiger Global Management, Sequoia Capital, Revo Capital",2015,Series E,$1.94B
+1148,GoodLeap,$12B,10/13/2021,United States,Roseville,Internet software & services,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",2003,Growth Equity - II,$1.8B
+1149,Rippling,$11.25B,8/4/2020,United States,San Francisco,Internet software & services,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",2017,Series D,$697.12M
+1150,Deel,$12B,4/21/2021,United States,San Francisco,Fintech,"Andreessen Horowitz, Spark Capital, Y Combinator",2019,Series D - II,$675.15M
+1151,Biosplice Therapeutics,$12B,8/6/2018,United States,San Diego,Health,"Vickers Venture Partners, IKEA GreenTech",2008,Series B,$561.5M
+1152,ZongMu Technology,$11.4B,6/3/2021,China,Shanghai,Auto & transportation,"LTW Capital, Legend Capital, Qualcomm Ventures",2013,Series E,$367.83M
+1153,Airtable,$11.7B,11/15/2018,United States,San Francisco,Internet software & services,"Caffeinated Capital, CRV, Founder Collective",2013,Series F,$1.353B
+1154,Brex,$12.3B,10/5/2018,United States,San Francisco,Fintech,"DST Global, Ribbit Capital, Greenoaks Capital Management",2017,Series D - II,$1.49B
+1155,Devoted Health,$12.6B,10/16/2018,United States,Waltham,Health,"Andreessen Horowitz, F-Prime Capital, Venrock",2017,Series D,$1.969B
+1156,Bitmain Technologies,$12B,7/6/2018,China,Beijing,Hardware,"Coatue Management, Sequoia Capital China, IDG Capital",2013,Series B,$450M
+1157,Faire,$12.59B,10/30/2019,United States,San Francisco,Artificial intelligence,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",2017,Series G - III,$1.692B
+1158,JUUL Labs,$12B,12/20/2017,United States,San Francisco,Consumer & retail,Tiger Global Management,2015,Unattributed,$15.372B
+1159,Grammarly,$13B,10/10/2019,United States,San Francisco,Internet software & services,"General Catalyst, Institutional Venture Partners, Breyer Capital",2009,Unattributed VC - III,$400M
+1160,Celonis,$13B,6/26/2018,Germany,Munich,Data management & analytics,"Accel, 83North",2011,Line of Credit,$2.368B
+1161,Yuanfudao,$15.5B,5/31/2017,China,Beijing,Edtech,"Tencent Holdings, Warbug Pincus, IDG Capital",2012,Series G - IV,$4.044B
+1162,Ripple,$15B,12/20/2019,United States,San Francisco,Fintech,"IDG Capital, Venture51, Lightspeed Venture Partners",2012,Shareholder Liquidity,$293.9M
+1163,Discord,$15B,4/20/2018,United States,San Francisco,Internet software & services,"Benchmark, Greylock Partners, Tencent Holdings",2012,Corporate Minority,$979.3M
+1164,Plaid,$13.5B,12/11/2018,United States,San Francisco,Fintech,"New Enterprise Associates, Spar Capital, Index Ventures",2012,Series D - II,$734.8M
+1165,OpenSea,$13.3B,7/20/2021,United States,New York,Internet software & services,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",2017,Series C,$425.12M
+1166,goPuff,$15B,10/8/2020,United States,Philadelphia,"Supply chain, logistics, & delivery","Accel, Softbank Group, Anthos Capital",2013,Angel,$3.397B
+1167,Blockchain.com,$14B,2/17/2021,United Kingdom,London,Fintech,"Lightspeed Venture Partners, Google Ventures, Lakestar",2011,Unattributed VC,$490.5M
+1168,Yuanqi Senlin,$15B,3/1/2020,China,Beijing,Consumer & retail,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",2016,Series B - V,$721.31M
+1169,DJI Innovations,$15B,1/23/2015,China,Shenzhen,Hardware,"Accel Partners, Sequoia Capital",2006,Series D,$1.135B
+1170,Xiaohongshu,$20B,3/31/2016,China,Shanghai,E-commerce & direct-to-consumer,"GGV Capital, ZhenFund, Tencent",2013,Series E,$917.5M
+1171,BYJU's,$22B,7/25/2017,India,Bengaluru,Edtech,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",2011,Series I,$5.833B
+1172,Miro,$17.5B,1/5/2022,United States,San Francisco,Internet software & services,"Accel, AltaIR Capital, Technology Crossover Ventures",2011,Series C,$475M
+1173,J&T Express,$20B,4/7/2021,Indonesia,Jakarta,"Supply chain, logistics, & delivery","Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",2015,Private Equity - II,$4.653B
+1174,SHEIN,$100B,7/3/2018,China,Shenzhen,E-commerce & direct-to-consumer,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",2008,Growth Equity,$1.553B
+1175,Revolut,$33B,4/26/2018,United Kingdom,London,Fintech,"index Ventures, DST Global, Ribbit Capital",2015,Series E,$1.716B
+1176,Canva,$40B,1/8/2018,Australia,Surry Hills,Internet software & services,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",2012,Angel,$571.26M
+1177,Checkout.com,$40B,5/2/2019,United Kingdom,London,Fintech,"Tiger Global Management, Insight Partners, DST Global",2012,Series D,$1.83B
+1178,Epic Games,$31.5B,10/26/2018,United States,Cary,Other,"Tencent Holdings, KKR, Smash Ventures",1991,Private Equity - IV,$6.377B
+1179,Chime,$25B,3/5/2019,United States,San Francisco,Fintech,"Forerunner Ventures, Crosslink Capital, Homebrew",2013,Series G - II,$2.599B
+1180,SpaceX,$127B,12/1/2012,United States,Hawthorne,Other,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",2002,Unattributed - VIII,$9.704B
+1181,Fanatics,$31B,6/6/2012,United States,Jacksonville,E-commerce & direct-to-consumer,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",1995,Series I,$4.89B
+1182,Instacart,$39B,12/30/2014,United States,San Francisco,"Supply chain, logistics, & delivery","Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",2012,Series I,$2.686B
+1183,Databricks,$38B,2/5/2019,United States,San Francisco,Data management & analytics,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",2013,Corporate Minority,$3.497B
+1184,Stripe,$95B,1/23/2014,United States,San Francisco,Fintech,"Khosla Ventures, LowercaseCapital, capitalG",2010,Corporate Minority - II,$2.901B

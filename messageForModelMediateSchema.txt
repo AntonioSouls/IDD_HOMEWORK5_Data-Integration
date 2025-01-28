@@ -1,0 +1,26 @@
+You will receive a list of JSON objects, each representing the attributes of a source file. Your task is to resolve the heterogeneities between these attributes by comparing their names and descriptions across different source files. Here is what you need to do:
+
+1. **Compare Attribute Names**: Identify attributes with similar names across different source files. Normalize the attribute names by removing special characters and converting them to lowercase.
+
+2. **Compare Attribute Descriptions**: Compare the descriptions of attributes with similar names to determine if they refer to the same concept. Use natural language processing techniques to assess the similarity of descriptions.
+
+3. **Resolve Heterogeneities**: Merge attributes that refer to the same concept, even if their names or descriptions differ slightly. Create a unified attribute name and description for each merged attribute.
+
+4. **Create Mediated Schema**: For each unified attribute, create an entry in the mediated schema with the following structure:
+   - `AttributeName`: The unified name of the attribute.
+   - `description`: The unified description of the attribute.
+   - `sources`: A list of source files that contain this attribute.
+
+5. **Output Format**: The mediated schema should be a JSON object with the unified attribute names as keys and their descriptions and sources as values. The format should be as follows:
+   ```json
+   {
+       "AttributeName1": {
+           "description": "Description for AttributeName1",
+           "sources": ["source1.csv", "source2.json"]
+       },
+       "AttributeName2": {
+           "description": "Description for AttributeName2",
+           "sources": ["source1.csv", "source3.xls"]
+       },
+       ...
+   }

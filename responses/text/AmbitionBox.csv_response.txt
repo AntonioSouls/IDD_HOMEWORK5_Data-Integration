@@ -1,0 +1,11 @@
+```json
+{
+    "AmbitionBox": {
+        "Name": "The official or commonly known business name of the company.",
+        "Industry": "The sector or category of business operations the company is primarily engaged in.",
+        "Headquarter": "The city, state/region, and country where the company's main office is located.",
+        "Ownership": "Indicates if the company is publicly traded (Public) or privately held (Private).",
+        "Foundation Year": "The year when the company was established or officially founded, often including age."
+    }
+}
+```

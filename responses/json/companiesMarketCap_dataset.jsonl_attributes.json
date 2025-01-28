@@ -1,0 +1,13 @@
+{
+    "companiesMarketCap_dataset": {
+        "id": "Unique identifier assigned to each company.",
+        "name": "Name of the company.",
+        "rank": "Company's rank, likely based on market capitalization, indicating its position.",
+        "market_cap": "Market capitalization of the company, representing its total market value.",
+        "country": "Company's headquarters country.",
+        "share_price": "Current price of one share of the company's stock.",
+        "change_1_day": "Percentage change in the company's share price over the last day.",
+        "change_1_year": "Percentage change in the company's share price over the last year.",
+        "categories": "List of categories or sectors the company belongs to."
+    }
+}

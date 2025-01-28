@@ -1,0 +1,24 @@
+```json
+{
+    "valueToday_dataset": {
+        "id": "Unique identifier for the company in the dataset.",
+        "name": "Official name of the company.",
+        "world_rank": "Global ranking of the company.",
+        "annual_revenue_in_usd": "Company's yearly revenue in US dollars.",
+        "annual_net_income_in_usd": "Company's yearly net income in US dollars.",
+        "annual_results_for_year_ending": "Month and year indicating the end of the annual financial period.",
+        "total_assets_in_usd": "Company's total assets in US dollars.",
+        "total_liabilities_in_usd": "Company's total liabilities in US dollars.",
+        "total_equity_in_usd": "Company's total equity in US dollars.",
+        "headquarters_region_city": "City where the company headquarters is located.",
+        "headquarters_country": "Country where the company headquarters is located.",
+        "headquarters_sub_region": "Sub-region of the company's headquarters location.",
+        "headquarters_continent": "Continent of the company's headquarters location.",
+        "company_business": "Business sectors or industries the company is involved in.",
+        "number_of_employees": "Total number of employees working for the company.",
+        "ceo": "Name of the company's Chief Executive Officer.",
+        "founders": "List of individuals who founded the company.",
+        "company_website": "URL of the company's official website."
+    }
+}
+```

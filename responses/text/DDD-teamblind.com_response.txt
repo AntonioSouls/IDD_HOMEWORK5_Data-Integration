@@ -1,0 +1,13 @@
+```json
+{
+    "DDD-teamblind.com": {
+        "Unnamed: 0": "Index or row number of the data entry in the source file; likely automatically generated.",
+        "name": "Name of the company, as listed in the source file.",
+        "website": "Website address of the company.",
+        "locations": "Geographic location of the company's headquarters or primary office.",
+        "size": "The size of the company based on the number of employees.",
+        "industry": "The industry sector in which the company operates.",
+        "founded": "Year in which the company was established or founded."
+    }
+}
+```

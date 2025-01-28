@@ -1,0 +1,13 @@
+{
+    "hitHorizons_dataset": {
+        "id": "Unique identifier for the company record.",
+        "name": "Name of the company.",
+        "address": "Full address of the company, including street, city, postal code, and country.",
+        "nation": "Unique national identification number assigned to the company.",
+        "hhid": "Specific hierarchical identifier number assigned to the company.",
+        "industry": "Broad industry sector in which the company operates.",
+        "sic_code": "Standard Industrial Classification code and description detailing the company's specific business activity.",
+        "type": "Legal structure or type of the company, e.g., Corporation.",
+        "est_of_ownership": "Year of establishment of the company ownership."
+    }
+}

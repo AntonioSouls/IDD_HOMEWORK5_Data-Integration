@@ -1,0 +1,12 @@
+```json
+{
+    "disfold.com": {
+        "link": "URL of the company's page on disfold.com, providing more details about the company.",
+        "name": "The official name of the company.",
+        "headquarters": "City and country where the company's main office is located.",
+        "employees": "Number of people employed by the company. May be listed as 'Not found'.",
+        "ceo": "Name of the company's Chief Executive Officer. May be listed as 'Not found'.",
+        "market_cap": "Total market value of the company's outstanding shares, including currency and unit."
+    }
+}
+```

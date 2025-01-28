@@ -145,13 +145,16 @@ def main():
     # Define the prompt
     prompt = "".join(open("messageForModel.txt", "r", encoding='utf-8').readlines())
     
-    # Create the responses directory if it doesn't exist
-    if not os.path.exists('responses'):
-        os.makedirs('responses')
+    # Create the responses directory and subdirectories if they don't exist
+    if not os.path.exists('responses/text'):
+        os.makedirs('responses/text')
+    if not os.path.exists('responses/json'):
+        os.makedirs('responses/json')
     
     # Iterate over each file in the source folder
     for file_name in os.listdir(source_folder):
         file_path = os.path.join(source_folder, file_name)
+        file_base_name = os.path.splitext(file_name)[0]  # Get the file name without extension
         
         # Read the file based on its extension
         if file_name.endswith('.csv'):
@@ -171,6 +174,7 @@ def main():
         
         # Generate descriptions using the chatbot
         table_content = {
+            "file_name": file_base_name,
             "attributes": attributes,
             "sample_data": sample_data
         }
@@ -181,7 +185,7 @@ def main():
             response = recover_incomplete_response(prompt, response, json.dumps(table_content))
         
         # Save the response to a text file
-        with open(f"responses/{file_name}_response.txt", "w", encoding='utf-8') as response_file:
+        with open(f"responses/text/{file_base_name}_response.txt", "w", encoding='utf-8') as response_file:
             response_file.write(response if response else "No valid response obtained.")
         
         # Extract and save the JSON part of the response
@@ -189,7 +193,7 @@ def main():
             json_match = re.search(r'\{.*\}', response, re.DOTALL)
             if json_match:
                 json_response = json_match.group(0)
-                with open(f"responses/{file_name}_attributes.json", "w", encoding='utf-8') as json_file:
+                with open(f"responses/json/{file_base_name}_attributes.json", "w", encoding='utf-8') as json_file:
                     json_file.write(json_response)
 
 if __name__ == "__main__":

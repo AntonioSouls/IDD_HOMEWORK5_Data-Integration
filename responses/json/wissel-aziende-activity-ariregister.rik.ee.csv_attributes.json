@@ -1,0 +1,18 @@
+{
+    "wissel-aziende-activity-ariregister.rik.ee": {
+        "URL": "Web address of the company's page in the source registry.",
+        "ID": "Unique identification number assigned to the company in this dataset.",
+        "Name": "Official name of the company, including its registration code in brackets.",
+        "Code": "Company's registration code, a unique numeric identifier.",
+        "Legal form": "Type of legal entity the company is registered as (e.g., Private limited company).",
+        "Status": "Current registration status of the company (e.g., Entered into register, Deleted).",
+        "Registration Date": "Date when the company was officially registered.",
+        "Capital": "Stated capital amount of the company, may include currency information.",
+        "Address": "Registered address of the company, including location details.",
+        "Deletion Date": "Date when the company was removed from the registry, if applicable.",
+        "Area of Activity": "Description of the company's primary business activity.",
+        "EMTAK Code": "Estonian Classification of Economic Activities (EMTAK) code with description.",
+        "NACE Code": "Nomenclature of Economic Activities (NACE) code for the company's activity.",
+        "Source": "Information about the origin of the data, such as report type and date."
+    }
+}

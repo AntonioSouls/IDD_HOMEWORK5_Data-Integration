@@ -1,0 +1,9 @@
+{
+    "company_social_urls": {
+        "Company": "Name of the company for which social media links are provided.",
+        "Facebook": "Link to the company's official Facebook page.",
+        "Twitter": "Link to the company's official Twitter profile or relevant Twitter search.",
+        "Instagram": "Link to the company's official Instagram profile.",
+        "Pinterest": "Link to the company's official Pinterest profile or a relevant Pinterest link."
+    }
+}

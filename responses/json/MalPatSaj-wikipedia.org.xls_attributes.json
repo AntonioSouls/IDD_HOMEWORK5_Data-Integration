@@ -1,0 +1,11 @@
+{
+    "MalPatSaj-wikipedia.org": {
+        "Unnamed: 0": "Index or row number of the company entry in the source file.",
+        "Name": "Name of the company.",
+        "Industry": "General business category the company belongs to.",
+        "Sector": "Specific sub-category of the industry the company operates in.",
+        "Headquarters": "City where the company's headquarters are located.",
+        "Founded": "Year the company was established or founded.",
+        "Notes": "Additional relevant information or a brief description of the company's activities or products."
+    }
+}

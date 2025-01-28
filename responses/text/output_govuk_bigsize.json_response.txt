@@ -1,0 +1,13 @@
+```json
+{
+    "output_govuk_bigsize": {
+        "name": "The official registered name of the company.",
+        "company_number": "A unique identification number assigned to the company.",
+        "registered_office_address": "The official, legal address of the company's registered office.",
+        "company_status": "The current operational status of the company, e.g., Active, Dissolved.",
+        "company_type": "The legal company type or structure, such as 'Private limited Company'.",
+        "company_creation_date": "The date when the company was officially established or incorporated.",
+        "nature_of_business": "Describes the company's primary business activities, often including SIC codes."
+    }
+}
+```

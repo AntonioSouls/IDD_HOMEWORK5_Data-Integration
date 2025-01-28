@@ -1,0 +1,11 @@
+```json
+{
+    "campaignindia": {
+        "RANK": "The current overall ranking of the brand.",
+        "BRAND NAME": "The name of the company or brand being ranked.",
+        "CATEGORY": "The industry or sector to which the brand belongs.",
+        "MAIN MARKET": "The primary geographical market served by the brand; in this case, 'Regional'.",
+        "2010 RANK": "The brand's ranking in the year 2010."
+    }
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "ft.com": {
+        "link": "Website address of the company.",
+        "name": "Name of the company.",
+        "country": "Country where the company is located.",
+        "industry": "Industry sector the company operates in.",
+        "revenue": "Company's annual revenue.",
+        "employees": "Number of employees working for the company.",
+        "founded": "Year the company was founded."
+    }
+}
+```

@@ -1,0 +1,15 @@
+```json
+{
+    "output_globaldata": {
+        "name": "Name of the company.",
+        "headquarters": "Location of the company's headquarters.",
+        "number_of_employees": "Number of employees working at the company.",
+        "address": "Physical address of the company, potentially headquarters location.",
+        "industry": "Industry sector in which the company operates.",
+        "website": "URL of the company's website.",
+        "market_cap": "Market capitalization of the company.",
+        "telephone": "Company's telephone number for contact.",
+        "revenue": "Company's reported revenue."
+    }
+}
+```

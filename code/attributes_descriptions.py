@@ -143,7 +143,7 @@ def main():
     source_folder = 'sources'
     
     # Define the prompt
-    prompt = "".join(open("messageForModel.txt", "r", encoding='utf-8').readlines())
+    prompt = "".join(open("data/messageForModel.txt", "r", encoding='utf-8').readlines())
     
     # Create the responses directory and subdirectories if they don't exist
     if not os.path.exists('responses/text'):

@@ -110,7 +110,6 @@ def recover_incomplete_response(prompt, incomplete_response, table_content):
 
 # Function to create a mediated schema using the chatbot
 def create_mediated_schema(source_folder):
-    mediated_schema = defaultdict(lambda: {"description": "", "sources": []})
     attributes_data = []
 
     # Iterate over each file in the source folder
@@ -120,40 +119,45 @@ def create_mediated_schema(source_folder):
             data = read_json(file_path)
             attributes_data.append(data)
     
-
     # Define the prompt
-    prompt = "".join(open("messageForModelMediateSchema.txt", "r", encoding='utf-8').readlines())
+    prompt = "".join(open("data/messageForModelMediateSchema.txt", "r", encoding='utf-8').readlines())
     
     table_content = json.dumps(attributes_data, indent=4)
     
     # Ask the chatbot to resolve heterogeneities and create the mediated schema
     response = ask_chatbot(prompt, table_content, max_retries=10, wait_time=10)
     
+    # Debugging: Print the response
+    print(f"Response: {response}")
+    
     if response and not is_response_complete(response):
         response = recover_incomplete_response(prompt, response, table_content)
     
+    # Extract JSON from the response
+    json_match = re.search(r'\{.*\}', response, re.DOTALL)
+    if json_match:
+        json_response = json_match.group(0)
+    else:
+        json_response = "{}"
+    
+    # Ensure the 'data' directory exists
+    os.makedirs('data', exist_ok=True)
+    
     # Save the response to a text file
-    with open('mediated_schema.txt', 'w', encoding='utf-8') as response_file:
+    with open('data/mediated_schema.txt', 'w', encoding='utf-8') as response_file:
         response_file.write(response if response else "No valid response obtained.")
         
-    if response:
-        mediated_schema = json.loads(response)
-    else:
-        print("Error: No valid response obtained.")
-        mediated_schema = {}
-
-    
-    return mediated_schema
-
-# Function to save mediated schema to a JSON file
-def save_mediated_schema(mediated_schema, output_file):
-    with open(output_file, 'w', encoding='utf-8') as file:
-        json.dump(mediated_schema, file, indent=4)
+    # Save the JSON response directly
+    with open('data/mediated_schema.json', 'w', encoding='utf-8') as json_file:
+        json_file.write(json_response)
 
 # Main function
 def main():
     source_folder = 'responses/json'
-    output_file = 'mediated_schema.json'
+    output_file = 'data/mediated_schema.json'
+    
+    # Ensure the 'data' directory exists
+    os.makedirs('data', exist_ok=True)
     
     # Check if the mediated_schema.json file exists
     if not os.path.exists(output_file):
@@ -161,8 +165,7 @@ def main():
         with open(output_file, 'w', encoding='utf-8') as file:
             json.dump({}, file)
     
-    mediated_schema = create_mediated_schema(source_folder)
-    save_mediated_schema(mediated_schema, output_file)
+    create_mediated_schema(source_folder)
     print(f"Mediated schema saved to {output_file}")
 
 if __name__ == "__main__":

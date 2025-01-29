@@ -1,0 +1,584 @@
+{
+    "name": {
+        "description": "The official or commonly known business name of the company.",
+        "sources": [
+            "AmbitionBox.csv_attributes.json",
+            "companiesMarketCap_dataset.jsonl_attributes.json",
+            "DDD-cbinsight.com.csv_attributes.json",
+            "DDD-teamblind.com_attributes.json",
+            "disfold.com.json_attributes.json",
+            "ft.com.json_attributes.json",
+            "hitHorizons_dataset.jsonl_attributes.json",
+            "MalPatSaj-forbes.com.xls_attributes.json",
+            "MalPatSaj-wikipedia.org.xls_attributes.json",
+            "output_globaldata.json_attributes.json",
+            "output_govuk_bigsize.json_attributes.json",
+            "valueToday_dataset.jsonl_attributes.json",
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json",
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "industry": {
+        "description": "The sector or category of business operations the company is primarily engaged in.",
+        "sources": [
+            "AmbitionBox.csv_attributes.json",
+            "DDD-cbinsight.com.csv_attributes.json",
+            "DDD-teamblind.com_attributes.json",
+            "ft.com.json_attributes.json",
+            "hitHorizons_dataset.jsonl_attributes.json",
+            "MalPatSaj-wikipedia.org.xls_attributes.json",
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "headquarter": {
+        "description": "The city, state/region, and country where the company's main office is located.",
+        "sources": [
+            "AmbitionBox.csv_attributes.json"
+        ]
+    },
+    "ownership": {
+        "description": "Indicates if the company is publicly traded (Public) or privately held (Private).",
+        "sources": [
+            "AmbitionBox.csv_attributes.json"
+        ]
+    },
+    "foundationyear": {
+        "description": "The year when the company was established or officially founded, often including age.",
+        "sources": [
+            "AmbitionBox.csv_attributes.json"
+        ]
+    },
+    "rank": {
+        "description": "The current overall ranking of the brand.",
+        "sources": [
+            "campaignindia.csv_attributes.json",
+            "companiesMarketCap_dataset.jsonl_attributes.json"
+        ]
+    },
+    "brandname": {
+        "description": "The name of the company or brand being ranked.",
+        "sources": [
+            "campaignindia.csv_attributes.json"
+        ]
+    },
+    "category": {
+        "description": "The industry or sector to which the brand belongs.",
+        "sources": [
+            "campaignindia.csv_attributes.json"
+        ]
+    },
+    "mainmarket": {
+        "description": "The primary geographical market served by the brand; in this case, 'Regional'.",
+        "sources": [
+            "campaignindia.csv_attributes.json"
+        ]
+    },
+    "2010rank": {
+        "description": "The brand's ranking in the year 2010.",
+        "sources": [
+            "campaignindia.csv_attributes.json"
+        ]
+    },
+    "id": {
+        "description": "Unique identifier assigned to each company.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json",
+            "hitHorizons_dataset.jsonl_attributes.json",
+            "valueToday_dataset.jsonl_attributes.json",
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "market_cap": {
+        "description": "Market capitalization of the company, representing its total market value.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json",
+            "disfold.com.json_attributes.json",
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "country": {
+        "description": "Company's headquarters country.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json",
+            "DDD-cbinsight.com.csv_attributes.json",
+            "ft.com.json_attributes.json",
+            "MalPatSaj-forbes.com.xls_attributes.json",
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "share_price": {
+        "description": "Current price of one share of the company's stock.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json"
+        ]
+    },
+    "change_1_day": {
+        "description": "Percentage change in the company's share price over the last day.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json"
+        ]
+    },
+    "change_1_year": {
+        "description": "Percentage change in the company's share price over the last year.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json"
+        ]
+    },
+    "categories": {
+        "description": "List of categories or sectors the company belongs to.",
+        "sources": [
+            "companiesMarketCap_dataset.jsonl_attributes.json"
+        ]
+    },
+    "company": {
+        "description": "Name of the company for which social media links are provided.",
+        "sources": [
+            "company_social_urls.csv_attributes.json"
+        ]
+    },
+    "facebook": {
+        "description": "Link to the company's official Facebook page.",
+        "sources": [
+            "company_social_urls.csv_attributes.json"
+        ]
+    },
+    "twitter": {
+        "description": "Link to the company's official Twitter profile or relevant Twitter search.",
+        "sources": [
+            "company_social_urls.csv_attributes.json"
+        ]
+    },
+    "instagram": {
+        "description": "Link to the company's official Instagram profile.",
+        "sources": [
+            "company_social_urls.csv_attributes.json"
+        ]
+    },
+    "pinterest": {
+        "description": "Link to the company's official Pinterest profile or a relevant Pinterest link.",
+        "sources": [
+            "company_social_urls.csv_attributes.json"
+        ]
+    },
+    "unnamed0": {
+        "description": "Index or row number from the original source file.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json",
+            "DDD-teamblind.com_attributes.json",
+            "MalPatSaj-forbes.com.xls_attributes.json",
+            "MalPatSaj-wikipedia.org.xls_attributes.json",
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "valuation": {
+        "description": "The company's estimated valuation in US dollars.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json"
+        ]
+    },
+    "datejoined": {
+        "description": "Date when the company joined the unicorn club (reached a billion dollar valuation).",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json"
+        ]
+    },
+    "city": {
+        "description": "City where the company is headquartered or primarily operates.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json",
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "investors": {
+        "description": "Names of investors who have invested in the company.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json"
+        ]
+    },
+    "founded": {
+        "description": "Year the company was established or founded.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json",
+            "DDD-teamblind.com_attributes.json",
+            "ft.com.json_attributes.json",
+            "MalPatSaj-wikipedia.org.xls_attributes.json"
+        ]
+    },
+    "stage": {
+        "description": "Current funding stage of the company's investment rounds.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json"
+        ]
+    },
+    "totalraised": {
+        "description": "Total amount of capital raised by the company through investment rounds.",
+        "sources": [
+            "DDD-cbinsight.com.csv_attributes.json"
+        ]
+    },
+    "website": {
+        "description": "Website address of the company.",
+        "sources": [
+            "DDD-teamblind.com_attributes.json",
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "locations": {
+        "description": "Geographic location of the company's headquarters or primary office.",
+        "sources": [
+            "DDD-teamblind.com_attributes.json"
+        ]
+    },
+    "size": {
+        "description": "The size of the company based on the number of employees.",
+        "sources": [
+            "DDD-teamblind.com_attributes.json"
+        ]
+    },
+    "link": {
+        "description": "URL of the company's page on disfold.com, providing more details about the company.",
+        "sources": [
+            "disfold.com.json_attributes.json",
+            "ft.com.json_attributes.json"
+        ]
+    },
+    "headquarters": {
+        "description": "City and country where the company's main office is located.",
+        "sources": [
+            "disfold.com.json_attributes.json",
+            "MalPatSaj-wikipedia.org.xls_attributes.json",
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "employees": {
+        "description": "Number of people employed by the company. May be listed as 'Not found'.",
+        "sources": [
+            "disfold.com.json_attributes.json",
+            "ft.com.json_attributes.json"
+        ]
+    },
+    "ceo": {
+        "description": "Name of the company's Chief Executive Officer. May be listed as 'Not found'.",
+        "sources": [
+            "disfold.com.json_attributes.json",
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "revenue": {
+        "description": "Company's annual revenue.",
+        "sources": [
+            "ft.com.json_attributes.json",
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "address": {
+        "description": "Full address of the company, including street, city, postal code, and country.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json",
+            "output_globaldata.json_attributes.json",
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "nation": {
+        "description": "Unique national identification number assigned to the company.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json"
+        ]
+    },
+    "hhid": {
+        "description": "Specific hierarchical identifier number assigned to the company.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json"
+        ]
+    },
+    "sic_code": {
+        "description": "Standard Industrial Classification code and description detailing the company's specific business activity.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json"
+        ]
+    },
+    "type": {
+        "description": "Legal structure or type of the company, e.g., Corporation.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json"
+        ]
+    },
+    "est_of_ownership": {
+        "description": "Year of establishment of the company ownership.",
+        "sources": [
+            "hitHorizons_dataset.jsonl_attributes.json"
+        ]
+    },
+    "sales": {
+        "description": "Company's total sales revenue, likely in billions of US dollars.",
+        "sources": [
+            "MalPatSaj-forbes.com.xls_attributes.json"
+        ]
+    },
+    "profit": {
+        "description": "Company's net profit or earnings, likely in billions of US dollars.",
+        "sources": [
+            "MalPatSaj-forbes.com.xls_attributes.json"
+        ]
+    },
+    "assets": {
+        "description": "Total value of the company's assets, likely in billions of US dollars.",
+        "sources": [
+            "MalPatSaj-forbes.com.xls_attributes.json"
+        ]
+    },
+    "marketvalue": {
+        "description": "Company's market capitalization or total market value, likely in billions of US dollars.",
+        "sources": [
+            "MalPatSaj-forbes.com.xls_attributes.json"
+        ]
+    },
+    "sector": {
+        "description": "Specific sub-category of the industry the company operates in.",
+        "sources": [
+            "MalPatSaj-wikipedia.org.xls_attributes.json"
+        ]
+    },
+    "notes": {
+        "description": "Additional relevant information or a brief description of the company's activities or products.",
+        "sources": [
+            "MalPatSaj-wikipedia.org.xls_attributes.json"
+        ]
+    },
+    "number_of_employees": {
+        "description": "Number of employees working at the company.",
+        "sources": [
+            "output_globaldata.json_attributes.json",
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "telephone": {
+        "description": "Company's telephone number for contact.",
+        "sources": [
+            "output_globaldata.json_attributes.json"
+        ]
+    },
+    "company_number": {
+        "description": "A unique identification number assigned to the company.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "registered_office_address": {
+        "description": "The official, legal address of the company's registered office.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "company_status": {
+        "description": "The current operational status of the company, e.g., Active, Dissolved.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "company_type": {
+        "description": "The legal company type or structure, such as 'Private limited Company'.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "company_creation_date": {
+        "description": "The date when the company was officially established or incorporated.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "nature_of_business": {
+        "description": "Describes the company's primary business activities, often including SIC codes.",
+        "sources": [
+            "output_govuk_bigsize.json_attributes.json"
+        ]
+    },
+    "world_rank": {
+        "description": "Global ranking of the company.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "annual_revenue_in_usd": {
+        "description": "Company's yearly revenue in US dollars.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "annual_net_income_in_usd": {
+        "description": "Company's yearly net income in US dollars.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "annual_results_for_year_ending": {
+        "description": "Month and year indicating the end of the annual financial period.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "total_assets_in_usd": {
+        "description": "Company's total assets in US dollars.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "total_liabilities_in_usd": {
+        "description": "Company's total liabilities in US dollars.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "total_equity_in_usd": {
+        "description": "Company's total equity in US dollars.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "headquarters_region_city": {
+        "description": "City where the company headquarters is located.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "headquarters_country": {
+        "description": "Country where the company headquarters is located.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "headquarters_sub_region": {
+        "description": "Sub-region of the company's headquarters location.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "headquarters_continent": {
+        "description": "Continent of the company's headquarters location.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "company_business": {
+        "description": "Business sectors or industries the company is involved in.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "founders": {
+        "description": "List of individuals who founded the company.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "company_website": {
+        "description": "URL of the company's official website.",
+        "sources": [
+            "valueToday_dataset.jsonl_attributes.json"
+        ]
+    },
+    "url": {
+        "description": "Web address of the company's page in the source registry.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json",
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "code": {
+        "description": "Company's registration code, a unique numeric identifier.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "legalform": {
+        "description": "Type of legal entity the company is registered as (e.g., Private limited company).",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "status": {
+        "description": "Current registration status of the company (e.g., Entered into register, Deleted).",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "registrationdate": {
+        "description": "Date when the company was officially registered.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "capital": {
+        "description": "Stated capital amount of the company, may include currency information.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "deletiondate": {
+        "description": "Date when the company was removed from the registry, if applicable.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "areaofactivity": {
+        "description": "Description of the company's primary business activity.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "emtakcode": {
+        "description": "Estonian Classification of Economic Activities (EMTAK) code with description.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "nacecode": {
+        "description": "Nomenclature of Economic Activities (NACE) code for the company's activity.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "source": {
+        "description": "Information about the origin of the data, such as report type and date.",
+        "sources": [
+            "wissel-aziende-activity-ariregister.rik.ee.csv_attributes.json"
+        ]
+    },
+    "index": {
+        "description": "Index or identifier of the company entry, starting from 0.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "tradename": {
+        "description": "Trade name or 'doing business as' name of the company, if different from the legal name.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "addressname": {
+        "description": "Street address of the company's location.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "postalcode": {
+        "description": "Postal code of the company's address.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "state": {
+        "description": "State or region of the company's address; may include abbreviation in parentheses.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    },
+    "locationtype": {
+        "description": "Type of company location, such as Headquarter or Single address.",
+        "sources": [
+            "wissel-aziende-info-clipper.com.csv_attributes.json"
+        ]
+    }
+}

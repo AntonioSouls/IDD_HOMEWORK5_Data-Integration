@@ -1,0 +1,171 @@
+{
+    "AmbitionBox": {
+        "Name": "The official or commonly known business name of the company.",
+        "Industry": "The sector or category of business operations the company is primarily engaged in.",
+        "Headquarter": "The city, state/region, and country where the company's main office is located.",
+        "Ownership": "Indicates if the company is publicly traded (Public) or privately held (Private).",
+        "Foundation Year": "The year when the company was established or officially founded, often including age."
+    },
+    "campaignindia": {
+        "RANK": "The current overall ranking of the brand.",
+        "BRAND NAME": "The name of the company or brand being ranked.",
+        "CATEGORY": "The industry or sector to which the brand belongs.",
+        "MAIN MARKET": "The primary geographical market served by the brand; in this case, 'Regional'.",
+        "2010 RANK": "The brand's ranking in the year 2010."
+    },
+    "companiesMarketCap_dataset": {
+        "id": "Unique identifier assigned to each company.",
+        "name": "Name of the company.",
+        "rank": "Company's rank, likely based on market capitalization, indicating its position.",
+        "market_cap": "Market capitalization of the company, representing its total market value.",
+        "country": "Company's headquarters country.",
+        "share_price": "Current price of one share of the company's stock.",
+        "change_1_day": "Percentage change in the company's share price over the last day.",
+        "change_1_year": "Percentage change in the company's share price over the last year.",
+        "categories": "List of categories or sectors the company belongs to."
+    },
+    "company_social_urls": {
+        "Company": "Name of the company for which social media links are provided.",
+        "Facebook": "Link to the company's official Facebook page.",
+        "Twitter": "Link to the company's official Twitter profile or relevant Twitter search.",
+        "Instagram": "Link to the company's official Instagram profile.",
+        "Pinterest": "Link to the company's official Pinterest profile or a relevant Pinterest link."
+    },
+    "DDD-cbinsight.com": {
+        "Unnamed: 0": "Index or row number from the original source file.",
+        "name": "Name of the company.",
+        "valuation": "The company's estimated valuation in US dollars.",
+        "dateJoined": "Date when the company joined the unicorn club (reached a billion dollar valuation).",
+        "country": "Country where the company is headquartered or primarily operates.",
+        "city": "City where the company is headquartered or primarily operates.",
+        "industry": "Industry sector or category the company operates in.",
+        "investors": "Names of investors who have invested in the company.",
+        "founded": "Year the company was established or founded.",
+        "stage": "Current funding stage of the company's investment rounds.",
+        "totalRaised": "Total amount of capital raised by the company through investment rounds."
+    },
+    "DDD-teamblind.com": {
+        "Unnamed: 0": "Index or row number of the data entry in the source file; likely automatically generated.",
+        "name": "Name of the company, as listed in the source file.",
+        "website": "Website address of the company.",
+        "locations": "Geographic location of the company's headquarters or primary office.",
+        "size": "The size of the company based on the number of employees.",
+        "industry": "The industry sector in which the company operates.",
+        "founded": "Year in which the company was established or founded."
+    },
+    "disfold.com": {
+        "link": "URL of the company's page on disfold.com, providing more details about the company.",
+        "name": "The official name of the company.",
+        "headquarters": "City and country where the company's main office is located.",
+        "employees": "Number of people employed by the company. May be listed as 'Not found'.",
+        "ceo": "Name of the company's Chief Executive Officer. May be listed as 'Not found'.",
+        "market_cap": "Total market value of the company's outstanding shares, including currency and unit."
+    },
+    "ft.com": {
+        "link": "Website address of the company.",
+        "name": "Name of the company.",
+        "country": "Country where the company is located.",
+        "industry": "Industry sector the company operates in.",
+        "revenue": "Company's annual revenue.",
+        "employees": "Number of employees working for the company.",
+        "founded": "Year the company was founded."
+    },
+    "hitHorizons_dataset": {
+        "id": "Unique identifier for the company record.",
+        "name": "Name of the company.",
+        "address": "Full address of the company, including street, city, postal code, and country.",
+        "nation": "Unique national identification number assigned to the company.",
+        "hhid": "Specific hierarchical identifier number assigned to the company.",
+        "industry": "Broad industry sector in which the company operates.",
+        "sic_code": "Standard Industrial Classification code and description detailing the company's specific business activity.",
+        "type": "Legal structure or type of the company, e.g., Corporation.",
+        "est_of_ownership": "Year of establishment of the company ownership."
+    },
+    "MalPatSaj-forbes.com": {
+        "Unnamed: 0": "Row index or ID, likely automatically generated during data extraction or processing.",
+        "Name": "Name of the company.",
+        "Country": "Country where the company is headquartered or primarily operates from.",
+        "Sales": "Company's total sales revenue, likely in billions of US dollars.",
+        "Profit": "Company's net profit or earnings, likely in billions of US dollars.",
+        "Assets": "Total value of the company's assets, likely in billions of US dollars.",
+        "Market Value": "Company's market capitalization or total market value, likely in billions of US dollars."
+    },
+    "MalPatSaj-wikipedia.org": {
+        "Unnamed: 0": "Index or row number of the company entry in the source file.",
+        "Name": "Name of the company.",
+        "Industry": "General business category the company belongs to.",
+        "Sector": "Specific sub-category of the industry the company operates in.",
+        "Headquarters": "City where the company's headquarters are located.",
+        "Founded": "Year the company was established or founded.",
+        "Notes": "Additional relevant information or a brief description of the company's activities or products."
+    },
+    "output_globaldata": {
+        "name": "Name of the company.",
+        "headquarters": "Location of the company's headquarters.",
+        "number_of_employees": "Number of employees working at the company.",
+        "address": "Physical address of the company, potentially headquarters location.",
+        "industry": "Industry sector in which the company operates.",
+        "website": "URL of the company's website.",
+        "market_cap": "Market capitalization of the company.",
+        "telephone": "Company's telephone number for contact.",
+        "revenue": "Company's reported revenue."
+    },
+    "output_govuk_bigsize": {
+        "name": "The official registered name of the company.",
+        "company_number": "A unique identification number assigned to the company.",
+        "registered_office_address": "The official, legal address of the company's registered office.",
+        "company_status": "The current operational status of the company, e.g., Active, Dissolved.",
+        "company_type": "The legal company type or structure, such as 'Private limited Company'.",
+        "company_creation_date": "The date when the company was officially established or incorporated.",
+        "nature_of_business": "Describes the company's primary business activities, often including SIC codes."
+    },
+    "valueToday_dataset": {
+        "id": "Unique identifier for the company in the dataset.",
+        "name": "Official name of the company.",
+        "world_rank": "Global ranking of the company.",
+        "annual_revenue_in_usd": "Company's yearly revenue in US dollars.",
+        "annual_net_income_in_usd": "Company's yearly net income in US dollars.",
+        "annual_results_for_year_ending": "Month and year indicating the end of the annual financial period.",
+        "total_assets_in_usd": "Company's total assets in US dollars.",
+        "total_liabilities_in_usd": "Company's total liabilities in US dollars.",
+        "total_equity_in_usd": "Company's total equity in US dollars.",
+        "headquarters_region_city": "City where the company headquarters is located.",
+        "headquarters_country": "Country where the company headquarters is located.",
+        "headquarters_sub_region": "Sub-region of the company's headquarters location.",
+        "headquarters_continent": "Continent of the company's headquarters location.",
+        "company_business": "Business sectors or industries the company is involved in.",
+        "number_of_employees": "Total number of employees working for the company.",
+        "ceo": "Name of the company's Chief Executive Officer.",
+        "founders": "List of individuals who founded the company.",
+        "company_website": "URL of the company's official website."
+    },
+    "wissel-aziende-activity-ariregister.rik.ee": {
+        "URL": "Web address of the company's page in the source registry.",
+        "ID": "Unique identification number assigned to the company in this dataset.",
+        "Name": "Official name of the company, including its registration code in brackets.",
+        "Code": "Company's registration code, a unique numeric identifier.",
+        "Legal form": "Type of legal entity the company is registered as (e.g., Private limited company).",
+        "Status": "Current registration status of the company (e.g., Entered into register, Deleted).",
+        "Registration Date": "Date when the company was officially registered.",
+        "Capital": "Stated capital amount of the company, may include currency information.",
+        "Address": "Registered address of the company, including location details.",
+        "Deletion Date": "Date when the company was removed from the registry, if applicable.",
+        "Area of Activity": "Description of the company's primary business activity.",
+        "EMTAK Code": "Estonian Classification of Economic Activities (EMTAK) code with description.",
+        "NACE Code": "Nomenclature of Economic Activities (NACE) code for the company's activity.",
+        "Source": "Information about the origin of the data, such as report type and date."
+    },
+    "wissel-aziende-info-clipper.com": {
+        "Unnamed: 0": "Row index of the data entry, starting from 0.",
+        "INDEX": "Index or identifier of the company entry, starting from 0.",
+        "URL": "URL of the company's page on the source website (info-clipper.com).",
+        "Name": "Official legal name of the company.",
+        "Trade Name": "Trade name or 'doing business as' name of the company, if different from the legal name.",
+        "Address Name": "Street address of the company's location.",
+        "Postalcode": "Postal code of the company's address.",
+        "City": "City of the company's address.",
+        "State": "State or region of the company's address; may include abbreviation in parentheses.",
+        "Country": "Country of the company's address.",
+        "Location type": "Type of company location, such as Headquarter or Single address."
+    }
+}

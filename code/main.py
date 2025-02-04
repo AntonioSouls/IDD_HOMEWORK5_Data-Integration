@@ -11,7 +11,7 @@ def attributes_descriptions_extractor():
     source_folder = 'sources'
 
     # Define the prompt
-    prompt = "".join(open("data/messageForModel.txt", "r", encoding='utf-8').readlines())
+    prompt = "".join(open("data/messageForModelAttributesDescriptions.txt", "r", encoding='utf-8').readlines())
     
     # Create the model's responses directory if it doesn't exist
     model_responses_directory = "data/model_responses"

@@ -40,6 +40,10 @@ def attributes_descriptions_extractor():
         }        
         response = ask_chatbot(prompt, json.dumps(table_content), max_retries=10, wait_time=10)
         
+        # Check if the response is not None and complete
+        if response and not is_response_complete(response):
+            response = recover_incomplete_response(prompt, response, json.dumps(table_content))
+            
         # Save the response to a text file
         with open(f"{model_responses_directory}/{file_base_name}_response.txt", "w", encoding='utf-8') as response_file:
             response_file.write(response if response else "No valid response obtained.")

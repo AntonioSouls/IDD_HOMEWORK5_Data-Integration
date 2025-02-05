@@ -1,0 +1,535 @@
+{
+    "name": {
+        "description": "The official or commonly known business name of the company.",
+        "sources": [
+            {
+                "source_name": "AmbitionBox",
+                "source_attribute": "Name"
+            },
+            {
+                "source_name": "campaignindia",
+                "source_attribute": "BRAND NAME"
+            },
+            {
+                "source_name": "companiesMarketCap_dataset",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "company_social_urls",
+                "source_attribute": "Company"
+            },
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "MalPatSaj-forbes.com",
+                "source_attribute": "Name"
+            },
+            {
+                "source_name": "MalPatSaj-wikipedia.org",
+                "source_attribute": "Name"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "name"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Name"
+            },
+            {
+                "source_name": "wissel-aziende-info-clipper.com",
+                "source_attribute": "Name"
+            }
+        ]
+    },
+    "industry": {
+        "description": "The sector or category of business operations the company is primarily engaged in.",
+        "sources": [
+            {
+                "source_name": "AmbitionBox",
+                "source_attribute": "Industry"
+            },
+            {
+                "source_name": "campaignindia",
+                "source_attribute": "CATEGORY"
+            },
+            {
+                "source_name": "companiesMarketCap_dataset",
+                "source_attribute": "categories"
+            },
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "industry"
+            },
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "industry"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "industry"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "industry"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "sic_code"
+            },
+            {
+                "source_name": "MalPatSaj-wikipedia.org",
+                "source_attribute": "Industry"
+            },
+            {
+                "source_name": "MalPatSaj-wikipedia.org",
+                "source_attribute": "Sector"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "industry"
+            },
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "nature_of_business"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "company_business"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Area of Activity"
+            }
+        ]
+    },
+    "headquarter": {
+        "description": "The city, state/region, and country where the company's main office is located.",
+        "sources": [
+            {
+                "source_name": "AmbitionBox",
+                "source_attribute": "Headquarter"
+            },
+            {
+                "source_name": "companiesMarketCap_dataset",
+                "source_attribute": "country"
+            },
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "country"
+            },
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "city"
+            },
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "locations"
+            },
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "headquarters"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "country"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "address"
+            },
+            {
+                "source_name": "MalPatSaj-forbes.com",
+                "source_attribute": "Country"
+            },
+            {
+                "source_name": "MalPatSaj-wikipedia.org",
+                "source_attribute": "Headquarters"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "headquarters"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "address"
+            },
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "registered_office_address"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "headquarters_region_city"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "headquarters_country"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "headquarters_sub_region"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "headquarters_continent"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Address"
+            },
+            {
+                "source_name": "wissel-aziende-info-clipper.com",
+                "source_attribute": "City"
+            },
+            {
+                "source_name": "wissel-aziende-info-clipper.com",
+                "source_attribute": "State"
+            },
+            {
+                "source_name": "wissel-aziende-info-clipper.com",
+                "source_attribute": "Country"
+            }
+        ]
+    },
+    "company_type": {
+        "description": "Legal structure or type of the company, e.g., Corporation.",
+        "sources": [
+            {
+                "source_name": "AmbitionBox",
+                "source_attribute": "Ownership"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "type"
+            },
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "company_type"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Legal form"
+            }
+        ]
+    },
+    "foundation_date": {
+        "description": "The year when the company was established or officially founded, often including age.",
+        "sources": [
+            {
+                "source_name": "AmbitionBox",
+                "source_attribute": "Foundation Year"
+            },
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "founded"
+            },
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "founded"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "founded"
+            },
+            {
+                "source_name": "hitHorizons_dataset",
+                "source_attribute": "est_of_ownership"
+            },
+            {
+                "source_name": "MalPatSaj-wikipedia.org",
+                "source_attribute": "Founded"
+            },
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "company_creation_date"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Registration Date"
+            }
+        ]
+    },
+    "founders": {
+        "description": "Indicates if the company is publicly traded (Public) or privately held (Private).",
+        "sources": [
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "founders"
+            }
+        ]
+    },
+    "market_cap": {
+        "description": "Market capitalization of the company, representing its total market value.",
+        "sources": [
+            {
+                "source_name": "companiesMarketCap_dataset",
+                "source_attribute": "market_cap"
+            },
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "market_cap"
+            },
+            {
+                "source_name": "MalPatSaj-forbes.com",
+                "source_attribute": "Market Value"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "market_cap"
+            }
+        ]
+    },
+    "rank": {
+        "description": "The current overall ranking of the brand.",
+        "sources": [
+            {
+                "source_name": "campaignindia",
+                "source_attribute": "RANK"
+            },
+            {
+                "source_name": "companiesMarketCap_dataset",
+                "source_attribute": "rank"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "world_rank"
+            }
+        ]
+    },
+    "number_of_employees": {
+        "description": "Number of employees working for the company.",
+        "sources": [
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "size"
+            },
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "employees"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "employees"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "number_of_employees"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "number_of_employees"
+            }
+        ]
+    },
+    "website": {
+        "description": "URL of the company's website or of the company's page on the source website.",
+        "sources": [
+            {
+                "source_name": "DDD-teamblind.com",
+                "source_attribute": "website"
+            },
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "link"
+            },
+            {
+                "source_name": "ft.com",
+                "source_attribute": "link"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "website"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "company_website"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "URL"
+            },
+            {
+                "source_name": "wissel-aziende-info-clipper.com",
+                "source_attribute": "URL"
+            }
+        ]
+    },
+    "facebook": {
+        "description": "Link to the company's official Facebook page.",
+        "sources": [
+            {
+                "source_name": "company_social_urls",
+                "source_attribute": "Facebook"
+            }
+        ]
+    },
+    "twitter": {
+        "description": "Link to the company's official Twitter profile or relevant Twitter search.",
+        "sources": [
+            {
+                "source_name": "company_social_urls",
+                "source_attribute": "Twitter"
+            }
+        ]
+    },
+    "instagram": {
+        "description": "Link to the company's official Instagram profile.",
+        "sources": [
+            {
+                "source_name": "company_social_urls",
+                "source_attribute": "Instagram"
+            }
+        ]
+    },
+    "pinterest": {
+        "description": "Link to the company's official Pinterest profile or a relevant Pinterest link.",
+        "sources": [
+            {
+                "source_name": "company_social_urls",
+                "source_attribute": "Pinterest"
+            }
+        ]
+    },
+    "telephone": {
+        "description": "Company's telephone number for contact.",
+        "sources": [
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "telephone"
+            }
+        ]
+    },
+    "ceo": {
+        "description": "Name of the company's Chief Executive Officer.",
+        "sources": [
+            {
+                "source_name": "disfold.com",
+                "source_attribute": "ceo"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "ceo"
+            }
+        ]
+    },
+    "company_status": {
+        "description": "The current operational status of the company, e.g., Active, Dissolved.",
+        "sources": [
+            {
+                "source_name": "output_govuk_bigsize",
+                "source_attribute": "company_status"
+            },
+            {
+                "source_name": "wissel-aziende-activity-ariregister.rik.ee",
+                "source_attribute": "Status"
+            }
+        ]
+    },
+    "revenue": {
+        "description": "Company's annual revenue.",
+        "sources": [
+            {
+                "source_name": "ft.com",
+                "source_attribute": "revenue"
+            },
+            {
+                "source_name": "MalPatSaj-forbes.com",
+                "source_attribute": "Sales"
+            },
+            {
+                "source_name": "output_globaldata",
+                "source_attribute": "revenue"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "annual_revenue_in_usd"
+            }
+        ]
+    },
+    "investors": {
+        "description": "Names of investors who have invested in the company.",
+        "sources": [
+            {
+                "source_name": "DDD-cbinsight.com",
+                "source_attribute": "investors"
+            }
+        ]
+    },
+    "total_assets_in_usd": {
+        "description": "Total value of the company's assets, likely in billions of US dollars.",
+        "sources": [
+            {
+                "source_name": "MalPatSaj-forbes.com",
+                "source_attribute": "Assets"
+            },
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "total_assets_in_usd"
+            }
+        ]
+    },
+    "total_liabilities_in_usd": {
+        "description": "Company's total liabilities in US dollars.",
+        "sources": [
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "total_liabilities_in_usd"
+            }
+        ]
+    },
+    "total_equity_in_usd": {
+        "description": "Company's total equity in US dollars.",
+        "sources": [
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "total_equity_in_usd"
+            }
+        ]
+    },
+    "annual_net_income_in_usd": {
+        "description": "Company's yearly net income in US dollars.",
+        "sources": [
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "annual_net_income_in_usd"
+            }
+        ]
+    },
+    "annual_results_for_year_ending": {
+        "description": "Month and year indicating the end of the annual financial period.",
+        "sources": [
+            {
+                "source_name": "valueToday_dataset",
+                "source_attribute": "annual_results_for_year_ending"
+            }
+        ]
+    }
+}
+

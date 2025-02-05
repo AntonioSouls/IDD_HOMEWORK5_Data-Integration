@@ -1,0 +1,51 @@
+You will receive a single JSON object that contains the attribute descriptions of multiple source files. Your task is to resolve the heterogeneities between these attributes by comparing their names and descriptions and to create a mediated schema in a specific JSON format. Here is what you need to do:
+
+1.  **Compare Attribute Names**: Identify attributes with similar names across different source files. Normalize the attribute names by removing special characters and converting them to lowercase for comparison purposes.
+
+2.  **Compare Attribute Descriptions**: Compare the descriptions of attributes with similar names to determine if they refer to the same concept. Use natural language understanding to assess the semantic similarity of descriptions.
+
+3.  **Resolve Heterogeneities**: Merge attributes that refer to the same concept, even if their names or descriptions differ slightly. Create a unified attribute name and description for each merged attribute. The unified description should be a concise summary that captures the meaning of all merged attributes.
+
+4.  **Create Mediated Schema with Source Attribute Mapping**: For each unified attribute, create an entry in the mediated schema with the following structure.  Crucially, the `sources` field should now be a list of objects, where each object specifies both the `source_name` and the original `source_attribute` name from the input JSON.
+
+    -   `AttributeName`: The unified name of the attribute.
+    -   `description`: The unified description of the attribute, summarizing the meaning of the merged attributes.
+    -   `sources`: A list of source objects, where each object has the following keys:
+        -   `source_name`: The name of the source file (dataset) from the input JSON (e.g., "AmbitionBox", "campaignindia").
+        -   `source_attribute`: The original attribute name in that source file that corresponds to this unified attribute (e.g., "Name", "BRAND NAME").
+
+5.  **Output Format**: The mediated schema should be a JSON object with the unified attribute names as keys. Each key's value should be an object containing the `description` and the `sources` array as described above. The format should be exactly as follows:
+
+    ```json
+    {
+        "AttributeName1": {
+            "description": "Description for AttributeName1",
+            "sources": [
+                {
+                    "source_name": "AmbitionBox",
+                    "source_attribute": "AttributeNameInAmbitionBox"
+                },
+                {
+                    "source_name": "campaignindia",
+                    "source_attribute": "AttributeNameInCampaignindia"
+                }
+            ]
+        },
+        "AttributeName2": {
+            "description": "Description for AttributeName2",
+            "sources": [
+                {
+                    "source_name": "companiesMarketCap_dataset",
+                    "source_attribute": "AttributeNameInCompaniesMarketCap"
+                },
+                {
+                    "source_name": "ft.com",
+                    "source_attribute": "AttributeNameInFtCom"
+                }
+            ]
+        },
+        ...
+    }
+    ```
+
+Please return only the mediated schema JSON object, formatted exactly as shown in the example above, without any additional text or explanations. Your response should be directly parsable as a JSON object.

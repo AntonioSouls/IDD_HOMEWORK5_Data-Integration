@@ -7,6 +7,7 @@ from model_responses_json_converter import model_responses_json_converter
 
 def attributes_descriptions_extractor():
 
+
     # Define the folder containing the source files
     source_folder = 'sources'
 

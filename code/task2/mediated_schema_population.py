@@ -9,19 +9,19 @@ import csv
 import pandas as pd # Ensure pandas is installed: pip install pandas
 from file_reader import read_file  # Assuming file_reader.py is in the same directory
 
-def populate_csv_from_schema_and_sources(json_schema_path, csv_output_path, sources_folder):
+def populate_csv_from_schema_and_sources(json_schema_mapping_path, csv_output_path, sources_folder):
  
     try:
-        with open(json_schema_path, 'r', encoding='utf-8') as json_file:
-            mediated_schema = json.load(json_file)
+        with open(json_schema_mapping_path, 'r', encoding='utf-8') as json_file:
+            schema_mapping = json.load(json_file)
     except FileNotFoundError:
-        print(f"Error: Mediated schema JSON file not found at {json_schema_path}")
+        print(f"Error: JSON schema mapping file not found at {json_schema_mapping_path}")
         return
     except json.JSONDecodeError:
-        print(f"Error: Invalid JSON format in {json_schema_path}")
+        print(f"Error: Invalid JSON format in {json_schema_mapping_path}")
         return
 
-    mediated_attributes = list(mediated_schema.keys())
+    mediated_attributes = list(schema_mapping.keys())
 
     # Ensure the directory for the CSV output exists
     os.makedirs(os.path.dirname(csv_output_path), exist_ok=True)
@@ -56,8 +56,8 @@ def populate_csv_from_schema_and_sources(json_schema_path, csv_output_path, sour
                         csv_row_data = []
                         for mediated_attribute in mediated_attributes:
                             attribute_values = []
-                            if mediated_attribute in mediated_schema:
-                                for source_info in mediated_schema[mediated_attribute]['sources']:
+                            if mediated_attribute in schema_mapping:
+                                for source_info in schema_mapping[mediated_attribute]['sources']:
                                     if source_info['source_name'] == source_name:
                                         source_attribute_name = source_info['source_attribute']
                                         if isinstance(record, dict) and source_attribute_name in record:
@@ -82,11 +82,11 @@ def populate_csv_from_schema_and_sources(json_schema_path, csv_output_path, sour
 
 
 def main():
-    json_schema_file = 'data/schema_mapping.json'
+    json_schema_mapping_file = 'data/schema_mapping.json'
     csv_file = 'data/mediated_schema_populated.csv'
     sources_folder = 'sources'  # Assuming 'sources' folder is in the same directory as the script
 
-    populate_csv_from_schema_and_sources(json_schema_file, csv_file, sources_folder)
+    populate_csv_from_schema_and_sources(json_schema_mapping_file, csv_file, sources_folder)
 
 if __name__ == "__main__":
     main()

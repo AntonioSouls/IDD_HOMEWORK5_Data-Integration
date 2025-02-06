@@ -7,7 +7,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 't
 import json
 import csv
 import pandas as pd # Ensure pandas is installed: pip install pandas
-from file_reader import read_file  # Assuming file_reader.py is in the same directory
+from file_reader import read_file  # type: ignore # Assuming file_reader.py is in the same directory
 
 def populate_csv_from_schema_and_sources(json_schema_mapping_path, csv_output_path, sources_folder):
  

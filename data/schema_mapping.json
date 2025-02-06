@@ -142,11 +142,11 @@
             },
             {
                 "source_name": "DDD-cbinsight.com",
-                "source_attribute": "country"
+                "source_attribute": "city"
             },
             {
                 "source_name": "DDD-cbinsight.com",
-                "source_attribute": "city"
+                "source_attribute": "country"
             },
             {
                 "source_name": "DDD-teamblind.com",

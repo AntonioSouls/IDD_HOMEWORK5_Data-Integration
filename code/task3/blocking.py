@@ -12,16 +12,15 @@ from unidecode import unidecode
 def remove_noise_words(text: str) -> str:
     # Define a set of common noise words
     noise_words = {
-        "inc", "ltd", "llc", "corp", "corporation", "co", "company", "srl", "spa", "limited", "ou", "as", "firm",
-        "group", "tbk", "hf", "gmbh", "ag", "plc", "pty", "nv", "sa", "saa", "bv", "ab", "aps", "oy", "kk", "kabushiki", 
-        "ulc", "eeig", "sarl", "sas", "snc", "societa", "gesellschaft", "aktiengesellschaft", "trust", "holdings", "llp",
-        "associates", "partners", "enterprise", "enterprises", "ventures", "corporate", "uc", "lp", "constructions",
-        "industries", "solutions", "services", "technologies", "systems", "global", "studios", "construction", "pllc",
-        "regional", "private", "public", "joint stock company", "proprietary", "foundation", "chartered", "kaisha",
-        "unlimited", "partnership", "society", "incorporated", "vereniging", "foundation", "grupo",  "technology",
-        "nonprofit", "kabushiki", "gaisha", "financial", "gayrimenkul", "yatirim", "ortakligi", "gyo", "gruppo", "groupe",
-        "gruppen", "holdings", "holding", "finance", "finances", "careers", "consultants", "consult", "consults",
-        "communication", "communications", "business", "international"
+        'technologies', 'snc', 'services', 'corporate', 'tbk', 'company', 'incorporated', 'regional', 'hf', 'ltd',
+        'llp', 'vereniging', 'pty', 'gesellschaft', 'industries', 'corporation', 'firm', 'partnership', 'gyo', 'solutions',
+        'consults', 'ortakligi', 'international', 'careers', 'aps', 'inc', 'construction', 'financial', 'nonprofit', 'plc',
+        'corp', 'enterprises', 'societa', 'pllc', 'foundation', 'saa', 'gruppo', 'gmbh', 'chartered', 'constructions', 'nv',
+        'kk', 'uc', 'society', 'co', 'consultants', 'finances', 'kaisha', 'holding', 'eeig', 'lp', 'grupo', 'partners', 'as',
+        'communications', 'associates', 'private', 'ulc', 'limited', 'sas', 'yatirim', 'sarl', 'llc', 'consult', 'global',
+        'business', 'enterprise', 'unlimited', 'gayrimenkul', 'public', 'aktiengesellschaft', 'holdings', 'ag', 'group',
+        'trust', 'groupe', 'systems', 'joint stock company', 'spa', 'communication', 'sa', 'ou', 'proprietary', 'bv', 'studios',
+        'technology', 'kabushiki', 'gruppen', 'finance', 'gaisha', 'ab', 'srl', 'ventures', 'oy'
     }   
 
     # Split the text into tokens and remove noise words

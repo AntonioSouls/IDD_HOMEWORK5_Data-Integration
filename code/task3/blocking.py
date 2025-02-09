@@ -57,6 +57,24 @@ def clean_text(text: str):
 
     return text
 
+def generate_acronym(clean_name: str):
+    words = clean_name.split()
+    if len(words) < 2:
+        return ""
+    acronym = ''.join([word[0] for word in words])
+    return acronym.lower()
+
+def clean_Data_Frame(df: pd.DataFrame):
+    acronym_dict = {}
+    df["clean_name"] = df["name"].apply(lambda x: clean_text(str(x)))
+    for clean_name in df["clean_name"]:
+        acronym = generate_acronym(clean_name)
+        if acronym and acronym not in acronym_dict:
+            acronym_dict[acronym] = clean_name
+    
+    df["clean_name"] = df["clean_name"].apply(lambda x: acronym_dict.get(x, x))
+    return df
+
 
 def get_word_minhash(cleaned_text):
     minhash = MinHash(num_perm=128)
@@ -71,10 +89,10 @@ def get_word_minhash(cleaned_text):
 
 ''' Locality Sensitive Hasing Blocking '''
 def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
-
+    
     # For each name in DataFrame, clean the text and compute a MinHashing on the cleaned string 
-    df["minhash"] = df["name"].apply(lambda x : get_word_minhash(clean_text(str(x))))
-
+    df["minhash"] = df["clean_name"].apply(lambda x : get_word_minhash(x))
+    
     # Create the LSHIndex whit a Similarity threshold and insert each rows into the index
     lsh_index = MinHashLSH(threshold=0.5, num_perm=128)
     for i, row in df.iterrows():
@@ -111,6 +129,9 @@ def main():
     # Read the mediated schema as Pandas DataFrame useful as input for blocking
     df = pd.read_csv("data/mediated_schema_populated.csv", usecols=["name"])
 
+    # Clean the Pandas DataFrame to allow a more accurate blocking
+    df = clean_Data_Frame(df)
+    
     # Create the directory in which to save the blocking results
     output_directory = "data/blocking_results"
     os.makedirs(output_directory, exist_ok=True)
@@ -124,7 +145,7 @@ def main():
     end_time = time.time()
     total_time = end_time - start_time
     print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .6f} secondi\n\n")
-
+    
     # Storage of the LSH_statistics
     stats_file = "data/blocking_results/blocking_statistics.txt"
     with open(stats_file, "w", encoding="utf-8") as f:

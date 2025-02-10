@@ -1,18 +1,3 @@
-def get_shingles(text, k=3):
-    """Genera un insieme di k-shingles (n-grammi) da una stringa."""
-    return {text[i:i+k] for i in range(len(text) - k + 1)}
-
-def get_minhash_ngram(text, num_perm=128, k=3):
-    """Genera una firma MinHash usando n-grammi invece delle parole."""
-    minhash = MinHash(num_perm=num_perm)
-    
-    shingles = get_shingles(text.lower(), k)  # Creiamo i trigrammi
-    for shingle in shingles:
-        minhash.update(shingle.encode('utf8'))  # Aggiungiamo alla MinHash
-
-    return minhash
-
-
 import os
 import re
 import time
@@ -93,11 +78,23 @@ def clean_Data_Frame(df: pd.DataFrame):
     df["clean_name"] = df["clean_name"].apply(lambda x: acronym_dict.get(x, x))
     return df
 
+# Function that generates a set of q-shingles from a string
+def get_shingles(cleaned_text, q):
+    return {cleaned_text[i:i+q] for i in range(len(cleaned_text) - q + 1)}
+
 # Function which generates a MinHash based on the words that make up the text it receives as input
 def get_word_minhash(cleaned_text):
     minhash = MinHash(num_perm=128)
     for token in cleaned_text.split():
         minhash.update(token.encode('utf8'))
+    return minhash
+
+# Function which generate a MinHash based on the q-gram thah make up the text it recives as input
+def get_QGram_minhash(cleaned_text:str, q:int):
+    minhash = MinHash(num_perm=128)
+    shingles = get_shingles(cleaned_text, q)
+    for shingle in shingles:
+        minhash.update(shingle.encode('utf-8'))
     return minhash
 
 
@@ -143,6 +140,37 @@ def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
 
 # Blocking based on text QGram division
 def QGram_blocking(df,blocking_output_file):
+
+    # For each name in DataFrame, clean the text and compute a MinHashing on the cleaned string 
+    df["minhash"] = df["clean_name"].apply(lambda x : get_QGram_minhash(x,3))
+    
+    # Create the LSHIndex whit a Similarity threshold and insert each rows into the index
+    lsh_index = MinHashLSH(threshold=0.5, num_perm=128)
+    for i, row in df.iterrows():
+        lsh_index.insert(i, row["minhash"])
+
+    # Create the dictionary that will contain blocks of similar names
+    blocks = {}
+
+    # For each name in DataFrame, find similar ones
+    for i, row in df.iterrows():
+        similar_indices = lsh_index.query(row["minhash"])  # Find similar IDs
+        similar_names = set(df.iloc[similar_indices]["name"].tolist())  # Recover the original names
+        similar_names = {name for name in similar_names if isinstance(name, str)}
+        if not similar_names:
+            continue
+
+        key_name = min(similar_names)
+
+        if key_name not in blocks:
+            blocks[key_name] = list(similar_names)
+
+    for key, values in blocks.items():                              # Ensures that Nan values ​​do not affect json formatting
+        blocks[key] = [v if not pd.isna(v) else "" for v in values]
+
+    # Store blocks into a specific JSON file
+    with open(blocking_output_file, "w", encoding="utf-8") as f:
+        json.dump(blocks, f, indent=4, ensure_ascii=False)
     return
 
 

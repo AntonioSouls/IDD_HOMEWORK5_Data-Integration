@@ -1,3 +1,18 @@
+def get_shingles(text, k=3):
+    """Genera un insieme di k-shingles (n-grammi) da una stringa."""
+    return {text[i:i+k] for i in range(len(text) - k + 1)}
+
+def get_minhash_ngram(text, num_perm=128, k=3):
+    """Genera una firma MinHash usando n-grammi invece delle parole."""
+    minhash = MinHash(num_perm=num_perm)
+    
+    shingles = get_shingles(text.lower(), k)  # Creiamo i trigrammi
+    for shingle in shingles:
+        minhash.update(shingle.encode('utf8'))  # Aggiungiamo alla MinHash
+
+    return minhash
+
+
 import os
 import re
 import time
@@ -7,9 +22,10 @@ from datasketch import MinHash, MinHashLSH
 from unidecode import unidecode
 
 
-#################### Section of the script where we define the auxiliary functions #############################################
+''' ______________________ Section of the script where we define the auxiliary functions _________________________________________ '''
 
-def remove_noise_words(text: str) -> str:
+# Function that removes noisy words from the company name
+def remove_noise_words(text: str):
     # Define a set of common noise words
     noise_words = {
         'technologies', 'snc', 'services', 'corporate', 'tbk', 'company', 'incorporated', 'regional', 'hf', 'ltd',
@@ -29,11 +45,11 @@ def remove_noise_words(text: str) -> str:
     # Return the filtered text
     return ' '.join(tokens)
 
-
+# Function which divides words written in Pascal Case 
 def split_pascal_case(text):
     return re.sub(r'(?<!^)(?<![A-Z])(?=[A-Z])', ' ', text)
 
-
+# Function that clean a noisy text
 def clean_text(text: str):
 
     # Remove words between parenthesis
@@ -57,6 +73,7 @@ def clean_text(text: str):
 
     return text
 
+# Function useful to generating the acronym of a name
 def generate_acronym(clean_name: str):
     words = clean_name.split()
     if len(words) < 2:
@@ -64,6 +81,7 @@ def generate_acronym(clean_name: str):
     acronym = ''.join([word[0] for word in words])
     return acronym.lower()
 
+# Function that aims to clean the input DataFrame to remove noise that could be a problem for the blocking operation
 def clean_Data_Frame(df: pd.DataFrame):
     acronym_dict = {}
     df["clean_name"] = df["name"].apply(lambda x: clean_text(str(x)))
@@ -75,7 +93,7 @@ def clean_Data_Frame(df: pd.DataFrame):
     df["clean_name"] = df["clean_name"].apply(lambda x: acronym_dict.get(x, x))
     return df
 
-
+# Function which generates a MinHash based on the words that make up the text it receives as input
 def get_word_minhash(cleaned_text):
     minhash = MinHash(num_perm=128)
     for token in cleaned_text.split():
@@ -84,10 +102,9 @@ def get_word_minhash(cleaned_text):
 
 
 
- 
-#################### Section of the script where we define the various blocking logics #########################################
+''' ______________________ Section of the script where we define the various blocking logics _________________________________________ '''
 
-''' Locality Sensitive Hasing Blocking '''
+# Locality Sensitive Hasing Blocking 
 def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
     
     # For each name in DataFrame, clean the text and compute a MinHashing on the cleaned string 
@@ -104,9 +121,16 @@ def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
     # For each name in DataFrame, find similar ones
     for i, row in df.iterrows():
         similar_indices = lsh_index.query(row["minhash"])  # Find similar IDs
-        similar_names = df.iloc[similar_indices]["name"].tolist()  # Recover the original names
+        similar_names = set(df.iloc[similar_indices]["name"].tolist())  # Recover the original names
+        similar_names = {name for name in similar_names if isinstance(name, str)}
+        if not similar_names:
+            continue
 
-        blocks[row["name"]] = similar_names
+        key_name = min(similar_names)
+
+        if key_name not in blocks:
+            blocks[key_name] = list(similar_names)
+
     for key, values in blocks.items():                              # Ensures that Nan values ​​do not affect json formatting
         blocks[key] = [v if not pd.isna(v) else "" for v in values]
 
@@ -116,15 +140,15 @@ def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
     
     return
 
-# ''' Blocking based on text QGram division '''
-# def QGram_blocking(df,blocking_output_file):
-#     return
+
+# Blocking based on text QGram division
+def QGram_blocking(df,blocking_output_file):
+    return
 
 
+''' ______________________ Section of the script where we orchestrate the various blocking logics _________________________________________ '''
 
-#################### Section of the script where we orchestrate the various blocking logic  ####################################
-
-''' Orchestrator of the two blocking logic '''
+# Orchestrator of the two blocking logic '''
 def main():
     # Read the mediated schema as Pandas DataFrame useful as input for blocking
     df = pd.read_csv("data/mediated_schema_populated.csv", usecols=["name"])
@@ -151,16 +175,20 @@ def main():
     with open(stats_file, "w", encoding="utf-8") as f:
         f.write(f"LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n")
 
-    # # Starting the QGram_blocking strategy
-    # print("Starting QGRAM BLOCKING ... ")
-    # start_time = time.time()
-    # QGram_blocking(df,QGram_output_file)
-    # end_time = time.time()
-    # total_time = end_time - start_time
-    # print(f"QGRAM BLOCKING executed in {total_time: .6f} secondi\n\n")
+    # Starting the QGram_blocking strategy
+    print("Starting QGRAM BLOCKING ... ")
+    start_time = time.time()
+    QGram_blocking(df,QGram_output_file)
+    end_time = time.time()
+    total_time = end_time - start_time
+    print(f"QGRAM BLOCKING executed in {total_time: .6f} secondi\n\n")
+
+    # Storage of the QGram_statistics
+    with open(stats_file, "a", encoding='utf-8') as f:
+        f.write(f"QGRAM BLOCKING executed in {total_time: .6f} secondi\n\n")
     
     return
 
-''' Script's starter '''
+# Script's starter
 if __name__ == "__main__":
     main()

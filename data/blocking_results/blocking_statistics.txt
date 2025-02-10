@@ -1,3 +1,3 @@
-LOCALITY SENSITIVE HASHING executed in 81.663899 seconds
-QGRAM BLOCKING executed in  88.028671 secondi
+LOCALITY SENSITIVE HASHING executed in 83.337570 seconds
+QGRAM BLOCKING executed in  90.735029 secondi
 

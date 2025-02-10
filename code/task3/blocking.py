@@ -119,6 +119,7 @@ def lsh_blocking(df: pd.DataFrame ,blocking_output_file):
     for i, row in df.iterrows():
         similar_indices = lsh_index.query(row["minhash"])  # Find similar IDs
         similar_names = set(df.iloc[similar_indices]["name"].tolist())  # Recover the original names
+        similar_names.add(row["name"])
         similar_names = {name for name in similar_names if isinstance(name, str)}
         if not similar_names:
             continue
@@ -156,6 +157,7 @@ def QGram_blocking(df,blocking_output_file):
     for i, row in df.iterrows():
         similar_indices = lsh_index.query(row["minhash"])  # Find similar IDs
         similar_names = set(df.iloc[similar_indices]["name"].tolist())  # Recover the original names
+        similar_names.add(row["name"])
         similar_names = {name for name in similar_names if isinstance(name, str)}
         if not similar_names:
             continue

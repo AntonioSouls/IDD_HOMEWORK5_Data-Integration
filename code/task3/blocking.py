@@ -201,9 +201,9 @@ def main():
     print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .6f} secondi\n\n")
     
     # Storage of the LSH_statistics
-    stats_file = "data/blocking_results/blocking_statistics.txt"
+    stats_file = "data/execution_times.txt"
     with open(stats_file, "w", encoding="utf-8") as f:
-        f.write(f"LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n")
+        f.write(f"LOCALITY SENSITIVE HASHING BLOCKING executed in {total_time:.6f} seconds\n")
 
     # Starting the QGram_blocking strategy
     print("Starting QGRAM BLOCKING ... ")

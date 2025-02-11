@@ -47,11 +47,11 @@ def clean_text(text: str):
     # Remove accents and special characters
     text = unidecode(text)
 
-    # Convert to lowercase, remove extra spaces and punctuation
-    text = re.sub(r"[^a-zA-Z0-9&\s]", "", text.lower().strip())
-
     # Split pascal case
     text = split_pascal_case(text)
+
+    # Convert to lowercase, remove extra spaces and punctuation
+    text = re.sub(r"[^a-zA-Z0-9&\s]", "", text.lower().strip())
 
     # Remove words that are usally not relevant for matching
     text = remove_noise_words(text)
@@ -197,25 +197,26 @@ def main():
     start_time = time.time() 
     lsh_blocking(df, lsh_output_file)
     end_time = time.time()
-    total_time = end_time - start_time
-    print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .6f} secondi\n\n")
+    total_time = (end_time - start_time)/60
+    print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .2f} minutes\n\n")
     
     # Storage of the LSH_statistics
     stats_file = "data/execution_times.txt"
     with open(stats_file, "w", encoding="utf-8") as f:
-        f.write(f"LOCALITY SENSITIVE HASHING BLOCKING executed in {total_time:.6f} seconds\n")
+        f.write(f"LOCALITY SENSITIVE HASHING BLOCKING executed in {total_time:.2f} minutes\n")
 
     # Starting the QGram_blocking strategy
     print("Starting QGRAM BLOCKING ... ")
     start_time = time.time()
     QGram_blocking(df,QGram_output_file)
     end_time = time.time()
-    total_time = end_time - start_time
-    print(f"QGRAM BLOCKING executed in {total_time: .6f} secondi\n\n")
+    total_time = (end_time - start_time)/60
+    print(f"QGRAM BLOCKING executed in {total_time: .2f} minutes\n\n")
 
     # Storage of the QGram_statistics
     with open(stats_file, "a", encoding='utf-8') as f:
-        f.write(f"QGRAM BLOCKING executed in {total_time: .6f} secondi\n\n")
+        f.write(f"QGRAM BLOCKING executed in {total_time:.2f} minutes\n\n")
+        f.write("########################################################")
     
     return
 

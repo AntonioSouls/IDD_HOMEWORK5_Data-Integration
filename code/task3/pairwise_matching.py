@@ -80,40 +80,40 @@ def main():
     start_time = time.time()
     Record_Linkage_Toolkit_PM(lsh_input_file,LSH_RLT_output_file)
     end_time = time.time()
-    total_time = end_time - start_time
-    print(f"PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n\n")
+    total_time = (end_time - start_time)/60
+    print(f"PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in {total_time:.2f} minutes\n\n")
     with open(stats_file, "a", encoding='utf-8') as f:
-        f.write(f"PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n")
+        f.write(f"PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in {total_time:.2f} minutes\n")
 
     # Execution of pairwise matching on the QGram Blocking results with RLT
     print("Execution of PAIRWISE MATCHING with RLT on the QGRAM BLOCKING results ...")
     start_time = time.time()
     Record_Linkage_Toolkit_PM(QGram_input_file,QGRAM_RLT_output_file)
     end_time = time.time()
-    total_time = end_time - start_time
-    print(f"PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in {total_time:.6f} seconds\n\n")
+    total_time = (end_time - start_time)/60
+    print(f"PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in {total_time:.2f} minutes\n\n")
     with open(stats_file, "a", encoding='utf-8') as f:
-        f.write(f"PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in {total_time:.6f} seconds\n")
+        f.write(f"PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in {total_time:.2f} minutes\n")
     
     # # Execution of pairwise matching on the locality sensitive hashing results with DITTO
     # print("Execution of PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING results ...")
     # start_time = time.time()
     # DITTO_PM(lsh_input_file,LSH_DITTO_output_file)
     # end_time = time.time()
-    # total_time = end_time - start_time
-    # print(f"PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n\n")
+    # total_time = (end_time - start_time)/60
+    # print(f"PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in {total_time:.2f} minutes\n\n")
     # with open(stats_file, "a", encoding='utf-8') as f:
-    #     f.write(f"PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in {total_time:.6f} seconds\n")
+    #     f.write(f"PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in {total_time:.2f} minutes\n")
     
     # # Execution of pairwise matching on the QGram Blocking results with RLT
     # print("Execution of PAIRWISE MATCHING with DITTO on QGRAM BLOCKING results ...")
     # start_time = time.time()
     # DITTO_PM(QGram_input_file,QGRAM_DITTO_output_file)
     # end_time = time.time()
-    # total_time = end_time -start_time
-    # print(f"PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in {total_time:.6f} seconds\n\n")
+    # total_time = (end_time -start_time)/60
+    # print(f"PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in {total_time:.2f} minutes\n\n")
     # with open(stats_file, "a", encoding='utf-8') as f:
-    #     f.write(f"PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in {total_time:.6f} seconds\n")
+    #     f.write(f"PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in {total_time:.2f} minutes\n")
 
     return
 

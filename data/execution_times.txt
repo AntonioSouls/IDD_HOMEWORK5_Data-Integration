@@ -1,5 +1,4 @@
-LOCALITY SENSITIVE HASHING BLOCKING executed in 83.360316 seconds
-QGRAM BLOCKING executed in  88.766412 secondi
+LOCALITY SENSITIVE HASHING BLOCKING executed in 1.51 minutes
+QGRAM BLOCKING executed in 1.57 minutes
 
-PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in 92.034045 seconds
-PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in 95.201294 seconds
+########################################################

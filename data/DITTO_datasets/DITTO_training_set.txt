@@ -1,0 +1,610 @@
+The Chennai Silks	TCS	1
+The Chennai Silks	Tcs Group Holding	1
+TCS	Tcs Group Holding	1
+The Chennai Silks	TCS iON	1
+The Chennai Silks	TCS eServe	1
+The Chennai Silks	TCS e-Serve International	1
+TCS	TCS iON	1
+TCS	TCS eServe	1
+TCS	TCS e-Serve International	1
+Tcs Group Holding	TCS iON	1
+Tcs Group Holding	TCS eServe	1
+Tcs Group Holding	TCS e-Serve International	1
+TCS iON	TCS eServe	1
+TCS iON	TCS e-Serve International	1
+TCS eServe	TCS e-Serve International	1
+The Chennai Silks	The Citadel Group Ltd	0
+TCS	The Citadel Group Ltd	0
+Tcs Group Holding	The Citadel Group Ltd	0
+TCS	TVS	0
+TCS	TRC	0
+TCS	CTS	0
+The Chennai Silks	Cognizant Technology Solutions	0
+TCS	Cognizant Technology Solutions	0
+The Chennai Silks	Starling Bank Careers	0
+TCS	CSB	0
+TCS	CSB Bank	0
+The Chennai Silks	TTEC	0
+TCS	JMB	0
+TCS	TTS INC.	0
+TCS	The Software House	0
+LEVIRA AS	Levi’s	0
+Tcs Group Holding	IB Group	0
+Tcs Group Holding	Capitec Bank Holdings Ltd	0
+Tcs Group Holding	Capitec Bank Holdings	0
+Tcs Group Holding	Capital City Bank Group	0
+Tcs Group Holding	C.I. Group Public Company Ltd	0
+Tcs Group Holding	ESB Group	0
+Tcs Group Holding	ESI Group	0
+Tcs Group Holding	SDL Group	0
+Tcs Group Holding	Aptitude Software Group plc	0
+Tcs Group Holding	Aptitude Software Group	0
+Tcs Group Holding	SOFTWARE EXPERTS GROUP LTD	0
+Tcs Group Holding	Z & F HOLDINGS LIMITED	0
+Tcs Group Holding	Avanza Bank Holding Ab (publ)	0
+Tcs Group Holding	Z & H HOLDINGS LIMITED	0
+Tcs Group Holding	Z & L HOLDING LTD	0
+Tcs Group Holding	Z & R HOLDINGS LTD	0
+Tcs Group Holding	Z & H HOLDINGS LIMITED	0
+Tcs Group Holding	Z & L HOLDING LTD	0
+Tcs Group Holding	Z & R HOLDINGS LTD	0
+Tcs Group Holding	Q & Q HOLDINGS LTD.	0
+Tcs Group Holding	Z & S HOLDINGS LTD	0
+Tcs Group Holding	Z & F HOLDINGS LIMITED	0
+Tcs Group Holding	Z & H HOLDINGS LIMITED	0
+Tcs Group Holding	Z & L HOLDING LTD	0
+Tcs Group Holding	Z & R HOLDINGS LTD	0
+Tcs Group Holding	Z & S HOLDINGS LTD	0
+Accenture Plc	ACCENTURE PLC	1
+Accenture Plc	ACCENTURE LLP	1
+Accenture Plc	Accenture	1
+Accenture Plc	Accenture Federal Services	1
+Accenture Plc	ACCENTURE SPA	1
+Accenture Plc	ACCENTURE (UK) LIMITED	1
+Accenture Plc	ACCENTURE MARKETING SERVICES LTD	1
+ACCENTURE PLC	ACCENTURE LLP	1
+ACCENTURE PLC	Accenture	1
+ACCENTURE PLC	Accenture Federal Services	1
+ACCENTURE PLC	ACCENTURE SPA	1
+ACCENTURE PLC	ACCENTURE (UK) LIMITED	1
+ACCENTURE PLC	ACCENTURE MARKETING SERVICES LTD	1
+ACCENTURE LLP	Accenture	1
+ACCENTURE LLP	Accenture Federal Services	1
+ACCENTURE LLP	ACCENTURE SPA	1
+ACCENTURE LLP	ACCENTURE (UK) LIMITED	1
+ACCENTURE LLP	ACCENTURE MARKETING SERVICES LTD	1
+Accenture	Accenture Federal Services	1
+Accenture	ACCENTURE SPA	1
+Accenture	ACCENTURE (UK) LIMITED	1
+Accenture	ACCENTURE MARKETING SERVICES LTD	1
+Accenture Federal Services	ACCENTURE SPA	1
+Accenture Federal Services	ACCENTURE (UK) LIMITED	1
+Accenture Federal Services	ACCENTURE MARKETING SERVICES LTD	1
+ACCENTURE SPA	ACCENTURE (UK) LIMITED	1
+ACCENTURE SPA	ACCENTURE MARKETING SERVICES LTD	1
+ACCENTURE (UK) LIMITED	ACCENTURE MARKETING SERVICES LTD	1
+Cognizant Technology Solutions Corp	Cognizant Softvision	1
+Cognizant Technology Solutions Corp	Cognizant	1
+Cognizant Technology Solutions Corp	Cognizant Technology Solutions Corporation	1
+Cognizant Technology Solutions Corp	Cognizant Technology Solutions	1
+Cognizant Technology Solutions Corp	Cognizant Careers	1
+Cognizant Technology Solutions Corp	Capgemini Technology Services Limited	0
+Cognizant Softvision	Cognizant	1
+Cognizant Softvision	Cognizant Technology Solutions Corporation	1
+Cognizant Softvision	Cognizant Technology Solutions	1
+Cognizant Softvision	Cognizant Careers	1
+Cognizant	Cognizant Technology Solutions Corporation	1
+Cognizant	Cognizant Technology Solutions	1
+Cognizant	Cognizant Careers	1
+Cognizant Technology Solutions Corporation	Cognizant Technology Solutions	1
+Cognizant Technology Solutions Corporation	Cognizant Careers	1
+Cognizant Technology Solutions	Cognizant Careers	1
+Cognizant Careers	Starling Bank Careers	0
+Cognizant Careers	Box Careers	0
+Cognizant Careers	Federal Reserve Bank of Boston Careers	0
+Cognizant Careers	JDA Software Careers	0
+Cognizant Careers	Bosch Careers	0
+ABN AMRO Bank N.V.	Bank of Guiyang Co.Ltd.	0
+ABN AMRO Bank N.V.	Bank of Beijing Co Ltd	0
+ABN AMRO Bank N.V.	Bank of Chongqing	0
+Bank of Guiyang Co.Ltd.	Bank of Beijing Co Ltd	0
+Bank of Guiyang	Bank of Chongqing	0
+Bank of Beijing	Bank of Chongqing	0
+Bank of Chongqing Co. Ltd	Bank of Chongqing	1
+Bank of Beijing	Bank of Beijing Co Ltd	1
+Bank of Guiyang Co.Ltd.	Bank of Guiyang	1
+Vestjysk Bank A/S	ING Vysya Bank	0
+Bank Of Xi'an	Bank of Xi'an Co.Ltd.	1
+M&T Bank	M&T Bank Corporation	1
+GOOD BOY LONDON LTD	GOOD BEE CO LONDON LTD	0
+Daimler AG	BMW AG	0
+Shenzhen Hopewind Electric	Shenzhen Hopewind Electric Co. Ltd	1
+HCA Healthcare	HCA Healthcare	1
+Aurinia Pharmaceuticals	Aurinia Pharmaceuticals Inc.	1
+Nippon Yusen Kabushiki Kaisha	Nippon Yusen Kabushiki Kaisha	1
+Slack Technologies	Slack	1
+Home Depot Inc.	Home Depot	1
+Estée Lauder Companies Inc.	Estée Lauder	1
+Anthem Inc.	Anthem	1
+anaptysbio	Anaptysbio	1
+Morgan Stanley	Morgan Stanley	1
+Groupe Bruxelles Lambert Sa	Groupe Bruxelles Lambert SA	1
+Baker Hughes	Baker Hughes	1
+Dassault Systemes SE	DASSAULT SYSTEMES UK LIMITED	0
+Square Inc.	Square	1
+Mitsubishi Corporation	Mitsui & Co. Ltd.	0
+Silver Lake Partners	Silverlake Automotive	0
+Oracle Corporation	Oracle	1
+Chubb Limited	Chubb	1
+ServiceNow	ServiceNow	1
+Box Inc.	Box	1
+Pegatron Corporation	Pegatron Corp	1
+Nordic Semiconductor Asa	Nordic Semiconductor	1
+Shoals Technologies	Shoals Technologies Group Inc.	1
+Cosmos Pharmaceutical	Corbus Pharmaceuticals	0
+Sears Holdings Corporation	Sears	1
+Larsen & Toubro	L&T	1
+Puma AG	Puma	1
+Sappi Limited	Sappi Ltd	1
+Alibaba Group Holdings Ltd.	Alibaba Group	1
+Under Armour	Under Armour	1
+Chesapeake Energy	Chesapeake	1
+PepsiCo Inc.	Mondelez International Inc.	0
+Enel SpA	Iberdrola SA	0
+SilverCrest Metals Inc.	Silvercrest Metals	1
+Shanghai Industrial Holdings Ltd	Shanghai Industrial Holdings	1
+Knorr-bremse	Knorr-Bremse AG	1
+The TJX Companies Inc.	TJX	1
+SAP SE	SAP	1
+CVS Health	CVS	1
+Sanofi S.A.	Sanofi	1
+Royal Dutch Shell plc	ConocoPhillips	0
+Comstock Resources Inc	Comstock Resources	1
+Starbucks Corporation	Dunkin' Brands Group Inc.	0
+Gedeon Richter Plc	Richter Gedeon Co.	1
+Kroger Co.	Kroger	1
+Kraft Heinz	Kraft Heinz	1
+Mars Inc.	Mars	1
+U INTERNATIONAL LIMITED	TEHO International Inc Ltd	0
+Philips NV	Siemens Healthineers AG	0
+Engie S.A.	Engie	1
+Intrum AB	Intrum AB	1
+Ricoh Company  Ltd.	Ricoh	1
+Pfizer	Pfizer	1
+Molina Healthcare	Molina	1
+Fiat Chrysler Automobiles NV	Tesla Inc.	0
+Lincoln National Corporation	Lincoln Financial	1
+JPMorgan Chase & Co.	JPMorgan	1
+ConocoPhillips	Marathon Oil Corporation	0
+Atlassian Corporation	Atlassian	1
+Zurich Insurance Group AG	Allianz SE	0
+Rio Tinto Group	BHP Group	0
+Prudential Financial	"Prudential Financial, Inc."	1
+U INTERNATIONAL LIMITED	ICF International Inc	0
+Hyundai Glovis	Hyundai Glovis	1
+Edison International	"U INTERNATIONAL GROUP CO., LTD"	0
+Hana Financial Group	Hana Financial Group	1
+Dropbox Inc.	Dropbox	1
+Qualcomm Inc.	Qualcomm	1
+JOHNSON MATTHEY PLC	Johnson Matthey	1
+Virtu Financial Inc	Virtu Financial	1
+Bayer AG	BASF SE	0
+Warner Bros. Discovery	Warner Bros. Discovery Inc	1
+Brookfield Asset Management	Brookfield Asset Management	1
+Mondelez International	Mondelez	1
+Volkswagen AG	General Motors Company	0
+CME Group Inc.	Intercontinental Exchange Inc.	0
+Booking Holdings Inc.	Expedia Group Inc.	0
+Dic Asset	Dic Asset ag	1
+Stryker Corporation	Stryker	1
+LG Electronics	Lg	1
+GE Healthcare	GE Healthcare	1
+Facebook Inc.	Twitter Inc.	0
+Voltas Ltd	Voltas	1
+Aquis Exchange	Aquis Exchange plc	1
+Fuji (Restaurant chain)	Fuji	0
+Devon Energy	Devon	1
+Bridgewater Associates	Bridgewater Bank	0
+Microchip Technology Inc.	Microchip	1
+Vanguard Group	Vanguard	1
+Paccar	PACCAR Inc	1
+AS ONE Corporation	OneTrust	0
+Westrock Co	Westrock Company	1
+BRAVADO INTERNATIONAL GROUP LIMITED	SpartenInternationalOÃœ(11121994)	0
+Hyundai Motor Company	Kia Motors Corporation	0
+Zebra Technologies Corporation	Zebra	1
+Gi Group Spa	Globaltrans Investment	0
+Shopify Inc.	Shopify	1
+Artis Real Estate Investment Trust	Crombie Real Estate Investment Trust	0
+Fidelity Investments	Fidelity	1
+Procter & Gamble	Procter & Gamble	1
+HSBC Holdings plc	Citigroup Inc.	0
+Topsports International Holdings Ltd	361 Degrees International	0
+Infosys Technologies	Infosys	1
+FINANCE SYSTEMS INTEGRATION LTD.	Yara International	0
+Woori Financial Group Inc	"Woori Financial Group, Inc."	1
+Brother Industries	Brother	1
+Voltas	Voltage	0
+Samsung Electronics	Samung	1
+Ultrapar Participacoes	Ultrapar Participacoes	1
+The Hartford	The Hartford	1
+Gdi Integrated Facility Services	GDI Integrated Facility Services Inc.	1
+Tencent Holdings	Tencent	1
+Big Yellow Group plc	Big Yellow Group	1
+ING	ING Group NV	1
+Hana Financial Group	Hana Financial Group Inc	1
+Grupo Puma	PUMA	0
+Sony Corporation	LG Electronics Inc.	0
+Anheuser-Busch InBev SA/NV	Heineken NV	0
+Colgate-palmolive Company	Colgate-palmolive (india)	1
+Visa Inc.	Mastercard Incorporated	0
+Artificial Solutions International AB	Pan Jit International	0
+Amazon.com Inc.	Alibaba Group	0
+Wipro Limited	Wipro	1
+Rdc Semiconductor	 Rdc Semiconductor asa	1
+HUMANITAS MIRASOLE SPA	HUMANITAS MIRASOLE SPA	1
+AIRBUS GROUP INC.	Airbus	1
+PCCW	PCCW Ltd	1
+Eversource Energy	Eversource	1
+Corteva Agriscience	Corteva	1
+Dassault Systemes SE	Dassault Syst\u00e8mes SE	1
+GlaxoSmithKline	GlaxoSmithKline	1
+Tata Teleservices	Tata Teleservices (maharashtra)	1
+Gilead Sciences Inc.	Gilead	1
+PT Bank Rakyat Indonesia (Persero) Tbk	PT Bank Rakyat Indonesia (Persero) Tbk	1
+Intel Corporation	Advanced Micro Devices Inc.	0
+Q & A CONSULTING LIMITED	Q & A CONSULTANTS LTD	1
+Stolt-Nielsen Limited Careers	Stolt-Nielsen Limited Careers	1
+CT Real Estate Investment Trust	CT Real Estate Investment Trust	1
+Banco Bilbao Vizcaya Argentaria (BBVA)	"Banco Bilbao Vizcaya Argentaria, SA"	1
+GOOD BEE CO LONDON LTD	GOOD BEE CO LONDON LTD	1
+Kinder Morgan	Kinder Morgan	1
+Intuit Inc.	Intuit	1
+Veeva Systems	Veeva	1
+The Walt Disney Company	Comcast Corporation	0
+LS Electric Co Ltd	Allis Electric Co. Ltd.	0
+CenterPoint Energy	CenterPoint	1
+GDS Holdings Limited	GDS Global Ltd	1
+PANINI SPA	PANINI SPA	1
+Shiseido Company	Shiseido	1
+Merck & Co. Inc.	Merck	1
+Green Energy Group	Green Energy Markets	0
+Thermo Fisher Scientific Inc.	Thermo Fisher	1
+Great Panther Mining Limited	Great Panther Mining Limited	1
+FedEx Corporation	United Parcel Service Inc.	0
+Align Technology	"Align Technology, Inc."	1
+China Aluminum International Engineering Corporation	China Aluminum International Engineering Corp Ltd	1
+Foot Locker Inc.	Foot Locker	1
+The Mosaic Company	The Mosaic Company	1
+Heritage Financial	Heritage Trust Company Careers	1
+Ambu A/s	Ambu	1
+Eli Lilly and Company	Eli Lilly	1
+Microsoft Corporation	Microsoft	1
+Nanofilm Technologies International Ltd	Edison International	0
+Becton Dickinson	Becton Dickinson	1
+BlackRock	Blackstone	0
+China Industrial Securities International Financial Group Ltd	China Industrial Securities	1
+CVS Health Corporation	CVS	1
+Wells Fargo & Co.	Wells Fargo	1
+Exxon Mobil Corporation	Chevron Corporation	0
+AIDSS	AIDSS	1
+U AND I (INNOVATION HUBS) LIMITED	U AND I (DEVELOPMENT AND TRADING) LIMITED	1
+Woori Financial Group	"Woori Financial Group, Inc."	1
+Abbott Laboratories	Abbott	1
+Globaltrans Investment	Globaltrans Investment	1
+ADATA Technology Co Ltd	Global Mixed-Mode Technology Inc.	0
+BAD DOG DEVELOPMENT LTD	BAD DOG LTD	1
+Netflix Inc.	Hulu LLC	0
+Siemens Healthineers AG	Siemens Healthineers	1
+Phoenix Group	Phoenix Contact	0
+Lowe's Companies Inc.	Lowe's	1
+Sony Corporation	Sony	1
+Royal Bank of Canada	Toronto-Dominion Bank	0
+Autodesk Inc.	Autodesk	1
+Exelon Corporation	Exelon	1
+AstraZeneca plc	Moderna Inc.	0
+AEP	American Electric Power	1
+Alphabet Inc.	Google	1
+Dell Technologies Inc.	Hewlett Packard Enterprise Company	0
+PSEG	PSEG	1
+Sappi	SappiLtd	1
+Zalando SE	Zalando	1
+RC LONESTAR INC.	RC LONESTAR INC.	1
+Hermès International	KOS International Holdings Ltd	0
+Amazon.com	Amazon	1
+Arthur J. Gallagher & Co	BEAUTY BOULEVARD LTD	0
+T & A SHOE LIMITED	T. & A. RESIN LTD.	0
+Renault SA	Peugeot SA	0
+JD.com Inc.	JD	1
+RUBIX GROUP INTERNATIONAL LIMITED	Edison International	0
+Twitter	"Twitter, Inc."	1
+Henkel AG & Co. KGaA	Henkel	1
+Dow Inc.	Dow	1
+Woori Financial Group	Woori Financial Group	1
+Reebok International Ltd.	Reebok	1
+CMS Energy	CMS	1
+Coca-Cola Company	Coca-Cola	1
+Rio Tinto	Rio Energy	0
+Tpi Polene Power Public Company	TPI Polene Public Company Ltd	1
+Unilever PLC	Unilever	1
+Baidu Inc.	Baidu	1
+First Real Estate Investment Trust	Crombie Real Estate Investment Trust	0
+Liberty Mutual	Liberty Global	0
+THE N T PUB CO LTD	THE N T PUB CO LTD	1
+Panasonic Corporation	LG Electronics Inc.	0
+Zephyr Energy plc	Mcphy Energy	0
+GF FINANCIAL MARKETS (UK) LIMITED	GF FINANCIAL MARKETS (UK) LIMITED	1
+SAP SE	Salesforce.com Inc.	0
+Thermo Fisher Scientific Inc.	Thermo Fisher	1
+Entergy Corporation	Entergy	1
+State Farm Insurance	State Farm	1
+Johnson & Johnson	Johnson & Johnson	1
+Adobe Systems	Adobe	1
+Berkshire Hathaway Inc.	BlackRock Inc.	0
+Philips Healthcare	Philips Healthcare	1
+Barclays plc	Deutsche Bank AG	0
+TOTAL MARKETING SUPPORT GLOBAL LIMITED	TOTAL MARKETING SUPPORT LIMITED	0
+omron	omron	1
+Xerox Holdings	Xerox	1
+KEYSIGHT TECHNOLOGIES UK LIMITED	Adacel Technologies Limited	0
+Boston Consulting Group	Boston Dynamics	0
+Airbus SE	The Boeing Company	0
+Liberty Mutual Insurance	Liberty Mutual	1
+Bristol-Myers Squibb Company	Merck & Co. Inc.	0
+Archer Daniels Midland Company Careers	Archer Daniels Midland	1
+Hubei Feilihua Quartz Glass Co. Ltd	Hubei Feilihua Quartz Glass	1
+ITEQ Corp	ITEQ Corp	1
+Tata Consultancy Services	TCS	1
+Occidental Petroleum	Occidental	1
+Broadcom Inc.	NVIDIA Corporation	0
+Wayfair Inc.	Wayfair	1
+Eni SpA	Repsol SA	0
+"Center International Group Co.,Ltd."	ASM International	0
+Thermo Fisher Scientific Inc.	Thermo Fisher	1
+Chevron Corporation	Chevron	1
+UnitedHealth Group	UnitedHealth	1
+Fountain	FOUNTAIN FINANCES LIMITED	1
+Alltek Technology Corp	Alltek Technology Corp	1
+Wipro	Wipro Ltd	1
+BlackRock Inc.	BlackRock	1
+Stolt-Nielsen Limited Careers	Stolt-Nielsen ltd	1
+BASF SE	BASF	1
+DaVita Inc.	DaVita	1
+T & A RETAILS LTD	T & A RETAILS LTD	1
+Bank of New York Mellon	BNY Mellon	1
+WPP plc	Omnicom Group Inc.	0
+Biogen Inc.	Biogen	1
+Geico Corporation	Geico	1
+CRODA INTERNATIONAL PUBLIC LIMITED COMPANY	Croda International Plc	1
+Charter Communications Inc.	Dish Network Corporation	0
+The Mosaic Company	The Mosaic Co	1
+Royal Dutch Shell	Shell	1
+Atos SE	Atos	1
+ALL ABOUT BEAUTY AND AESTHETICS (WATERLOOVILLE) LIMITED	ALL ABOUT BEAUTY & AESTHETICS LTD	1
+Pioneer Natural Resources	Pioneer	1
+Nvidia Corporation	Nvidia	1
+Williams Companies Inc.	Williams	1
+PepsiCo Inc.	Pepsi	1
+IKEA Group	IKEA	1
+Johnson & Johnson Services	Johnson & Johnson	1
+Horiba Ltd.	Horiba	1
+Cigna Corporation	Cigna	1
+Advanced Micro Devices Inc.	AMD	1
+Bilfinger SE	Bilfinger SE	1
+MP Materials Corp.	Mp Materials Corp.	1
+Snap Inc.	Snap	1
+LinkedIn Corporation	LinkedIn	1
+Prudential Financial	Prudential	1
+Caterpillar Inc.	Deere & Company	0
+Bristol Myers Squibb Company	Eli Lilly and Company	0
+ING Groep NV	UBS Group AG	0
+Allianz SE	Allianz	1
+VALMET TECHNOLOGIES OU	VALMET Corp	0
+Lyft Inc.	Lyft	1
+Adyen N.V.	Adyen	1
+McKesson Corporation	McKesson	1
+FEDERATED INVESTMENT MANAGEMENT COMPANY	FEDERATED INVESTMENT MANAGEMENT COMPANY	1
+Pinterest Inc.	Pinterest	1
+Nestlé S.A.	Nestlé	1
+Edwards Lifesciences Corporation	Edwards Lifesciences	1
+ALL ABOUT BEAUTY AND AESTHETICS (WATERLOOVILLE) LIMITED	ALL ABOUT BEAUTY AND AESTHETICS (WATERLOOVILLE) LIMITED	1
+Softelligence	Softelligence	1
+Primary Health Properties plc	Primary Health Properties	1
+Intercorp Financial Services	Intercos Spa	1
+Isras Investment Company Ltd	Isras Investment Company Ltd	1
+Boston Scientific Corporation	Boston Scientific	1
+Red Hat Inc.	Red Hat	1
+Danone SA	Kellogg Company	0
+Biogen Inc.	Regeneron Pharmaceuticals Inc.	0
+vlmet	vlmet	1
+V & P PROPERTY SERVICES LIMITED	V & P PROPERTY SERVICES LIMITED	1
+Marathon Petroleum Corporation	Marathon	1
+HUNT AND PALMER PLC	J. B. Hunt	0
+Procter & Gamble Co.	Unilever NV	0
+Cavco Industries Inc	Cavco Industries	1
+UBS Group AG	UBS	1
+U INTERNATIONAL LIMITED	CISCO INTERNATIONAL LIMITED	0
+Diageo plc	Pernod Ricard SA	0
+Zara	Zara	1
+Goldman Sachs	Goldman Sachs	1
+Johnson & Johnson	Pfizer Inc.	0
+Formosa Taffeta Co Ltd	Formosa Taffeta	1
+Kec International	Digi International	0
+Air Products & Chemicals	Air Products & Chemicals	1
+Minor International Public Company	Mirza International	0
+Gap Inc.	Gap	1
+Bank of America	BofA	1
+Alliant Energy	Alliant	1
+FinecoBank Banca Fineco S.p.A.	Banca Farmafactoring S.p.A.	0
+State Street Corporation	State Street	1
+BTB Real Estate Investment Trust	BSR Real Estate Investment Trust	0
+Silicon Motion Technology Corporation	Silicon Motion	1
+Gemilang International Ltd	Baxter International	0
+Lululemon Athletica	Lululemon	1
+Prudential (UK)	Prudential Financial Inc	0
+Stolt-Nielsen Limited Careers	Stolt-Nielsen	1
+Glencore plc	Anglo American plc	0
+VMware Inc.	VMware	1
+Tofas Turk Otomobil Fabrikasi	Tofas Turk Otomobil Fabrikasi AS	1
+Boardwalk Real Estate Investment Trust	Real Estate Investment Trust	0
+Mylan N.V.	Mylan	1
+Texas Instruments Inc.	Texas Instruments	1
+Penguin International	ASM International	0
+Canon Inc.	Canon	1
+Union Pacific Corporation	Union Pacific	1
+Best Buy Co. Inc.	Best Buy	1
+Medtronic PLC	Medtronic	1
+Zimmer Biomet Holdings Inc.	Zimmer Biomet	1
+Markforged Holding Corporation	Markforged	1
+Artis Real Estate Investment Trust	Monmouth Real Estate Investment Corporation	0
+Waters Corporation	Waters	1
+Invitation Homes	Invitation Homes	1
+Mettler Toledo	Mettler Toledo	1
+Experian	Experian plc	1
+TotalEnergies SE	BP plc	0
+Shell PLC	Shell	1
+Exclaimer	Exclaimer Group	1
+Union Pacific Corporation	Union Pacific Corp	1
+Prudential Financial	"Prudential Financial, Inc."	1
+Kyochon Food&Beverage Co. Ltd	FOOD & BEVERAGE SOLUTIONS (UK) LTD	0
+American Express Company	American Express	1
+Xtep International Holdings	Zk International Group	0
+H&M Hennes & Mauritz AB	Inditex SA	0
+Nyxoah	Nyxoah SA	1
+AmerisourceBergen	AmerisourceBergen	1
+American Woodmark	American Woodmark Corporation	1
+Kimberly-Clark Corporation	Kimberly-Clark	1
+Alibaba Group	Alibaba	1
+3M Company	3M	1
+Amgen Inc.	Amgen	1
+U CREATIVE LIMITED	U CREATIVE COMMUNICATIONS LIMITED	1
+General Mills Inc.	General Mills	1
+AmerisourceBergen Corporation	AmerisourceBergen	1
+Apple Inc.	Samsung Electronics	0
+Schneider Electric SE	ABB Ltd.	0
+Ericsson AB	Ericsson	1
+L'Oréal SA	Estée Lauder Companies Inc.	0
+Brainhole Technology Ltd	Silicon Craft Technology Public Company Ltd	0
+Nordstrom Inc.	Nordstrom	1
+H & A TRACK AND HIRE LIMITED	T A ACCESS LTD	0
+MMSparkOÃœ(14883121)	OÃœVitspaju(12244309)	0
+HCL Technologies	HCL	1
+Novartis International AG	Novartis	1
+ConocoPhillips	ConocoPhillips	1
+Energisa SA	Energisa	1
+Volati AB	Volati Ab	1
+Agilent Technologies	Agilent	1
+Nestlé SA	The Coca-Cola Company	0
+Xiangtan Electric Manufacturing Co. Ltd	Xiangtan electric manufacturing	1
+Lockheed Martin Corporation	Northrop Grumman Corporation	0
+Intrum AB	Intrum Ab (publ)	1
+NextEra Energy	Inc. NextEra Energy	1
+Andritz	Andritz Ag	1
+Target Corporation	Target	1
+Weight Watchers Careers	Weight Watchers	1
+Walgreens Boots Alliance	Walgreens	1
+Japan Real Estate Investment Corporation	Spring Real Estate Investment Trust	0
+Chateau International Development Co. Ltd	Melco International Development	0
+Western Union	Union Pacific	0
+Emperor International Holdings Ltd	YHI International Ltd	0
+Pfizer Inc.	Pfizer	1
+"U INTERNATIONAL GROUP CO., LTD"	"U INTERNATIONAL GROUP CO., LTD"	1
+Humana Inc.	Humana	1
+Duke Energy Corporation	Duke Energy	1
+JPMorgan Chase & Co.	Bank of America	0
+Cms Energy	Cms Energy	1
+Minor International Public Company	AVANADE INTERNATIONAL CORPORATION	0
+Rakuten Inc.	Rakuten	1
+Twitter	"TWITTER, INC."	1
+Oge Energy	Mge Energy	0
+Netflix Inc.	Netflix	1
+Zheshang Securities Co. Ltd	Zheshang Securities	1
+Spotify Technology	Spotify	1
+Canoo Careers	Canoo	1
+NOS SGPS SA	Nos S.g.p.s	1
+Eurocash	Eurocash SA	1
+ScottishPower Limited	ScottishPower	1
+Banca Farmafactoring S.p.A.	BPER Banca S.p.A.	0
+Regeneron Pharmaceuticals Inc.	Regeneron	1
+Toyota Motor Corporation	Ford Motor Company	0
+Consolidated Edison Inc.	Con Edison	1
+FOOD & TIPPLE LTD	FOOD & FOOD LTD	0
+Uniqlo	Uniqlo	1
+DTE Energy	DTE	1
+Lexmark International Inc.	Lexmark	1
+Oshkosh Corporation	Oshkosh Corporation	1
+TCL	Tcl Corporation	1
+Uber Technologies	Uber	1
+American International Group	AIG	1
+AstraZeneca PLC	AstraZeneca	1
+Tusimple Holdings Inc	Tusimple	1
+Aspen Pharmacare Holdings Ltd	Aspen Pharmacare	1
+Siemens AG	General Electric Company	0
+NEW AGE MENTAL HEALTH LTD	NEW AGE HEALTH LTD	1
+Visa Inc.	Visa	1
+Banca Generali SpA	Banca Mediolanum SpA	0
+SP Corp Ltd	SOFTWARE PRODUCTIONS LTD	0
+Nike Inc.	Nike	1
+Lloyds Bank	Lloyd's of London	0
+Salesforce.com	Salesforce	1
+Cincinnati Financial	Cincinnati Financial Corporation	1
+Exxon Mobil Corporation	ExxonMobil	1
+Danaher Corporation	Danaher	1
+Barclays PLC	Barclays	1
+Crown Holdings	Crown Resorts	0
+Intesa Sanpaolo SpA	UniCredit	0
+United Health Group	United Technologies	0
+AMARR COMPANY	Marr	0
+Honda Motor Co. Ltd.	Nissan Motor Co. Ltd.	0
+Broadcom Inc.	Broadcom	1
+Connectone Bancorp	Connectone Bancorp	1
+Southern Company	The Southern Company	1
+Square Inc.	Square	1
+Delta Air Lines Inc.	American Airlines Group Inc.	0
+Alliance Healthcare	Alliance Data Systems	0
+Join Business Management Consulting	Join Business Management Consulting	1
+CVS Health Corporation	Walgreens Boots Alliance Inc.	0
+Katjes International	361 Degrees International	0
+FirstEnergy Corp.	FirstEnergy	1
+Halliburton Company	Schlumberger Limited	0
+Johnson Matthey	Johnson Matthey plc	1
+Lloyds Banking Group plc	Royal Bank of Scotland Group plc	0
+Novartis AG	Roche Holding AG	0
+DL Holdings Co Ltd	DL Holdings Group Ltd	0
+Bristol-Myers Squibb Company	Gilead Sciences Inc.	0
+OGE Energy Corp.	OGE Energy Corp	1
+Tcl Corporation	TCL Technology Group Corp	1
+Edison International	Edison International	1
+Cigna Corporation	Humana Inc.	0
+Equinor ASA	Lundin Energy AB	0
+EOG Resources	EOG	1
+Msa Safety	MSA Safety Incorporated	1
+Honda Motor Co. Ltd.	Yamaha Motor Co. Ltd.	0
+AMARR COMPANY	AMARR COMPANY	1
+Charles Schwab Corporation	Charles Schwab	1
+MetLife Inc.	MetLife	1
+GlaxoSmithKline plc	Sanofi SA	0
+Stillfront Group Ab (publ)	Stillfront Group AB	1
+Z & Z (BURNLEY) LIMITED	Z & PARTNERS LIMITED	0
+Syngenta	Syngenta	1
+Xcel Energy	Xcel	1
+L'Oréal Group	L'Oréal	1
+Accenture plc	Capgemini SE	0
+Baidu Inc.	Tencent Holdings Ltd.	0
+Workday Inc.	Workday	1
+Next plc	Nextdoor	0
+Accenture Plc	Accenture	1
+Taiwan Mobile	Taiwan Mobile Co. Ltd	1
+Veolia Environnement SA	Veolia Environnement	1
+Tata Consultancy Services Limited	Infosys Limited	0
+NiSource Inc.	NiSource	1
+Trendy Group International	Circor International	0
+Apple Computer	Apple	1
+RDC Semiconductor Co. Ltd	 RDC Semiconductor	1
+Aegon N.V.	Aegon	1
+U INTERNATIONAL LIMITED	"ADIDAS INTERNATIONAL, INC."	0
+Grupo Pochteca S.A.B. de C.V.	Grupo Lamosa S.A.B. de C.V.	0
+asSP International	Topsports International Holdings	0
+Join Business Management Consulting	H - A BUSINESS CONSULTING LTD	0
+Schlumberger Limited	Schlumberger	1
+Samsung Electronics Italia Spa	Shenzhen Colibri Technologies	0

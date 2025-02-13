@@ -1,0 +1,10 @@
+[
+  {
+    "name": "companies",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "../../data/DITTO_datasets/DITTO_training_set.txt",
+    "validset": "../../data/DITTO_datasets/DITTO_valid_set.txt",
+    "testset": "../../data/DITTO_datasets/DITTO_valid_set.txt"
+  }
+]

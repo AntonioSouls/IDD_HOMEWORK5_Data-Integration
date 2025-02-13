@@ -1,0 +1,106 @@
+Airbus SE	Lockheed Martin Corporation	0
+Centene Corporation	Centene	1
+Asics Corporation	ASICS Corp	1
+Dillard's Inc.	Dillard's	1
+IBM Corporation	Oracle Corporation	0
+Standard Life	Standard Chartered	0
+Capgemini	CAPGEMINI	1
+Vanguard Group	Vanguard Logistics	0
+CRODA INTERNATIONAL PUBLIC LIMITED COMPANY	Huarong International Financial Holdings Ltd	0
+Colgate-Palmolive Company	Procter & Gamble Co.	0
+Airbnb Inc.	Airbnb	1
+Meta Platforms Inc.	Meta	1
+Spotify Inc.	Spotify	1
+Cms Energy	Cms Energy Corp	1
+AT&T Inc.	Verizon Communications Inc.	0
+Bank of Montreal	Bank Of Montreal	1
+Decor Leader	Decor Leader	1
+Nationwide Mutual Insurance Company	Nationwide	1
+Jointown Pharmaceutical Group Co. Ltd	Jointown Pharmaceutical Group Co Ltd	1
+Bright Horizons	Bright Health Group	0
+Principal Financial Group Inc	Principal Financial Group	1
+New India Assurance	New India Assurance Company	1
+Fuji (Restaurant chain)	Fuji Co. Ltd	0
+Biogen	Biogen	1
+Jointown Pharmaceutical Group Co Ltd	Jointown Pharmaceutical Group	1
+Jcdecaux Sa	JCDecaux SA	1
+"ADIDAS INTERNATIONAL, INC."	ADIDAS	1
+Sony Corporation	Panasonic Corporation	0
+Elevance Health	Elevance Health	1
+Reckitt Benckiser Group	Reckitt	1
+Citigroup Inc.	Citi	1
+Cognizant Technology Solutions	Cognizant	1
+The Allstate Corporation	Allstate	1
+Walgreens Boots Alliance Inc.	Walgreens	1
+eBay Inc.	Etsy Inc.	0
+Blue Cross Blue Shield	Blue Origin	0
+MUFG	MUFG Careers	1
+Ssab Ab (publ)	SSAB	1
+DuPont de Nemours Inc.	DuPont	1
+Macy's Inc.	Macy's	1
+H&R Real Estate Investment Trust	InterRent Real Estate Investment Trust	0
+CNP Assurances	Cnp Assurances SA	1
+ACAT	ACAT	1
+Foxconn (hon Hai Precision Industry)	Foxconn Technology Co Ltd	1
+H - A BUSINESS CONSULTING LTD	Q BUSINESS CONSULTING LIMITED	0
+H&M	H&M	1
+Vertex Pharmaceuticals	Vertex	1
+Colgate-Palmolive Company	Colgate	1
+Intel Corporation	Intel	1
+Occidental Petroleum	Occidental	1
+PUMA	puma	1
+Honeywell International Inc.	3M Company	0
+U and I Group plc	U AND I GROUP LIMITED	1
+Philip Morris International	Philip Morris International	1
+Marvell Technology Group	Marvell	1
+BP p.l.c.	BP	1
+MassMutual	MassMutual	1
+Canon Inc.	Nikon Corporation	0
+Globaltrans Investment	Globaltrans Investment PLC	1
+Kuehne + Nagel International AG	Kuehne + Nagel International Ag	1
+Progressive Corporation	Progressive	1
+Uber Technologies Inc.	Lyft Inc.	0
+Chubb Limited	AIG	0
+Ganfeng Lithium	Ganfeng Lithium Co. Ltd	1
+Airbus SE	Embraer SA	0
+Deutsche Bank AG	Deutsche Bank	1
+Grupo Posadas S.A.B. de C.V.	Nemak S. A. B. De C. V	0
+HSBC Holdings plc	Standard Chartered plc	0
+American Express	American Eagle Outfitters	0
+Interrent Real Estate Investment Trust	Interrent Real Estate Investment Trust	1
+Tesla Inc.	Tesla	1
+Blackstone Group Inc.	KKR & Co. Inc.	0
+GlaxoSmithKline	GlaxoSmithKline	1
+Global One Real Estate Investment	Interrent Real Estate Investment Trust	0
+Mindtree Limited	Mindtree	1
+Hokkaido Electric Power Co Inc	Hokkaido Electric Power Company	1
+MGM RESORTS INTERNATIONAL	9 Spokes International Limited	0
+Dell Technologies	Dell	1
+Kyochon Food&Beverage Co. Ltd	Suntory Beverage & Food	0
+MetLife Inc.	MetLife	1
+Global Blue Group Holding AG	Global Blue Group	1
+Credit Suisse	Credit Suisse	1
+Q DESIGN LIMITED	Q DESIGN CONSULTANTS LIMITED	0
+Crinetics Pharmaceuticals	 Crinetics Pharmaceuticals	1
+Tata Chemicals	ITALMATCH CHEMICALS SPA	0
+V & A CONSULTANCY LTD	V & A CONSULTANCY LTD	1
+Cisco Systems Inc.	Juniper Networks Inc.	0
+Goldman Sachs Group Inc.	Morgan Stanley	0
+Grafton Group plc	Grafton Group Plc	1
+Mori Hills Reit Investment Corporation	Mori Hills REIT Investment Corp	1
+Vibram	Vibrant Group Ltd	1
+Lintes Technology Co. Ltd	Lintes Technology	1
+Mastercard Incorporated	Mastercard	1
+Facebook Inc.	Meta	1
+Star Petroleum Refining Public Company Ltd	Star Petroleum Refining PCL	1
+Travelers Companies Inc.	Travelers	1
+Roche Holding AG	Roche	1
+Halliburton Company	Halliburton	1
+Nokia Corporation	Nokia	1
+Sun Microsystems	Sun Chemical	0
+IBM Corporation	IBM	1
+Teledyne Technologies	Teledyne Technologies	1
+Costco Wholesale Corporation	Walmart Inc.	0
+Meliá Hotels International	WESCO International	0
+New Balance Athletic Shoe Inc.	New Balance	1
+Penguin International	"U INTERNATIONAL GROUP CO., LTD"	0

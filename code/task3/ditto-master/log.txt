@@ -1,0 +1,15 @@
+companies_lm=distilbert_dk=False_su=False 4.125861 
+companies_lm=distilbert_dk=False_su=False 4.787761 
+companies_lm=distilbert_dk=False_su=False 4.693959 
+companies_lm=distilbert_dk=False_su=False 5.297208 
+companies_lm=distilbert_dk=False_su=False 5.358318 
+companies_lm=distilbert_dk=False_su=False 5.021759 
+companies_lm=distilbert_dk=False_su=False 4.957510 
+companies_lm=distilbert_dk=False_su=False 4.262991 
+companies_lm=distilbert_dk=False_su=False 5.618244 
+companies_lm=distilbert_dk=False_su=False 4.847274 
+companies_lm=distilbert_dk=False_su=False 4.412737 
+companies_lm=distilbert_dk=False_su=False 5.044977 
+companies_lm=distilbert_dk=False_su=False 5.369211 
+companies_lm=distilbert_dk=False_su=False 5.802061 
+companies_lm=distilbert_dk=False_su=False 5.253807 

@@ -114,7 +114,8 @@ def classify(sentence_pairs, model,
     pred = [1 if p > threshold else 0 for p in all_probs]
     return pred, all_logits
 
-def predict(input_path, output_path, config,
+
+def predict_for_threshold(input_path, output_path, config,
             model,
             batch_size=1024,
             summarizer=None,
@@ -162,7 +163,7 @@ def predict(input_path, output_path, config,
     # convert to jsonlines
     if '.txt' in input_path:
         with jsonlines.open(input_path + '.jsonl', mode='w') as writer:
-            for line in open(input_path):
+            for line in open(input_path, encoding='utf-8', errors="replace"):
                 writer.write(line.split('\t')[:2])
         input_path += '.jsonl'
 
@@ -170,6 +171,78 @@ def predict(input_path, output_path, config,
     start_time = time.time()
     with jsonlines.open(input_path) as reader,\
          jsonlines.open(output_path, mode='w') as writer:
+        pairs = []
+        rows = []
+        for idx, row in tqdm(enumerate(reader)):
+            pairs.append(to_str(row[0], row[1], summarizer, max_len, dk_injector))
+            rows.append(row)
+            if len(pairs) == batch_size:
+                process_batch(rows, pairs, writer)
+                pairs.clear()
+                rows.clear()
+
+        if len(pairs) > 0:
+            process_batch(rows, pairs, writer)
+
+    run_time = time.time() - start_time
+    run_tag = '%s_lm=%s_dk=%s_su=%s' % (config['name'], lm, str(dk_injector != None), str(summarizer != None))
+    os.system('echo %s %f >> log.txt' % (run_tag, run_time))
+
+
+def predict(input_path, output_path, config,
+            model,
+            batch_size=1024,
+            summarizer=None,
+            lm='distilbert',
+            max_len=256,
+            dk_injector=None,
+            threshold=None):
+    """Run the model over the input file containing the candidate entry pairs
+
+    Args:
+        input_path (str): the input file path
+        output_path (str): the output file path
+        config (Dictionary): task configuration
+        model (DittoModel): the model for prediction
+        batch_size (int): the batch size
+        summarizer (Summarizer, optional): the summarization module
+        max_len (int, optional): the max sequence length
+        dk_injector (DKInjector, optional): the domain-knowledge injector
+        threshold (float, optional): the threshold of the 0's class
+
+    Returns:
+        None
+    """
+    pairs = []
+
+    def process_batch(rows, pairs, writer):
+        predictions, logits = classify(pairs, model, lm=lm,
+                                       max_len=max_len,
+                                       threshold=threshold)
+        # try:
+        #     predictions, logits = classify(pairs, model, lm=lm,
+        #                                    max_len=max_len,
+        #                                    threshold=threshold)
+        # except:
+        #     # ignore the whole batch
+        #     return
+        scores = softmax(logits, axis=1)
+        for row, pred, score in zip(rows, predictions, scores):
+            output = f"{row[0]}\t{row[1][:-1]}\t{pred}\t{score[int(pred)]:.4f}\n"
+            writer.write(output)
+
+    # input_path can also be train/valid/test.txt
+    # convert to jsonlines
+    if '.txt' in input_path:
+        with jsonlines.open(input_path + '.jsonl', mode='w') as writer:
+            for line in open(input_path, encoding='utf-8', errors="replace"):
+                writer.write(line.split('\t')[:2])
+        input_path += '.jsonl'
+
+    # batch processing
+    start_time = time.time()
+    with jsonlines.open(input_path) as reader,\
+        open(output_path, mode='w', encoding='utf-8') as writer:
         pairs = []
         rows = []
         for idx, row in tqdm(enumerate(reader)):
@@ -227,7 +300,7 @@ def tune_threshold(config, model, hp):
 
     # verify F1
     set_seed(123)
-    predict(validset, "tmp.jsonl", config, model,
+    predict_for_threshold(validset, "tmp.jsonl", config, model,
             summarizer=summarizer,
             max_len=hp.max_len,
             lm=hp.lm,
@@ -294,8 +367,8 @@ def load_model(task, path, lm, use_gpu, fp16=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", type=str, default='companies')
-    parser.add_argument("--input_path", type=str, default='input/candidates_small.jsonl')
-    parser.add_argument("--output_path", type=str, default='output/matched_small.jsonl')
+    parser.add_argument("--input_path", type=str, default='../../../data/blocking_results/QGram_results_for_DITTO.txt')
+    parser.add_argument("--output_path", type=str, default='../../../data/PairwiseMatching_results/QGRAM_DITTO_pairwise_matching.txt')
     parser.add_argument("--lm", type=str, default='distilbert')
     parser.add_argument("--use_gpu", dest="use_gpu", action="store_true")
     parser.add_argument("--fp16", dest="fp16", action="store_true")

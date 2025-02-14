@@ -189,8 +189,8 @@ def main():
     # Create the directory in which to save the blocking results
     output_directory = "data/blocking_results"
     os.makedirs(output_directory, exist_ok=True)
-    lsh_output_file = f"{output_directory}/lsh_results.json"
-    QGram_output_file = f"{output_directory}/QGram_results.json"
+    lsh_output_file = f"{output_directory}/lsh_results_for_RLT.json"
+    QGram_output_file = f"{output_directory}/QGram_results_for_RLT.json"
 
     # Starting the LSH_Blocking strategy
     print("Starting LOCALITY SENSITIVE HASHING ... ")
@@ -216,7 +216,7 @@ def main():
     # Storage of the QGram_statistics
     with open(stats_file, "a", encoding='utf-8') as f:
         f.write(f"QGRAM BLOCKING executed in {total_time:.2f} minutes\n\n")
-        f.write("########################################################")
+        f.write("########################################################\n\n")
     
     return
 

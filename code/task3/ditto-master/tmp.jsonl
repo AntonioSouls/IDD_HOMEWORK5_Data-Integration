@@ -1,0 +1,106 @@
+{"left": "Airbus SE", "right": "Lockheed Martin Corporation", "match": 0, "match_confidence": 0.9988464039299069}
+{"left": "Centene Corporation", "right": "Centene", "match": 1, "match_confidence": 0.9998122429548537}
+{"left": "Asics Corporation", "right": "ASICS Corp", "match": 1, "match_confidence": 0.9998324997749473}
+{"left": "Dillard's Inc.", "right": "Dillard's", "match": 1, "match_confidence": 0.9997763423723387}
+{"left": "IBM Corporation", "right": "Oracle Corporation", "match": 0, "match_confidence": 0.9901649468654412}
+{"left": "Standard Life", "right": "Standard Chartered", "match": 1, "match_confidence": 0.9986329587312739}
+{"left": "Capgemini", "right": "CAPGEMINI", "match": 1, "match_confidence": 0.9998219725420596}
+{"left": "Vanguard Group", "right": "Vanguard Logistics", "match": 0, "match_confidence": 0.942806200293229}
+{"left": "CRODA INTERNATIONAL PUBLIC LIMITED COMPANY", "right": "Huarong International Financial Holdings Ltd", "match": 0, "match_confidence": 0.9996329673047237}
+{"left": "Colgate-Palmolive Company", "right": "Procter & Gamble Co.", "match": 0, "match_confidence": 0.9995935597148989}
+{"left": "Airbnb Inc.", "right": "Airbnb", "match": 1, "match_confidence": 0.9997302985117272}
+{"left": "Meta Platforms Inc.", "right": "Meta", "match": 1, "match_confidence": 0.9987502287092915}
+{"left": "Spotify Inc.", "right": "Spotify", "match": 1, "match_confidence": 0.9997402278155483}
+{"left": "Cms Energy", "right": "Cms Energy Corp", "match": 1, "match_confidence": 0.9998351967990095}
+{"left": "AT&T Inc.", "right": "Verizon Communications Inc.", "match": 0, "match_confidence": 0.9991888319478364}
+{"left": "Bank of Montreal", "right": "Bank Of Montreal", "match": 1, "match_confidence": 0.9994144335451427}
+{"left": "Decor Leader", "right": "Decor Leader", "match": 1, "match_confidence": 0.9990540385106014}
+{"left": "Nationwide Mutual Insurance Company", "right": "Nationwide", "match": 1, "match_confidence": 0.8858672582391465}
+{"left": "Jointown Pharmaceutical Group Co. Ltd", "right": "Jointown Pharmaceutical Group Co Ltd", "match": 1, "match_confidence": 0.998914522613174}
+{"left": "Bright Horizons", "right": "Bright Health Group", "match": 1, "match_confidence": 0.5622732116717795}
+{"left": "Principal Financial Group Inc", "right": "Principal Financial Group", "match": 1, "match_confidence": 0.9995377274683904}
+{"left": "New India Assurance", "right": "New India Assurance Company", "match": 1, "match_confidence": 0.9995897621853771}
+{"left": "Fuji (Restaurant chain)", "right": "Fuji Co. Ltd", "match": 0, "match_confidence": 0.9983603568071664}
+{"left": "Biogen", "right": "Biogen", "match": 1, "match_confidence": 0.9997684771561133}
+{"left": "Jointown Pharmaceutical Group Co Ltd", "right": "Jointown Pharmaceutical Group", "match": 1, "match_confidence": 0.9977801128709245}
+{"left": "Jcdecaux Sa", "right": "JCDecaux SA", "match": 1, "match_confidence": 0.9998018690269347}
+{"left": "\"ADIDAS INTERNATIONAL, INC.\"", "right": "ADIDAS", "match": 1, "match_confidence": 0.9995064046556889}
+{"left": "Sony Corporation", "right": "Panasonic Corporation", "match": 0, "match_confidence": 0.997696872003611}
+{"left": "Elevance Health", "right": "Elevance Health", "match": 1, "match_confidence": 0.9996868738123006}
+{"left": "Reckitt Benckiser Group", "right": "Reckitt", "match": 1, "match_confidence": 0.9345775440612178}
+{"left": "Citigroup Inc.", "right": "Citi", "match": 1, "match_confidence": 0.9995020182556362}
+{"left": "Cognizant Technology Solutions", "right": "Cognizant", "match": 1, "match_confidence": 0.9998530858558433}
+{"left": "The Allstate Corporation", "right": "Allstate", "match": 1, "match_confidence": 0.9998047148496917}
+{"left": "Walgreens Boots Alliance Inc.", "right": "Walgreens", "match": 1, "match_confidence": 0.999443328976232}
+{"left": "eBay Inc.", "right": "Etsy Inc.", "match": 0, "match_confidence": 0.9996652084924877}
+{"left": "Blue Cross Blue Shield", "right": "Blue Origin", "match": 0, "match_confidence": 0.7913887584082715}
+{"left": "MUFG", "right": "MUFG Careers", "match": 1, "match_confidence": 0.9997354254208657}
+{"left": "Ssab Ab (publ)", "right": "SSAB", "match": 1, "match_confidence": 0.9976240320937393}
+{"left": "DuPont de Nemours Inc.", "right": "DuPont", "match": 0, "match_confidence": 0.8678064248539608}
+{"left": "Macy's Inc.", "right": "Macy's", "match": 1, "match_confidence": 0.9997565709859902}
+{"left": "H&R Real Estate Investment Trust", "right": "InterRent Real Estate Investment Trust", "match": 0, "match_confidence": 0.9989972205885567}
+{"left": "CNP Assurances", "right": "Cnp Assurances SA", "match": 1, "match_confidence": 0.999744782452755}
+{"left": "ACAT", "right": "ACAT", "match": 1, "match_confidence": 0.9997456642226354}
+{"left": "Foxconn (hon Hai Precision Industry)", "right": "Foxconn Technology Co Ltd", "match": 0, "match_confidence": 0.9859632673094251}
+{"left": "H - A BUSINESS CONSULTING LTD", "right": "Q BUSINESS CONSULTING LIMITED", "match": 0, "match_confidence": 0.999265849834821}
+{"left": "H&M", "right": "H&M", "match": 1, "match_confidence": 0.9998131917123371}
+{"left": "Vertex Pharmaceuticals", "right": "Vertex", "match": 1, "match_confidence": 0.9966275010658969}
+{"left": "Colgate-Palmolive Company", "right": "Colgate", "match": 1, "match_confidence": 0.9953442955860552}
+{"left": "Intel Corporation", "right": "Intel", "match": 1, "match_confidence": 0.9991947947978054}
+{"left": "Occidental Petroleum", "right": "Occidental", "match": 1, "match_confidence": 0.9997272397442095}
+{"left": "PUMA", "right": "puma", "match": 1, "match_confidence": 0.9995599801068066}
+{"left": "Honeywell International Inc.", "right": "3M Company", "match": 0, "match_confidence": 0.9996464394963614}
+{"left": "U and I Group plc", "right": "U AND I GROUP LIMITED", "match": 1, "match_confidence": 0.993850822203579}
+{"left": "Philip Morris International", "right": "Philip Morris International", "match": 1, "match_confidence": 0.9997385332410311}
+{"left": "Marvell Technology Group", "right": "Marvell", "match": 1, "match_confidence": 0.9996782708176263}
+{"left": "BP p.l.c.", "right": "BP", "match": 1, "match_confidence": 0.9968818181842931}
+{"left": "MassMutual", "right": "MassMutual", "match": 1, "match_confidence": 0.9998096216190606}
+{"left": "Canon Inc.", "right": "Nikon Corporation", "match": 0, "match_confidence": 0.9991646150748059}
+{"left": "Globaltrans Investment", "right": "Globaltrans Investment PLC", "match": 1, "match_confidence": 0.9991248219317113}
+{"left": "Kuehne + Nagel International AG", "right": "Kuehne + Nagel International Ag", "match": 1, "match_confidence": 0.9995935666890133}
+{"left": "Progressive Corporation", "right": "Progressive", "match": 1, "match_confidence": 0.9988821740344656}
+{"left": "Uber Technologies Inc.", "right": "Lyft Inc.", "match": 0, "match_confidence": 0.9996648096053424}
+{"left": "Chubb Limited", "right": "AIG", "match": 0, "match_confidence": 0.9939831407775322}
+{"left": "Ganfeng Lithium", "right": "Ganfeng Lithium Co. Ltd", "match": 1, "match_confidence": 0.9996700716184316}
+{"left": "Airbus SE", "right": "Embraer SA", "match": 0, "match_confidence": 0.9989540884126809}
+{"left": "Deutsche Bank AG", "right": "Deutsche Bank", "match": 0, "match_confidence": 0.6915978668134245}
+{"left": "Grupo Posadas S.A.B. de C.V.", "right": "Nemak S. A. B. De C. V", "match": 0, "match_confidence": 0.9993600725563185}
+{"left": "HSBC Holdings plc", "right": "Standard Chartered plc", "match": 0, "match_confidence": 0.9996090321561436}
+{"left": "American Express", "right": "American Eagle Outfitters", "match": 0, "match_confidence": 0.9949800743797543}
+{"left": "Interrent Real Estate Investment Trust", "right": "Interrent Real Estate Investment Trust", "match": 1, "match_confidence": 0.9994476954829074}
+{"left": "Tesla Inc.", "right": "Tesla", "match": 1, "match_confidence": 0.9986094725666541}
+{"left": "Blackstone Group Inc.", "right": "KKR & Co. Inc.", "match": 0, "match_confidence": 0.9997118035219231}
+{"left": "GlaxoSmithKline", "right": "GlaxoSmithKline", "match": 1, "match_confidence": 0.9998412568065363}
+{"left": "Global One Real Estate Investment", "right": "Interrent Real Estate Investment Trust", "match": 0, "match_confidence": 0.9991282157935168}
+{"left": "Mindtree Limited", "right": "Mindtree", "match": 1, "match_confidence": 0.9995629036813418}
+{"left": "Hokkaido Electric Power Co Inc", "right": "Hokkaido Electric Power Company", "match": 1, "match_confidence": 0.99396369456054}
+{"left": "MGM RESORTS INTERNATIONAL", "right": "9 Spokes International Limited", "match": 0, "match_confidence": 0.9994097986003986}
+{"left": "Dell Technologies", "right": "Dell", "match": 1, "match_confidence": 0.9668247459453013}
+{"left": "Kyochon Food&Beverage Co. Ltd", "right": "Suntory Beverage & Food", "match": 0, "match_confidence": 0.9971538503166674}
+{"left": "MetLife Inc.", "right": "MetLife", "match": 1, "match_confidence": 0.9998202301610669}
+{"left": "Global Blue Group Holding AG", "right": "Global Blue Group", "match": 1, "match_confidence": 0.9674952529034176}
+{"left": "Credit Suisse", "right": "Credit Suisse", "match": 1, "match_confidence": 0.999808453115444}
+{"left": "Q DESIGN LIMITED", "right": "Q DESIGN CONSULTANTS LIMITED", "match": 1, "match_confidence": 0.9259696771586697}
+{"left": "Crinetics Pharmaceuticals", "right": " Crinetics Pharmaceuticals", "match": 1, "match_confidence": 0.9997504074477834}
+{"left": "Tata Chemicals", "right": "ITALMATCH CHEMICALS SPA", "match": 0, "match_confidence": 0.9973804963714082}
+{"left": "V & A CONSULTANCY LTD", "right": "V & A CONSULTANCY LTD", "match": 1, "match_confidence": 0.6844595607862348}
+{"left": "Cisco Systems Inc.", "right": "Juniper Networks Inc.", "match": 0, "match_confidence": 0.9992812887187695}
+{"left": "Goldman Sachs Group Inc.", "right": "Morgan Stanley", "match": 0, "match_confidence": 0.9990565311096171}
+{"left": "Grafton Group plc", "right": "Grafton Group Plc", "match": 1, "match_confidence": 0.9332666829743116}
+{"left": "Mori Hills Reit Investment Corporation", "right": "Mori Hills REIT Investment Corp", "match": 1, "match_confidence": 0.999853433701388}
+{"left": "Vibram", "right": "Vibrant Group Ltd", "match": 0, "match_confidence": 0.999563302144244}
+{"left": "Lintes Technology Co. Ltd", "right": "Lintes Technology", "match": 1, "match_confidence": 0.9998365173719038}
+{"left": "Mastercard Incorporated", "right": "Mastercard", "match": 1, "match_confidence": 0.995833973361144}
+{"left": "Facebook Inc.", "right": "Meta", "match": 0, "match_confidence": 0.9987447660465247}
+{"left": "Star Petroleum Refining Public Company Ltd", "right": "Star Petroleum Refining PCL", "match": 1, "match_confidence": 0.9976420673654282}
+{"left": "Travelers Companies Inc.", "right": "Travelers", "match": 1, "match_confidence": 0.999353441409114}
+{"left": "Roche Holding AG", "right": "Roche", "match": 1, "match_confidence": 0.8594418748864462}
+{"left": "Halliburton Company", "right": "Halliburton", "match": 1, "match_confidence": 0.9997861331548147}
+{"left": "Nokia Corporation", "right": "Nokia", "match": 1, "match_confidence": 0.9972644658283087}
+{"left": "Sun Microsystems", "right": "Sun Chemical", "match": 0, "match_confidence": 0.5116194052366334}
+{"left": "IBM Corporation", "right": "IBM", "match": 1, "match_confidence": 0.9988844071902442}
+{"left": "Teledyne Technologies", "right": "Teledyne Technologies", "match": 1, "match_confidence": 0.9998524391932567}
+{"left": "Costco Wholesale Corporation", "right": "Walmart Inc.", "match": 0, "match_confidence": 0.9994731288441735}
+{"left": "Meliá Hotels International", "right": "WESCO International", "match": 0, "match_confidence": 0.999450875790154}
+{"left": "New Balance Athletic Shoe Inc.", "right": "New Balance", "match": 1, "match_confidence": 0.9718898968856026}
+{"left": "Penguin International", "right": "\"U INTERNATIONAL GROUP CO., LTD\"", "match": 0, "match_confidence": 0.9996646016701574}

@@ -1,0 +1,32 @@
+LOCALITY SENSITIVE HASHING BLOCKING executed in 0.61 seconds
+QGRAM BLOCKING executed in 0.56 seconds
+
+########################################################
+
+PAIRWISE MATCHING with RLT on LOCALITY SENSITIVE HASHING executed in 0.52 seconds
+PAIRWISE MATCHING with RLT on QGRAM BLOCKING executed in 0.57 seconds
+PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in 194.46 seconds
+PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in 23.06 seconds
+
+########################################################
+
+PRESTAZIONI PER LSH_RLT_pairwise_matching.txt:
+		PRECISION: 0.0
+		RECALL: 0.0
+		F-MEASURE: 0
+
+PRESTAZIONI PER LSH_DITTO_pairwise_matching.txt:
+		PRECISION: 0.0
+		RECALL: 0.0
+		F-MEASURE: 0
+
+PRESTAZIONI PER QGRAM_RLT_pairwise_matching.txt:
+		PRECISION: 0.0
+		RECALL: 0.0
+		F-MEASURE: 0
+
+PRESTAZIONI PER QGRAM_DITTO_pairwise_matching.txt:
+		PRECISION: 0.0
+		RECALL: 0.0
+		F-MEASURE: 0
+

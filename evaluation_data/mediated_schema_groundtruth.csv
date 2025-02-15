@@ -1,0 +1,412 @@
+name,industry,headquarter,company_type,foundation_date,founders,market_cap,rank,number_of_employees,website,facebook,twitter,instagram,pinterest,telephone,ceo,company_status,revenue,investors,total_assets_in_usd,total_liabilities_in_usd,total_equity_in_usd,annual_net_income_in_usd,annual_results_for_year_ending
+TCS,IT Services & Consulting,"Mumbai, Maharashtra, India",Public,1968 (55 yrs old),,,,,,,,,,,,,,,,,,,
+IBM,Software Product,"Armonk,New York, United States",Public,1911 (112 yrs old),,,,,,,,,,,,,,,,,,,
+Oracle,Software Product,"Austin,Texas, United States",Public,1977 (46 yrs old),,,,,,,,,,,,,,,,,,,
+Dominos Pizza,Hospitality,"Ypsilanti, Michigan, United States (USA)",Public,1960 (63 yrs old),,,,,,,,,,,,,,,,,,,
+PepsiCo,Food Processing,"Harrison, New York, United States (USA)",Private,1989 (34 yrs old),,,,,,,,,,,,,,,,,,,
+Procter & Gamble,FMCG,"Cincinnati, Ohio, United States (USA)",Public,1837 (186 yrs old),,,,,,,,,,,,,,,,,,,
+Philips,Healthcare,"Amsterdam, Netherlands",Private,1930 (93 yrs old),,,,,,,,,,,,,,,,,,,
+Xiaomi,Consumer Electronics & Appliances,"Haidian District, Beijing, China",Private,2010 (13 yrs old),,,,,,,,,,,,,,,,,,,
+Hyundai Mobis,Auto Components,"Kanchipuram, Tamil Nadu, India",Private,2017 (6 yrs old),,,,,,,,,,,,,,,,,,,
+Union Bank of India,Banking,"Mumbai, Maharashtra, India",Public,1919 (104 yrs old),,,,,,,,,,,,,,,,,,,
+H&M,Retail,"Stockholm, Stockholm, Sweden",Private,1947 (76 yrs old),,,,,,,,,,,,,,,,,,,
+AT&T,Telecom,"Dallas, Texas, United States (USA)",Private,1983 (40 yrs old),,,,,,,,,,,,,,,,,,,
+Kraft Heinz Company,Food Processing,"Mumbai, Maharashtra, India",Private,1994 (29 yrs old),,,,,,,,,,,,,,,,,,,
+BMW,Automobile,"Munich, Germany",Private,1916 (107 yrs old),,,,,,,,,,,,,,,,,,,
+The Chennai Silks,Fashion & Textile,"Tirupur/Tiruppur, Tamil Nadu, India",Private,1964 (59 yrs old),,,,,,,,,,,,,,,,,,,
+Texas Instruments,Semiconductors,"Dallas,Texas, United States",Private,1951 (72 yrs old),,,,,,,,,,,,,,,,,,,
+The Walt Disney Company,Media & Entertainment,"Burbank, California, United States (USA)",Private,1923 (100 yrs old),,,,,,,,,,,,,,,,,,,
+Microsoft,Computer Software,,,,,,21.0,,,,,,,,,,,,,,,,
+Nintendo,Gaming Console,,,,,,46.0,,,,,,,,,,,,,,,,
+BMW,Car/Automobile,,,,,,49.0,,,,,,,,,,,,,,,,
+Philips,Consumer Electronics,,,,,,57.0,,,,,,,,,,,,,,,,
+Twitter,Social Networking Site,,,,,,60.0,,,,,,,,,,,,,,,,
+Acer,Computer,,,,,,70.0,,,,,,,,,,,,,,,,
+Louis Vuitton (LV),Luxury Fashion Retailer,,,,,,123.0,,,,,,,,,,,,,,,,
+IBM,Computer,,,,,,154.0,,,,,,,,,,,,,,,,
+Japan Airlines (JAL),Full-service Airlines,,,,,,231.0,,,,,,,,,,,,,,,,
+British Petroleum (BP),Petrol/Gas Station,,,,,,258.0,,,,,,,,,,,,,,,,
+Prada,Luxury Fashion Retailer,,,,,,348.0,,,,,,,,,,,,,,,,
+China Eastern Airlines,Full-service Airlines,,,,,,397.0,,,,,,,,,,,,,,,,
+China Construction Bank,Bank,,,,,,398.0,,,,,,,,,,,,,,,,
+Taiwan Mobile,Mobile Service Provider,,,,,,451.0,,,,,,,,,,,,,,,,
+Domino’s,Fast-Food,,,,,,671.0,,,,,,,,,,,,,,,,
+Hana,Bank,,,,,,985.0,,,,,,,,,,,,,,,,
+Walt Disney,"['Entertainment', 'Dow jones']",USA,,,,$177.08 B,54.0,,,,,,,,,,,,,,,,
+Oracle,"['Tech', 'Software']",USA,,,,$224.72 B,38.0,,,,,,,,,,,,,,,,
+Chevron,"['Oil&Gas', 'Dow jones', 'Energy']",USA,,,,$350.04 B,20.0,,,,,,,,,,,,,,,,
+Procter & Gamble,"['Dow jones', 'Consumer goods']",USA,,,,$356.90 B,18.0,,,,,,,,,,,,,,,,
+Microsoft,"['Software', 'Tech', 'Dow jones', 'Video games']",USA,,,,$1.901 T,3.0,,,,,,,,,,,,,,,,
+Dior,"['Luxury goods', 'Clothing']",France,,,,$135.84 B,84.0,,,,,,,,,,,,,,,,
+At&t,['Telecommunication'],USA,,,,$135.55 B,85.0,,,,,,,,,,,,,,,,
+China Construction Bank,"['Banks', 'Financial services']",China,,,,$153.33 B,71.0,,,,,,,,,,,,,,,,
+Texas Instruments,"['Semiconductors', 'Tech', 'Tech Hardware']",USA,,,,$161.23 B,63.0,,,,,,,,,,,,,,,,
+General Dynamics,['Defense contractors'],USA,,,,$70.21 B,197.0,,,,,,,,,,,,,,,,
+Truist Financial,"['Banks', 'Financial services']",USA,,,,$59.78 B,248.0,,,,,,,,,,,,,,,,
+Safran,"['CAC 40', 'Aerospace', 'Defense contractors']",France,,,,$52.61 B,292.0,,,,,,,,,,,,,,,,
+Monster Beverage,['Beverages'],USA,,,,$54.28 B,283.0,,,,,,,,,,,,,,,,
+Kraft Heinz,['Food'],USA,,,,$48.78 B,331.0,,,,,,,,,,,,,,,,
+Nintendo,"['Video games', 'Electronics', 'Entertainment', 'Tech Hardware', 'Tech']",Japan,,,,$49.82 B,319.0,,,,,,,,,,,,,,,,
+Workday,"['Software', 'Tech']",USA,,,,$43.77 B,387.0,,,,,,,,,,,,,,,,
+Infineon,"['Semiconductors', 'Tech', 'DAX', 'Tech Hardware']",Germany,,,,$44.02 B,384.0,,,,,,,,,,,,,,,,
+Kinder Morgan,"['Oil&Gas', 'Transportation', 'Infrastructure', 'Energy']",USA,,,,$42.70 B,401.0,,,,,,,,,,,,,,,,
+Muyuan Foods,['Food'],China,,,,$37.07 B,463.0,,,,,,,,,,,,,,,,
+Japan Tobacco,['Tobacco'],Japan,,,,$36.71 B,468.0,,,,,,,,,,,,,,,,
+Xiaomi,"['Electronics', 'Tech', 'Tech Hardware']",China,,,,$34.36 B,506.0,,,,,,,,,,,,,,,,
+Warner Bros. Discovery,"['Entertainment', 'Media/Press']",USA,,,,$27.80 B,637.0,,,,,,,,,,,,,,,,
+Extra Space Storage,['Real estate'],USA,,,,$22.34 B,765.0,,,,,,,,,,,,,,,,
+Nu Holdings,"['Banks', 'Financial services']",Brazil,,,,$20.89 B,810.0,,,,,,,,,,,,,,,,
+First Solar,,USA,,,,$17.94 B,938.0,,,,,,,,,,,,,,,,
+Swiss Life,['Insurance'],Switzerland,,,,$17.52 B,967.0,,,,,,,,,,,,,,,,
+Amundi,"['Asset Management', 'Investment']",France,,,,$11.68 B,1293.0,,,,,,,,,,,,,,,,
+Hyundai Mobis,,South Korea,,,,$15.73 B,1067.0,,,,,,,,,,,,,,,,
+Ionis Pharmaceuticals,"['Pharmaceuticals', 'Biotech']",USA,,,,$5.78 B,2192.0,,,,,,,,,,,,,,,,
+Apartment Income Reit,"['REITs', 'Real estate', 'Investment']",USA,,,,$5.43 B,2287.0,,,,,,,,,,,,,,,,
+Option Care Health,,USA,,,,$5.09 B,2394.0,,,,,,,,,,,,,,,,
+Spectrum Brands,,USA,,,,$2.61 B,3397.0,,,,,,,,,,,,,,,,
+Kennedy Wilson,"['Real estate', 'Investment']",USA,,,,$2.29 B,3595.0,,,,,,,,,,,,,,,,
+Xpel,,USA,,,,$1.97 B,3785.0,,,,,,,,,,,,,,,,
+Wolverine World Wide,"['Footwear', 'Manufacturing']",USA,,,,$1.06 B,4600.0,,,,,,,,,,,,,,,,
+Mrc Global,['Industrial supplies'],USA,,,,$0.99 B,4686.0,,,,,,,,,,,,,,,,
+Creepy Jar,"['Video games', 'Entertainment']",Poland,,,,$0.12 B,6486.0,,,,,,,,,,,,,,,,
+Castellum,"['Tech', 'IT security', 'IT services', 'Software']",USA,,,,$47.77 M,6831.0,,,,,,,,,,,,,,,,
+Hexo,['Cannabis'],Canada,,,,$64.39 M,6747.0,,,,,,,,,,,,,,,,
+Schnitzer Steel,"['Steel producers', 'Steel industry', 'Waste & Recycling']",USA,,,,$0.93 B,4770.0,,,,,,,,,,,,,,,,
+Grendene,['Footwear'],Brazil,,,,$1.11 B,4547.0,,,,,,,,,,,,,,,,
+Everbridge,,USA,,,,$1.19 B,4474.0,,,,,,,,,,,,,,,,
+Kiocl,['Mining'],India,,,,$1.60 B,4069.0,,,,,,,,,,,,,,,,
+Dormakaba,['Security & Protection Services'],Switzerland,,,,$1.68 B,4005.0,,,,,,,,,,,,,,,,
+Ingles Markets,"['Supermarket Chains', 'Retail']",USA,,,,$1.81 B,3905.0,,,,,,,,,,,,,,,,
+Renasant Corp,"['Banks', 'Financial services']",USA,,,,$2.01 B,3766.0,,,,,,,,,,,,,,,,
+Landis+gyr,"['Manufacturing', 'Electronics']",Switzerland,,,,$2.23 B,3624.0,,,,,,,,,,,,,,,,
+Korea Gas,"['Oil&Gas', 'Energy']",South Korea,,,,$2.35 B,3556.0,,,,,,,,,,,,,,,,
+Corbion,,Netherlands,,,,$2.41 B,3516.0,,,,,,,,,,,,,,,,
+Acer,['Tech'],Taiwan,,,,$2.42 B,3509.0,,,,,,,,,,,,,,,,
+Lundin Gold,"['Mining', 'Gold mining']",Canada,,,,$2.64 B,3376.0,,,,,,,,,,,,,,,,
+Arch Resources,"['Mining', 'Coal Mining']",USA,,,,$2.70 B,3341.0,,,,,,,,,,,,,,,,
+Varonis,"['Software', 'Tech', 'IT security']",USA,,,,$2.83 B,3271.0,,,,,,,,,,,,,,,,
+Atlas Air Worldwide Holdings,"['Airlines', 'Travel', 'Transportation']",USA,,,,$2.89 B,3236.0,,,,,,,,,,,,,,,,
+China Construction Bank,,,,,,,,,,https://www.facebook.com/people/China-construction-bank/100070125410227/,https://twitter.com/efd_dff/status/1121698241098256385,https://www.instagram.com/explore/locations/1020937200/china-construction-bank/,https://www.pinterest.com/pin/14918242492574218/,,,,,,,,,,
+Microsoft,,,,,,,,,,https://it-it.facebook.com/Microsoft/,https://twitter.com/microsoft,https://www.instagram.com/microsoft/,https://forbes.it/2021/02/11/microsoft-provato-comprare-pinterest-operazione-51-miliardi/,,,,,,,,,,
+AT&T,,,,,,,,,,https://www.at-bus.it/it/,https://www.at-bus.it/it/,https://www.at-bus.it/it/,https://www.at-bus.it/it/,,,,,,,,,,
+Chevron,,,,,,,,,,https://www.facebook.com/Chevron/,https://twitter.com/chevron,https://www.instagram.com/chevron/,,,,,,,,,,,
+Procter & Gamble,,,,,,,,,,https://it.pg.com/,https://it.pg.com/,https://it.pg.com/,https://it.pg.com/,,,,,,,,,,
+PepsiCo,,,,,,,,,,https://www.facebook.com/PepsiCo/,https://twitter.com/pepsico,https://www.instagram.com/pepsico/,https://www.pinterest.com/pepsico/,,,,,,,,,,
+Walt Disney,,,,,,,,,,https://it-it.facebook.com/WaltDisneyStudiosIT/,https://twitter.com/waltdisneyco,https://www.instagram.com/disney/,,,,,,,,,,,
+IBM,,,,,,,,,,https://it-it.facebook.com/IBM/,https://twitter.com/ibm,https://www.instagram.com/ibm/,https://www.pinterest.com/thiagopribeir/ibm/,,,,,,,,,,
+Oracle,,,,,,,,,,https://it-it.facebook.com/oracle,https://twitter.com/oracle,https://www.instagram.com/oracle/,https://www.pinterest.com/oracle/,,,,,,,,,,
+Truist Financial,,,,,,,,,,https://it-it.facebook.com/truist/,https://twitter.com/truistnews,https://www.instagram.com/truist/?hl=it,https://www.pinterest.com/pin/truist-cares-about-your-financial-privacy-and-protection-which-is-shown-in-how-we-collect-use-and-secure-your-person-in-2021--656751558170776266/,,,,,,,,,,
+General Dynamics,,,,,,,,,,https://www.facebook.com/GDMissionSystems/,https://twitter.com/generaldynamics,https://www.instagram.com/generaldynamics/?hl=it,https://www.pinterest.it/pin/420664421424172348/,,,,,,,,,,
+HP,,,,,,,,,,https://it-it.facebook.com/HPItalia/,https://twitter.com/hp,https://www.instagram.com/hp/,https://www.pinterest.it/martatulli/hp/,,,,,,,,,,
+Xiaomi,,,,,,,,,,https://it-it.facebook.com/XiaomiItalia/,https://twitter.com/xiaomi,https://www.instagram.com/xiaomi.italia/?hl=it,https://www.pinterest.it/davidvd160771/xiaomi/,,,,,,,,,,
+Texas Instruments,,,,,,,,,,https://www.facebook.com/texasinstruments/,https://twitter.com/txinstruments,https://www.instagram.com/txinstruments/,https://www.pinterest.com/ticalculators/,,,,,,,,,,
+Kraft Heinz Company,,,,,,,,,,https://www.facebook.com/kraftheinzcompany/,https://twitter.com/kraftheinzco,https://www.instagram.com/kraftheinzus/,https://www.pinterest.com/kraftheinz/,,,,,,,,,,
+Japan Tobacco,,,,,,,,,,https://www.facebook.com/groups/58304207248/,https://twitter.com/jti_global,https://www.instagram.com/explore/locations/754135722/japan-tobacco-international/,https://www.pinterest.com/bpagano83/japan-tobacco/,,,,,,,,,,
+Swiss Life Holding,,,,,,,,,,https://it-it.facebook.com/SwissLifeSvizzeraItaliana/,https://twitter.com/swisslife_group,https://www.instagram.com/swisslife/,,,,,,,,,,,
+Philips,,,,,,,,,,https://it-it.facebook.com/PhilipsItalia/,https://twitter.com/philipsitalia,https://www.instagram.com/philipsitalia/,https://nl.pinterest.com/philipsglobal/,,,,,,,,,,
+Kinder Morgan,,,,,,,,,,https://www.facebook.com/KinderMorganInc/,https://twitter.com/kinder_morgan,https://www.instagram.com/kindermorganinc/?hl=it,https://www.pinterest.it/pin/473933560762406678/,,,,,,,,,,
+New China Life Insurance,,,,,,,,,,https://m.facebook.com/profile.php?id=109390315754034,https://twitter.com/chinalifebrk,https://www.instagram.com/chinalifesingapore/?hl=it,https://www.pinterest.it/pin/p21811--72550243987032103/,,,,,,,,,,
+Nintendo,,,,,,,,,,https://it-it.facebook.com/NintendoItalia/,,https://www.instagram.com/nintendoitalia/,https://www.pinterest.com/nintendo/,,,,,,,,,,
+Hana Financial Group,,,,,,,,,,https://www.facebook.com/hanafn/,https://twitter.com/hana_financial,https://www.instagram.com/hfgswo/,https://www.pinterest.it/pin/541839398892837416/,,,,,,,,,,
+Hyundai Mobis,,,,,,,,,,https://www.facebook.com/mobisglobal/,https://twitter.com/global_mobis,https://www.instagram.com/hyundaimobisin/?hl=it,https://in.pinterest.com/hyundaimobis/,,,,,,,,,,
+Muyuan Foodstuff,,,,,,,,,,https://www.facebook.com/Muyuanfoodscoltd/,https://twitter.com/comuyuan,https://www.instagram.com/p/B6H3KSKHPT6/?hl=it,,,,,,,,,,,
+Infineon Technologies,,,,,,,,,,https://www.facebook.com/Infineon/,https://twitter.com/infineon,https://www.instagram.com/infineoncareers/,https://www.pinterest.com/pin/semiconductor-system-solutions-infineon-technologies--713398397211833136/,,,,,,,,,,
+Warner Bros. Discovery,,,,,,,,,,https://it-it.facebook.com/WBD/,https://mobile.twitter.com/wbd,https://www.instagram.com/wbd/?hl=it,,,,,,,,,,,
+Safran,,,,,,,,,,https://www.facebook.com/GroupeSafran/,https://twitter.com/safran,https://www.instagram.com/safran_group/,https://www.pinterest.it/italiabio/safran/,,,,,,,,,,
+Saudi Arabian Mining,,,,,,,,,,https://it-it.facebook.com/maadenksa/,https://twitter.com/search?q=saudi%20arabia%20mining,https://www.instagram.com/maadenksa/,https://www.pinterest.com/pin/445715694368216607/,,,,,,,,,,
+MindMaze,Health,"Lausanne, Switzerland",,2012.0,,,,,,,,,,,,,,Hinduja Group,,,,,
+OVH,Other,"Roubaix, France",,1999.0,,,,,,,,,,,,,,"KKR, TowerBrook Capital Partners",,,,,
+Workday Careers,Computer Software,"Pleasanton, CA",,2005.0,,,,"10,000+ employees",www.workday.com,,,,,,,,,,,,,,
+OVH Groupe SAS,,"Roubaix, France",,,,Not found,,"2,435",https://disfold.com/company/ovh-groupe-sas/,,,,,,Mr. Michel  Paulin,,,,,,,,
+"Joincare Pharmaceutical Group Industry Co.,Ltd.",,"Shenzhen, China",,,,CN¥23.38 Billion,,"12,466",https://disfold.com/company/joincare-pharmaceutical-group-industry-coltd/,,,,,,Not found,,,,,,,,
+JL Mag Rare-Earth Co. Ltd,,"Ganzhou, China",,,,CN¥21.88 Billion,,"3,038",https://disfold.com/company/jl-mag-rare-earth-co-ltd/,,,,,,Not found,,,,,,,,
+Leyard Optoelectronic Co. Ltd,,"Beijing, China",,,,CN¥18.18 Billion,,"4,462",https://disfold.com/company/leyard-optoelectronic-co-ltd/,,,,,,Mr. Thorsten  Lipp,,,,,,,,
+Wonders Information Co. Ltd,,"Shanghai, China",,,,CN¥12.68 Billion,,"6,615",https://disfold.com/company/wonders-information-co-ltd/,,,,,,Not found,,,,,,,,
+Haohua Chemical Science & Technology Corp Ltd,,"Chengdu, China",,,,CN¥33.51 Billion,,"6,878",https://disfold.com/company/haohua-chemical-science-technology-corp-ltd/,,,,,,Not found,,,,,,,,
+China Eastern Airlines Corporation Limited,,"Shanghai, China",,,,CN¥64.80 Billion,,"81,157",https://disfold.com/company/china-eastern-airlines-corporation-limited/,,,,,,Not found,,,,,,,,
+Landis+Gyr Group AG,,"Cham, Switzerland",,,,CHF1.72 Billion,,"5,000",https://disfold.com/company/landis-gyr-group-ag/,,,,,,Not found,,,,,,,,
+dormakaba Holding AG,,"Rumlang, Switzerland",,,,CHF1.98 Billion,,"15,304",https://disfold.com/company/dormakaba-holding-ag/,,,,,,Not found,,,,,,,,
+Mekonomen AB,,"Stockholm, Sweden",,,,kr6.21 Billion,,"5,118",https://disfold.com/company/mekonomen-ab/,,,,,,Mr. Pehr  Oscarson,,,,,,,,
+Nayax Ltd,,"Herzliya, Israel",,,,₪36.1 Million,,550,https://disfold.com/company/nayax-ltd/,,,,,,Yair  Nechmad,,,,,,,,
+Creepy Jar SA,,"Warsaw, Poland",,,,€100.3 Million,,30,https://disfold.com/company/creepy-jar-sa/,,,,,,Mr. Krzysztof Maciej Kwiatek,,,,,,,,
+Lundin Gold Inc.,,"Vancouver, BC, Canada",,,,C$2.45 Billion,,Not found,https://disfold.com/company/lundin-gold-inc/,,,,,,"Mr. Ronald F. Hochstein B.Sc., MBA, P.Eng.",,,,,,,,
+Aurora Cannabis Inc.,,"Edmonton, AB, Canada",,,,C$945.2 Million,,"1,761",https://disfold.com/company/aurora-cannabis-inc/,,,,,,Mr. Miguel  Martin,,,,,,,,
+HEXO Corp.,,"Kanata, ON, Canada",,,,C$112.1 Million,,Not found,https://disfold.com/company/hexo-corp/,,,,,,Mr. Scott  Cooper,,,,,,,,
+Grendene SA,,"Sobral, CE, Brazil",,,,R$9.42 Billion,,"17,000",https://disfold.com/company/grendene-sa/,,,,,,Mr. Rudimar  Dall'Onder,,,,,,,,
+"Acer, Inc.",,"New Taipei City, Taiwan",,,,TW$95.80 Billion,,Not found,https://disfold.com/company/acer-inc/,,,,,,Mr. Chun Shen  Chen,,,,,,,,
+Hennes & Mauritz AB,,"Stockholm, Sweden",,,,kr209.28 Billion,,"155,000",https://disfold.com/company/hennes-mauritz-ab/,,,,,,Not found,,,,,,,,
+Nintendo Co Ltd,,"Kyoto, Japan",,,,¥7.621 Trillion,,"6,574",https://disfold.com/company/nintendo-co-ltd/,,,,,,Not found,,,,,,,,
+Japan Airlines Co. Ltd,,"Tokyo, Japan",,,,¥1.054 Trillion,,"36,060",https://disfold.com/company/japan-airlines-co-ltd/,,,,,,Not found,,,,,,,,
+Kajima Corp,,"Tokyo, Japan",,,,¥776.23 Billion,,"18,905",https://disfold.com/company/kajima-corp/,,,,,,Not found,,,,,,,,
+Taiheiyo Cement Corp,,"Tokyo, Japan",,,,¥239.18 Billion,,"12,586",https://disfold.com/company/taiheiyo-cement-corp/,,,,,,Not found,,,,,,,,
+"Nippon Electric Glass Co., Ltd.",,"Otsu, Japan",,,,¥247.00 Billion,,"6,157",https://disfold.com/company/nippon-electric-glass-co-ltd/,,,,,,Not found,,,,,,,,
+Kokuyo Co. Ltd,,"Osaka, Japan",,,,¥194.56 Billion,,"6,882",https://disfold.com/company/kokuyo-co-ltd/,,,,,,Not found,,,,,,,,
+"Shikoku Electric Power Company, Inc.",,"Takamatsu, Japan",,,,¥165.11 Billion,,"8,150",https://disfold.com/company/shikoku-electric-power-company-inc/,,,,,,Not found,,,,,,,,
+"United Super Markets Holdings, Inc.",,"Tokyo, Japan",,,,¥137.41 Billion,,"7,313",https://disfold.com/company/united-super-markets-holdings-inc/,,,,,,Not found,,,,,,,,
+NEC Networks & System Integration Corp,,"Tokyo, Japan",,,,¥270.30 Billion,,"7,537",https://disfold.com/company/nec-networks-system-integration-corp/,,,,,,Not found,,,,,,,,
+Corbion N.V.,,"Amsterdam, Netherlands",,,,€1.82 Billion,,"2,362",https://disfold.com/company/corbion-nv/,,,,,,Mr. Olivier  Rigaud,,,,,,,,
+Jubilee Industries Holdings Ltd,,"Singapore, Singapore",,,,S$13.7 Million,,"1,858",https://disfold.com/company/jubilee-industries-holdings-ltd/,,,,,,Mr. Yeok Kian  Tea,,,,,,,,
+Nanofilm Technologies International Ltd,,"Singapore, Singapore",,,,S$1.83 Billion,,Not found,https://disfold.com/company/nanofilm-technologies-international-ltd/,,,,,,Mr. Hock Yong  Ho,,,,,,,,
+Hanjaya Mandala Sampoerna Tbk PT,,"Surabaya, Indonesia",,,,€4.70 Billion,,"20,909",https://disfold.com/company/hanjaya-mandala-sampoerna-tbk-pt/,,,,,,Not found,,,,,,,,
+Deutsche Bank AG,,"Frankfurt am Main, Germany",,,,€23.88 Billion,,"82,969",https://disfold.com/company/deutsche-bank-ag/,,,,,,Mr. Christian  Sewing,,,,,,,,
+Bayerische Motoren Werke AG,,"Munich, Germany",,,,€50.83 Billion,,"118,909",https://disfold.com/company/bayerische-motoren-werke-ag/,,,,,,Mr. Oliver  Zipse,,,,,,,,
+Prada S.p.A.,,"Milan, MI, Italy",,,,Not found,,"13,140",https://disfold.com/company/prada-spa/,,,,,,Mr. Patrizio  Bertelli,,,,,,,,
+Applegreen plc,,"Dublin, Ireland",,,,€596.9 Million,,"11,145",https://disfold.com/company/applegreen-plc/,,,,,,Not found,,,,,,,,
+C&C Group plc,,"Dublin, Ireland",,,,£762.8 Million,,"2,653",https://disfold.com/company/cc-group-plc/,,,,,,Mr. David  Forde,,,,,,,,
+Amundi SA,,"Paris, France",,,,€12.59 Billion,,"5,300",https://disfold.com/company/amundi-sa/,,,,,,Not found,,,,,,,,
+Safran SA,,"Paris, France",,,,€45.27 Billion,,"77,008",https://disfold.com/company/safran-sa/,,,,,,Mr. Olivier  Andries,,,,,,,,
+Dior,,"Paris, France",,,,€110.51 Billion,,"119,243",https://disfold.com/company/christian-dior-se/,,,,,,Mr. Sidney  Toledano,,,,,,,,
+LVMH,,"Paris, France",,,,€325.15 Billion,,"148,343",https://disfold.com/company/lvmh-moet-hennessy-louis-vuitton-se/,,,,,,Mr. Bernard  Arnault,,,,,,,,
+Service Stream Limited,,"Melbourne, VIC, Australia",,,,A$424.2 Million,,Not found,https://disfold.com/company/service-stream-limited/,,,,,,Not found,,,,,,,,
+China Construction Bank,,"Beijing, China",,,,CN¥1.205 Trillion,,"373,814",https://disfold.com/company/china-construction-bank-corp/,,,,,,Not found,,,,,,,,
+Ternium Argentina SA,,"Buenos Aires, Argentina",,,,AR$62.56 Billion,,Not found,https://disfold.com/company/ternium-argentina-sa/,,,,,,Not found,,,,,,,,
+Microsoft,,"Redmond, WA, United States",,,,$2.328 Trillion,,"181,000",https://disfold.com/company/microsoft-corporation/,,,,,,Mr. Satya  Nadella,,,,,,,,
+Chevron,,"San Ramon, CA, United States",,,,$315.13 Billion,,"42,595",https://disfold.com/company/chevron-corporation/,,,,,,Mr. Michael K. Wirth,,,,,,,,
+Procter & Gamble,,"Cincinnati, OH, United States",,,,$384.60 Billion,,"101,000",https://disfold.com/company/procter-gamble-company/,,,,,,Mr. Jon R. Moeller,,,,,,,,
+Texas Instruments,,"Dallas, TX, United States",,,,$171.28 Billion,,"31,000",https://disfold.com/company/texas-instruments-incorporated/,,,,,,Mr. Richard K. Templeton,,,,,,,,
+AT&T,,"Dallas, TX, United States",,,,$175.88 Billion,,"203,000",https://disfold.com/company/at-t-inc/,,,,,,Mr. John T. Stankey,,,,,,,,
+Essentra plc,,"Milton Keynes, United Kingdom",,,,£960.9 Million,,"8,327",https://disfold.com/company/essentra-plc/,,,,,,Not found,,,,,,,,
+JPMorgan Global Growth & Income plc,,Not found,,,,£710.4 Million,,Not found,https://disfold.com/company/jpmorgan-global-growth-income-plc/,,,,,,Not found,,,,,,,,
+BlackRock Throgmorton Trust plc,,Not found,,,,£689.4 Million,,Not found,https://disfold.com/company/blackrock-throgmorton-trust-plc/,,,,,,Not found,,,,,,,,
+Centamin plc,,"Saint Helier, Jersey",,,,C$1.70 Billion,,"2,556",https://disfold.com/company/centamin-plc/,,,,,,Mr. Martin  Horgan,,,,,,,,
+Jubilee Enterprise Public Company Ltd,,"Bangkok, Thailand",,,,฿4.03 Billion,,Not found,https://disfold.com/company/jubilee-enterprise-public-company-ltd/,,,,,,Ms. Unyarat  Pornprakit,,,,,,,,
+"Cheniere Energy, Inc.",,"Houston, TX, United States",,,,$34.92 Billion,,"1,550",https://disfold.com/company/cheniere-energy-inc/,,,,,,Mr. Jack A. Fusco,,,,,,,,
+Hewlett Packard Enterprise Company,,"Houston, TX, United States",,,,$22.65 Billion,,"60,400",https://disfold.com/company/hewlett-packard-enterprise-company/,,,,,,Mr. Antonio Fabio Neri,,,,,,,,
+Booz Allen Hamilton Holding Corporation,,"McLean, VA, United States",,,,$11.90 Billion,,"29,500",https://disfold.com/company/booz-allen-hamilton-holding-corporation/,,,,,,Mr. Horacio D. Rozanski,,,,,,,,
+Zynga Inc.,,"San Francisco, CA, United States",,,,$10.63 Billion,,"2,952",https://disfold.com/company/zynga-inc/,,,,,,Mr. Frank D. Gibeau,,,,,,,,
+Apartment Income REIT Corp.,,"Denver, CO, United States",,,,$8.56 Billion,,800,https://disfold.com/company/apartment-income-reit-corp/,,,,,,Mr. Terry  Considine J.D.,,,,,,,,
+"Royal Gold, Inc.",,"Denver, CO, United States",,,,$9.23 Billion,,29,https://disfold.com/company/royal-gold-inc/,,,,,,Mr. William H. Heissenbuttel,,,,,,,,
+"Under Armour, Inc.",,"Baltimore, MD, United States",,,,$7.29 Billion,,"7,100",https://disfold.com/company/under-armour-inc/,,,,,,Mr. Patrik  Frisk,,,,,,,,
+"Reinsurance Group of America, Incorporated",,"Chesterfield, MO, United States",,,,$7.50 Billion,,"3,500",https://disfold.com/company/reinsurance-group-of-america-incorporated/,,,,,,"Ms. Anna  Manning FSA, FCIA",,,,,,,,
+"Option Care Health, Inc.",,"Bannockburn, IL, United States",,,,$4.98 Billion,,"5,430",https://disfold.com/company/option-care-health-inc/,,,,,,Mr. John C. Rademacher,,,,,,,,
+"Ionis Pharmaceuticals, Inc.",,"Carlsbad, CA, United States",,,,$5.24 Billion,,660,https://disfold.com/company/ionis-pharmaceuticals-inc/,,,,,,Dr. Brett P. Monia Ph.D.,,,,,,,,
+Monster Beverage Corporation,,"Corona, CA, United States",,,,$42.81 Billion,,"3,458",https://disfold.com/company/monster-beverage-corporation/,,,,,,Mr. Rodney Cyril Sacks,,,,,,,,
+HP Inc.,,"Palo Alto, CA, United States",,,,$43.90 Billion,,"51,000",https://disfold.com/company/hp-inc/,,,,,,Mr. Enrique J. Lores,,,,,,,,
+General Dynamics Corporation,,Not found,,,,$70.55 Billion,,"103,100",https://disfold.com/company/general-dynamics-corporation/,,,,,,Ms. Phebe N. Novakovic,,,,,,,,
+Truist Financial Corporation,,"Charlotte, NC, United States",,,,$74.79 Billion,,"50,283",https://disfold.com/company/truist-financial-corporation/,,,,,,Mr. William Henry Rogers Jr.,,,,,,,,
+Oracle,,"Redwood City, CA, United States",,,,$228.18 Billion,,"132,000",https://disfold.com/company/oracle-corporation/,,,,,,Ms. Safra Ada Catz,,,,,,,,
+PepsiCo,,"Purchase, NY, United States",,,,$241.05 Billion,,"309,000",https://disfold.com/company/pepsico-inc/,,,,,,Mr. Ramon Luis Laguarta,,,,,,,,
+Divido Financial Services,Fintech,UK,,2015,,,,62,https://www.divido.com,,,,,,,,"2,925,893",,,,,,
+Nanofilm Technologies International,Technology,Singapore,,1999,,,,"3,188",https://www.nti-nanofilm.com/,,,,,,,,158.25,,,,,,
+BITTNET,Management Consulting,Romania,,2007,,,,120,https://www.bittnet.ro/,,,,,,,,"22,436,395",,,,,,
+Bittnet Systems,Technology,Romania,,2007,,,,60,https://www.bittnet.ro/,,,,,,,,10.99,,,,,,
+Divido,Fintech,UK,,2014,,,,46,https://www.divido.com/,,,,,,,,"3,786,036",,,,,,
+Deutsche Bank Spa,"Finance, Insurance, and Real Estate, National commercial bank (6021)","PIAZZA DEL CALENDARIO 3, MILANO, 20126, MILANO, ITALY",Corporation,1917,,,,,,,,,,,,,,,,,,,
+China Construction Bank,,China,,,,$181.32 B,,,,,,,,,,,$202.07 B,,"$4,746.95 B",,,,
+Microsoft,,United States,,,,"$2,054.37 B",,,,,,,,,,,$184.9 B,,$340.39 B,,,,
+AT&T,,United States,,,,$141.79 B,,,,,,,,,,,$163.03 B,,$551.62 B,,,,
+Chevron,,United States,,,,$316.23 B,,,,,,,,,,,$156.29 B,,$239.53 B,,,,
+Procter & Gamble,,United States,,,,$386.53 B,,,,,,,,,,,$79.62 B,,$120.22 B,,,,
+PepsiCo,,United States,,,,$238.13 B,,,,,,,,,,,$79.47 B,,$92.38 B,,,,
+Walt Disney,,United States,,,,$215.33 B,,,,,,,,,,,$72.98 B,,$203.31 B,,,,
+IBM,,United States,,,,$124.33 B,,,,,,,,,,,$67.25 B,,$133.28 B,,,,
+Oracle,,United States,,,,$203.34 B,,,,,,,,,,,$41.83 B,,$108.64 B,,,,
+Truist Financial,,United States,,,,$67.64 B,,,,,,,,,,,$23.19 B,,$544.34 B,,,,
+General Dynamics,,United States,,,,$66.42 B,,,,,,,,,,,$38.47 B,,$50.07 B,,,,
+HP,,United States,,,,$38.75 B,,,,,,,,,,,$64.98 B,,$38.91 B,,,,
+Xiaomi,,China,,,,$37.03 B,,,,,,,,,,,$50.91 B,,$45.96 B,,,,
+Texas Instruments,,United States,,,,$159.94 B,,,,,,,,,,,$18.34 B,,$24.68 B,,,,
+Kraft Heinz Company,,United States,,,,$52.89 B,,,,,,,,,,,$26.04 B,,$93.39 B,,,,
+Japan Tobacco,,Japan,,,,$30.53 B,,,,,,,,,,,$21.16 B,,$50.14 B,,,,
+Swiss Life Holding,,Switzerland,,,,$19.73 B,,,,,,,,,,,$23.54 B,,$264.11 B,,,,
+Philips,,Netherlands,,,,$26.39 B,,,,,,,,,,,$20.28 B,,$35.45 B,,,,
+Kinder Morgan,,United States,,,,$43.42 B,,,,,,,,,,,$16.61 B,,$69.14 B,,,,
+New China Life Insurance,,China,,,,$8.91 B,,,,,,,,,,,$34.44 B,,$176.36 B,,,,
+Nintendo,,Japan,,,,$58.01 B,,,,,,,,,,,$15.24 B,,$21.77 B,,,,
+Hana Financial Group,,South Korea,,,,$11.47 B,,,,,,,,,,,$13.75 B,,$422.67 B,,,,
+Hyundai Mobis,,South Korea,,,,$15.65 B,,,,,,,,,,,$36.42 B,,$43.31 B,,,,
+Muyuan Foodstuff,,China,,,,$44.12 B,,,,,,,,,,,$11.27 B,,$26.18 B,,,,
+Infineon Technologies,,Germany,,,,$39.15 B,,,,,,,,,,,$13.7 B,,$27.29 B,,,,
+Warner Bros. Discovery,,United States,,,,$49.91 B,,,,,,,,,,,$12.18 B,,$34.43 B,,,,
+Safran,,France,,,,$52.26 B,,,,,,,,,,,$17.89 B,,$47.44 B,,,,
+Saudi Arabian Mining,,Saudi Arabia,,,,$44.95 B,,,,,,,,,,,$7.14 B,,$27.52 B,,,,
+Korea Gas,,South Korea,,,,$2.81 B,,,,,,,,,,,$24.03 B,,$36.74 B,,,,
+Reinsurance Group of America,,United States,,,,$7.59 B,,,,,,,,,,,$16.65 B,,$89.59 B,,,,
+Union Bank of India,,India,,,,$3.62 B,,,,,,,,,,,$11.28 B,,$148.94 B,,,,
+Ashtead Group,,United Kingdom,,,,$26.45 B,,,,,,,,,,,$7.65 B,,$14.78 B,,,,
+Monster Beverage,,United States,,,,$45.34 B,,,,,,,,,,,$5.54 B,,$7.86 B,,,,
+Extra Space Storage,,United States,,,,$28.54 B,,,,,,,,,,,$1.61 B,,$10.47 B,,,,
+Spotify Technology,,Luxembourg,,,,$20.85 B,,,,,,,,,,,$11.42 B,,$8.15 B,,,,
+China Eastern Airlines,,China,,,,$6.3 B,,,,,,,,,,,$10.41 B,,$45.31 B,,,,
+Nu Holdings,,Cayman Islands,,,,$30.79 B,,,,,,,,,,,$1.4 B,,$19.86 B,,,,
+Workday,,United States,,,,$51.74 B,,,,,,,,,,,$5.15 B,,$10.5 B,,,,
+Castellum,,Sweden,,,,$6.95 B,,,,,,,,,,,$738 M,,$19.62 B,,,,
+Twitter,,United States,,,,$39.17 B,,,,,,,,,,,$5.08 B,,$14.06 B,,,,
+Booz Allen Hamilton Holding,,United States,,,,$11.73 B,,,,,,,,,,,$8.11 B,,$5.94 B,,,,
+Christian Dior SE,"Consumer goods, Clothing & accessories",Paris,,1946,,,,,,,,,,,,,,,,,,,
+LVMH,"Consumer goods, Clothing & accessories",Paris,,1987,,,,,,,,,,,,,,,,,,,
+Safran,"Industrials, Aerospace",Paris,,2005,,,,,,,,,,,,,,,,,,,
+BMW,"Consumer goods, Automobiles",Munich,,1916,,,,,,,,,,,,,,,,,,,
+Infineon Technologies,"Technology, Semiconductors",Neubiberg,,1999,,,,,,,,,,,,,,,,,,,
+Jil Sander,"Consumer goods, Clothing & accessories",Hamburg,,1968,,,,,,,,,,,,,,,,,,,
+C&C Group,"Consumer goods, Brewers",Dublin,,1852,,,,,,,,,,,,,,,,,,,
+Edison,"Utilities, Multiutilities",Milan,,1884,,,,,,,,,,,,,,,,,,,
+Prada,"Consumer goods, Clothing & accessories",Milan,,1913,,,,,,,,,,,,,,,,,,,
+Philips,"Consumer goods, Consumer electronics",Eindhoven,,1891,,,,,,,,,,,,,,,,,,,
+H&M,"Consumer services, Apparel retailers",Stockholm,,1947,,,,,,,,,,,,,,,,,,,
+Getac Holdings Corp,Technology and Communications,"Taiwan, 4th Floor, No. 1, R&D 2nd Road, Science Based Industrial Park, Baoshan, 300",,,,$897.7M,,"11,500",www.getac.com.tw,,,,,886 2 27857888,,,$1.1B,,,,,,
+Service Stream Ltd,Technology and Communications,"Australia, L 4 357 Collins St, Melbourne, Victoria, 3000",,,,$281.9M,,"4,500",www.servicestream.com.au,,,,,61 3 96778888,,,$1.1B,,,,,,
+Alkermes Plc,Pharmaceuticals and Healthcare,"Ireland, Connaught Hse, 1 Burlington Road, Dublin, 00000",,,,$4.5B,,"2,211",www.alkermes.com,,,,,353 1 7728000,,,$1.2B,,,,,,
+Fox Factory Holding Corp,Automotive,"United States of America, 2055 Sugarloaf Circle, Suite 300, Duluth, Georgia, 30097",,,,$4.5B,,"4,200",investor.ridefox.com,,,,,1 831 2746500,,,$1.3B,,,,,,
+Elite Material Co Ltd,Technology and Communications,"Taiwan, No. 18, Ta-Tung First Road, Kuan-Yin Industrial District, Taoyuan, 328",,,,$2.0B,,"2,098",www.emctw.com,,,,,886 3 4837937,,,$1.4B,,,,,,
+Landis+Gyr Group AG,Power,"Switzerland, Alte Steinhauserstrasse 18, Cham, 6330",,,,$2.3B,,"6,445",www.landisgyr.de,,,,,41 41 9356000,,,$1.5B,,,,,,
+Extra Space Storage Inc,Construction,"United States of America, 2795 Cottonwood Parkway, Suite 400, Salt Lake City, Utah, 84121",,,,$20.2B,,"4,309",www.extraspace.com,,,,,1 801 5625556,,,$1.6B,,,,,,
+GC Corp,Pharmaceuticals and Healthcare,"South Korea, 107, Ihyeon-Ro 30beon-Gil, Giheung-Gu, Yongin, 16924",,,,$654.1M,,170,www.greencross.com,,,,,82 31 2609300,,,$1.6B,,,,,,
+North China Pharmaceutical Co Ltd,Pharmaceuticals and Healthcare,"China, No. 388, Heping East Road, Shijiazhuang, Hebei, 050015",,,,$1.6B,,"11,501",www.ncpc.com,,,,,86 311 85992839,,,$1.6B,,,,,,
+C&C Group plc,Consumer Packaged Goods,"Ireland, Bulmers House, Keeper Road, Dublin, D12K702",,,,$800.1M,,"2,822",candcgroupplc.com,,,,,353 1 5063900,,,$1.7B,,,,,,
+Molnlycke Health Care AB,Medical Equipment,"Sweden, Gamlestadsvaegen 3C, Gothenburg, Vastra Gotaland, 41502",,,,,,"8,000",www.molnlycke.com,,,,,46 31 7223000,,,$2.0B,,,,,,
+Arch Resources Inc,Metals and Mining,"United States of America, 1 Cityplace Drive, Suite 300, St. Louis, Missouri, 63141",,,,$2.5B,,"3,303",www.archrsc.com,,,,,1 314 9942897,,,$2.2B,,,,,,
+Wolverine World Wide Inc,Consumer Packaged Goods,"United States of America, 9341 Courtland Dr, Rockford, Michigan, 49351",,,,$1.1B,,"4,400",www.wolverineworldwide.com,,,,,1 616 8665500,,,$2.4B,,,,,,
+Semapa Sociedade de Investimento e Gestao SGPS SA,Paper and Packaging,"Portugal, Av. Fontes Pereira De Melo, 14-10, Lisboa, 1050-121",,,,$1.1B,,"5,921",www.semapa.pt,,,,,351 21 3184700,,,$2.5B,,,,,,
+MRC Global Inc,Industrial Goods and Machinery,"United States of America, 909 Fannin, Suite 3100, 2 Houston Center, Texas, 77010",,,,$980.7M,,"2,600",www.mrcglobal.com,,,,,1 877 2947574,,,$2.7B,,,,,,
+NEC Networks & System Integration Corp,Technology and Communications,"Japan, Iidabashi First Tower, 2-6-1, Koraku, Bunkyo-Ku, Tokyo, 112-8560",,,,$2.0B,,"7,675",www.nesic.co.jp,,,,,81 3 66997000,,,$2.8B,,,,,,
+Itau Corpbanca,Financial Services,"Chile, 5537 Ave. Presidente Riesco, Las Condes",,,,$2.1B,,"3,811",ir.itau.cl,,,,,56 2 26878000,,,$2.8B,,,,,,
+Sociedad Quimica y Minera de Chile SA,Metals and Mining,"Chile, El Trovador 4285, Santiago",,,,$23.4B,,"6,776",www.sqm.com,,,,,56 2 24252000,,,$2.9B,,,,,,
+First Solar Inc,Alternative Energy,"United States of America, Suite 600, 350 West Washington Street, Tempe, Arizona, 85281",,,,$18.9B,,"4,800",www.firstsolar.com/en-Emea,,,,,1 602 4149300,,,$2.9B,,,,,,
+Spectrum Brands Holdings Inc,Consumer Packaged Goods,"United States of America, 3001 Deming Way, Middleton, Wisconsin, 53562",,,,$2.5B,,"11,000",www.spectrumbrands.com,,,,,1 608 2753340,,,$3.1B,,,,,,
+Xilinx Inc,Technology and Communications,"United States of America, 2100 Logic Drive, San Jose, California, 95124",,,,,,"4,890",www.xilinx.com,,,,,1 408 5597778,,,$3.1B,,,,,,
+Ternium Argentina SA,Metals and Mining,"Argentina, Av. Savio S/N, San Nicolas, Buenos Aires, 2900",,,,$6.6B,,"5,400",ar.ternium.com,,,,,54 11 43182881,,,$3.4B,,,,,,
+"Schnitzer Steel Industries, Inc.",Metals and Mining,"United States of America, Suite 350, 299 SW Clay Street, Portland, Oregon, 97201",,,,$926.0M,,"3,471",www.schnitzersteel.com,,,,,1 503 2249900,,,$3.5B,,,,,,
+Shanghai Maling Aquarius Co Ltd,Consumer Packaged Goods,"China, No. 18, Jining Road, Shanghai, 200082",,,,$1.1B,,"13,704",www.shanghaimaling.com,,,,,86 21 22866016,,,$3.7B,,,,,,
+Atlas Air Worldwide Holdings Inc,Transport and Logistics,"United States of America, 2000 Westchester Ave, Purchase, New York, 10577-2543",,,,$2.9B,,"4,056",www.atlasairworldwide.com,,,,,1 914 7018000,,,$4.0B,,,,,,
+Jizhong Energy Resources Co Ltd,Metals and Mining,"China, No.191 Zhongxing West Avenue, Xingtai, Hebei, 054000",,,,$3.4B,,"40,383",www.jznygf.com,,,,,86 319 2098828,,,$4.9B,,,,,,
+Twitter Inc,Media,"United States of America, Suite 900, 1355 Market Street, San Francisco, California, 94103",,,,,,"7,500",www.twitter.com,,,,,1 415 2229670,,,$5.1B,,,,,,
+Taiwan Mobile Co Ltd,Technology and Communications,"Taiwan, 12f, No.88, Yanchang Road, Xinyi District, Taipei, 110",,,,$11.1B,,"6,529",www.taiwanmobile.com,,,,,886 2 66386888,,,$5.6B,,,,,,
+Ingles Markets Inc,Retailing,"United States of America, Po Box 6676, Asheville, North Carolina, 28816",,,,$1.8B,,"26,000",www.ingles-markets.com,,,,,1 828 6692941,,,$5.7B,,,,,,
+Shikoku Electric Power Co Inc,Power,"Japan, 2-5, Marunouchi, Takamatsu-Shi, Kagawa, 760-8573",,,,$1.2B,,"8,074",www.yonden.co.jp,,,,,81 87 8215061,,,$5.7B,,,,,,
+Taiheiyo Cement Corp,Construction,"Japan, Bunkyo Garden Gate Tower, 1-1-1, Koishikawa, Bunkyo-Ku, Tokyo, 112-8503",,,,$2.0B,,"12,542",www.taiheiyo-cement.co.jp,,,,,81 3 58010333,,,$6.3B,,,,,,
+Amundi SA,Financial Services,"France, 91-93 Boulevard Pasteur, Paris, 75015",,,,$13.5B,,"4,885",legroupe.amundi.com,,,,,33 1 43233030,,,$6.8B,,,,,,
+PT Hanjaya Mandala Sampoerna Tbk,Consumer Packaged Goods,"Indonesia, Jl. Rungkut Industri Raya No. 18, Jakarta, 12190",,,,$6.3B,,"20,785",www.sampoerna.com,,,,,62 21 5151234,,,$6.9B,,,,,,
+Wustenrot & Wurttembergische AG,Financial Services,"Germany, Gutenbergstrasse 30, Stuttgart, 70176",,,,$1.7B,,"6,259",www.ww-ag.com,,,,,49 711 6620,,,$8.4B,,,,,,
+Cheniere Energy Partners LP,Energy and Utilities,"United States of America, Suite 800, 700 Milam St., Houston, Texas, 77002",,,,$26.4B,,"1,550",cqpir.cheniere.com,,,,,1 713 3755000,,,$9.4B,,,,,,
+Union Bank of India,Financial Services,"India, Union Bank Bhavan, 239, Vidhan Bhavan Marg, Nariman Point, Mumbai, 400021",,,,$6.8B,,"75,201",www.unionbankofindia.co.in,,,,,91 22 22892000,,,$11.1B,,,,,,
+Spotify Technology SA,Media,"Luxembourg, 42-44 Avenue De La Gare, Luxembourg, 1610",,,,$17.9B,,"6,617",www.spotify.com,,,,,46 70 2204607,,,$11.4B,,,,,,
+Warner Bros. Discovery Inc,Media,"United States of America, 230 Park Avenue South, New York, 10003",,,,$30.6B,,"11,000",corporate.discovery.com,,,,,1 212 5485555,,,$12.2B,,,,,,
+Nintendo Co Ltd,Technology and Communications,"Japan, 11-1, Kamitoba, Hokotate-Cho, Minami-Ku, Kyoto-Shi, 601-8501",,,,$56.8B,,"6,717",www.nintendo.co.jp,,,,,81 75 6629600,,,$15.1B,,,,,,
+Kinder Morgan Inc,Energy and Utilities,"United States of America, Suite 1000, 1001 Louisiana Street, Houston, Texas, 77002",,,,$41.3B,,"10,529",www.kindermorgan.com,,,,,1 713 3699457,,,$16.6B,,,,,,
+Safran SA,Aerospace and Defense,"France, 2 Boulevard Du General Martial Valin, Paris Cedex 15, 75724",,,,$59.6B,,"76,765",www.safran-group.com,,,,,33 1 40608080,,,$17.9B,,,,,,
+Texas Instruments Inc,Technology and Communications,"United States of America, 12500 T I Blvd, Dallas, Texas, 75243-0592",,,,$157.7B,,"31,000",www.ti.com,,,,,1 972 9953773,,,$18.3B,,,,,,
+Kajima Corp,Construction,"Japan, 1-3-1, Motoakasaka, Minato-Ku, Tokyo, 107-8388",,,,$6.1B,,"19,295",www.kajima.co.jp,,,,,81 3 55441111,,,$18.5B,,,,,,
+Koninklijke Philips NV,Medical Equipment,"Netherlands, High Tech Campus 52, Eindhoven, 5656AG",,,,$14.6B,,"79,097",www.philips.com,,,,,31 20 5977777,,,$20.3B,,,,,,
+Japan Tobacco Inc,Consumer Packaged Goods,"Japan, 4-1-1, Toranomon, Minato-Ku, Tokyo, 105-6927",,,,$40.5B,,"55,381",www.jti.co.jp,,,,,81 3 66362914,,,$20.7B,,,,,,
+Hyundai Mobis Co Ltd,Automotive,"South Korea, 203, Teheran-Ro, Gangnam-Gu, Seoul, 06141",,,,$15.9B,,"8,569",www.mobis.co.kr,,,,,82 2 20185114,,,$36.4B,,,,,,
+Deutsche Bank AG,Financial Services,"Germany, Taunusanlage 12, Frankfurt Am Main, 60325",,,,$26.8B,,"84,556",www.db.com,,,,,49 69 91000,,,$39.8B,,,,,,
+International Business Machines Corp,Technology and Communications,"United States of America, 1 New Orchard Road, Armonk, New York, 10504",,,,$126.9B,,"307,600",www.ibm.com,,,,,1 914 4991900,,,$57.4B,,,,,,
+Societe Generale SA,Financial Services,"France, 29 Boulevard Haussmann, Paris, 75009",,,,$22.7B,,"131,293",www.societegenerale.com,,,,,33 1 42142000,,,$59.9B,,,,,,
+Accenture Plc,Technology and Communications,"Ireland, 1 Grand Canal Square, Grand Canal Harbour, Dublin, 2",,,,$183.0B,,"721,000",www.accenture.com,,,,,353 1 6462000,,,$61.6B,,,,,,
+Christian Dior SE,Consumer Packaged Goods,"France, 30 Avenue Montaigne, Paris, 75008",,,,$153.0B,,"148,861",www.dior-finance.com,,,,,33 1 44132222,,,$75.9B,,,,,,
+The Procter & Gamble Co,Consumer Packaged Goods,"United States of America, 1 Procter and Gamble Plaza, Cincinnati, Ohio, 45202",,,,$346.9B,,"106,000",pg.com,,,,,1 513 9831100,,,$80.2B,,,,,,
+Postal Savings Bank of China Co Ltd,Financial Services,"China, No.3 Financial Avenue, Xicheng District, Beijing, 100808",,,,$65.7B,,"190,222",www.psbc.com,,,,,86 10 68858158,,,$81.0B,,,,,,
+Bayerische Motoren Werke AG,Automotive,"Germany, Petuelring 130, Muenchen, 80788",,,,$64.9B,,"118,909",www.bmwgroup.com,,,,,49 89 3820,,,$131.5B,,,,,,
+Microsoft Corp,Technology and Communications,"United States of America, 1 Microsoft Way, Redmond, Washington, 98052-6399",,,,"$1,757.8B",,"221,000",www.microsoft.com,,,,,1 425 8828080,,,$198.3B,,,,,,
+ALL ABOUT CRAFTS TRADE LIMITED,99999 - Dormant Company,"C/O Potterycrafts Limited, Campbell Road, Stoke-On-Trent, ST4 4ET",Private limited Company,17 February 2003,,,,,,,,,,,,Dissolved,,,,,,,
+ALL ABOUT CRAFTS LIMITED,99999 - Dormant Company,"Campbell Road, Stoke-On-Trent, Staffordshire, ST4 4ET",Private limited Company,17 September 1998,,,,,,,,,,,,Dissolved,,,,,,,
+Amazon.com,"['eCommerce', 'Internet or Mobile App Based Business', 'Cloud Services', 'Software and IT', 'Artificial Intelligence', 'Technology', 'Consulting Services', 'Consumer Services', 'Software Products', 'Retail']","Washington, USA, Northern America, Americas",,,Jeff Bezos,,5,"1,335,000",https://www.amazon.com/,,,,,,Andy Jassy,,"469,820 Million USD",,"420,550 Million USD","282,300 Million USD","138,240 Million USD","33,364 Million USD",Dec-2021
+The Walt Disney Company,"['Communication Services', 'Broadcasting', 'Television Services', 'Media', 'Advertising', 'Consumer Services', ""TV's"", 'Entertainment']","California, USA, Northern America, Americas",,,"['Walt Disney', 'Roy O. Disney']",,30,"190,000",https://www.thewaltdisneycompany.com/,,,,,,Bob Chapek,,"67,410 Million USD",,"203,610 Million USD","110,540 Million USD","93,011 Million USD","1,990 Million USD",Sep-2021
+Oracle Corporation,"['Technology', 'Software and IT', 'Software Products', 'Cloud Services', 'Software and IT Infrastructure']","California, USA, Northern America, Americas",,,"['Larry Ellison', 'Bob Miner', 'Ed Oates']",,49,"132,000",https://www.oracle.com/,,,,,,Safra A. Catz,,"42,440 Million USD",,"109,300 Million USD","115,060 Million USD","-5,768 Million USD","6,717 Million USD",For Year Ending  MAY-2022
+Chevron Corporation,"['Energy', 'Oil and Gas', 'Chemicals', 'Natural Gas Generation', 'Petrochemicals', 'Electricity Generation']","California, USA, Northern America, Americas",,,John D. Rockefeller's,,41,"42,595",https://www.chevron.com/,,,,,,Michael Wirth,,"155,600 Million USD",,"239,790 Million USD","108,100 Million USD","131,690 Million USD","15,620 Million USD",Dec-2021
+China Construction Bank Corporation,"['Financial Services', 'Banking Services']","Beijing, China, Eastern Asia, Asia",,,,,69,"349,671",http://en.ccb.com,,,,,,,,"120,930 Million USD",,"4,419,600 Million USD","4,048,100 Million USD","371,510 Million USD","44,469 Million USD",For Year ending Dec-2021
+At&t,"['Telecom', 'Communication Services', 'Internet Providers', 'Mobile Services', 'Fixed Line Service', 'Television Services', 'Media', 'Advertising', 'Utilities', 'Telecom Equipment']","Texas, USA, Northern America, Americas",,,"['Bell Telephone Company', 'Gardiner Greene Hubbard']",,67,"203,000",https://www.att.com/,,,,,,John T. Stankey,,"168,860 Million USD",,"551,620 Million USD","367,770 Million USD","183,860 Million USD","19,870 Million USD",Dec-2021
+Texas Instruments,"['Technology', 'Semiconductors', 'Electronics', 'Processors / Chips', 'Sensors']","Texas, USA, Northern America, Americas",,,"['Patrick E. Haggerty', 'Eugene McDermott', 'Cecil Howard Green', 'J. Erik Jonsson']",,77,"31,000",http://www.ti.com/,,,,,,Richard K. Templeton,,"18,344 Million USD",,"24,676 Million USD","11,343 Million USD","13,333 Million USD","7,769 Million USD",Dec-2021
+Truist Financial Corporation,"['Financial Services', 'Banking Services', 'Insurance', 'Mortgage']","North Carolina, USA, Northern America, Americas",,,Thomas Jefferson Hadley,,187,"52,641",https://www.bbt.com/,,,,,,William H. Bill Rogers Jr,,"22,259 Million USD",,"541,240 Million USD","471,970 Million USD","69,271 Million USD","6,033 Million USD",For Year ending Dec-2021
+Psbc (postal Savings Bank Of China),"['Financial Services', 'Banking Services']","China, Eastern Asia, Asia",,,,,209,"194,527",http://www.psbc.com/en/,,,,,,Lv Jiajin,,"31,817 Million USD",,"1,783,600 Million USD","1,678,100 Million USD","105,540 Million USD","10,855 Million USD",For Year ending Dec-2021
+Workday,"['Technology', 'Software and IT', 'Software Products', 'Artificial Intelligence']","California, USA, Northern America, Americas",,,"['Aneel Bhusri', 'David Duffield']",,288,"12,500",https://www.workday.com,,,,,,Chano Fernandez,,"5,138 Million USD",,"10,498 Million USD","5,963 Million USD","4,535 Million USD",29 Million USD,For Year Ending  JAN-2022
+Xiaomi Corporation,"['Technology', 'Electronics', 'Mobiles & Accessories', ""TV's"", 'Laptops', 'Tablets', 'Consumer Electronics']","Beijing, China, Eastern Asia, Asia",,,"['Lei Jun', 'Lin Bin', 'Li Wanqiang', 'Wang Chuan']",,312,"33,427",https://www.mi.com,,,,,,Lei Jun,,"51,577 Million USD",,"46,013 Million USD","24,457 Million USD","26,269 Million USD","3,038 Million USD",Dec-2021
+General Dynamics Corporation,"['Industries', 'Aerospace Products', 'Defense Products', 'Aeroplane', 'Weapons', 'Security Systems and Solutions', 'Weapons', 'Marine Systems', 'Marine Transportation', 'Transportation', 'Capital Goods', 'Aerospace and Defense', 'Space Products']","Virginia, USA, Northern America, Americas",,,John Philip Holland,,307,"103,100",https://www.gd.com/,,,,,,Phebe Novakovic,,"38,469 Million USD",,"50,073 Million USD","32,432 Million USD","17,641 Million USD","3,257 Million USD",Dec-2021
+Nintendo,"['Communication Services', 'Electronics', 'Technology Hardware and Instruments', 'Video Games / Mobile Games / Tech Games / Casino Games', 'Technology', 'Gaming']","Kyoto, Japan, Eastern Asia, Asia",,,Fusajiro Yamauchi,,343,"6,574",https://www.nintendo.com/,,,,,,Shuntaro Furukawa,,"12,371 Million USD",,"19,427 Million USD","4,328 Million USD","15,100 Million USD","3,486 Million USD",For Year Ending  MAR-2022
+Safran,"['Industries', 'Aerospace Products', 'Defense Products', 'Rockets', 'Satellites', 'Drones', 'Engineering Products', 'Technology', 'Machinery Manufacturing', 'Aerospace and Defense', 'Manufacturing', 'Space Products']","Paris, France, Western Europe, Europe",,,Marcel Mome,,345,"76,800",https://www.safran-group.com/,,,,,,Olivier Andries,,"16,677 Million USD",,"45,971 Million USD","31,820 Million USD","14,151 Million USD",47 Million USD,Dec-2021
+Monster Beverage Corporation,"['Consumer Defensive', 'Non-Alcoholic Beverages', 'Beverages', 'FMCG', 'Consumer Non Durables']","California, USA, Northern America, Americas",,,Hubert Hansen,,388,"4,092",https://www.monsterbevcorp.com/,,,,,,Hilton Schlosberg,,"5,541 Million USD",,"7,804 Million USD","1,237 Million USD","6,566 Million USD","1,377 Million USD",Dec-2021
+Xilinx,"['Technology', 'Semiconductors', 'Electronics', 'Technology Hardware and Instruments', 'Processors / Chips']","California, USA, Northern America, Americas",,,,,403,"4,891",https://www.xilinx.com/,,,,,,Victor Peng,,"3,160 Million USD",,,,,793 Million USD,Mar-2020
+Muyuan Foods,"['Consumer Defensive', 'Meat / Poultry / Fish / Chicken', 'Food Products', 'FMCG', 'Farming / Seeds / Milling']","China, Eastern Asia, Asia",,,,,420,"50,319",http://www.muyuanfoods.com/,,,,,,,,"11,480 Million USD",,"25,796 Million USD","15,813 Million USD","9,983 Million USD","1,005 Million USD",For Year ending Dec-2021
+Kraft Heinz Company,"['Consumer Defensive', 'Food Products', 'Food Service', 'Non-Alcoholic Beverages', 'FMCG', 'Consumer Non Durables', 'Beverages', 'Package Foods']","Illinois, USA, Northern America, Americas",,,"['Miguel Patricio', 'Kraft Foods']",,431,"36,000",http://www.kraftheinzcompany.com/,,,,,,Miguel Patricio,,"26,042 Million USD",,"93,394 Million USD","44,096 Million USD","49,298 Million USD","1,012 Million USD",Dec-2021
+Nu Holdings Ltd.,"['Financial Services', 'Technology']","Brazil, Americas",,,,,464,,,,,,,,David Velez Osorno,,"1,698 Million USD",,"19,858 Million USD","15,417 Million USD","4,441 Million USD",-164 Million USD,Dec-2021
+Spotify Technology,"['Communication Services', 'Media', 'Internet or Mobile App Based Business', 'Broadcasting', 'Music', 'Consumer Services', 'Advertising']","Stockholm, Sweden, Northern Europe, Europe",,,,,471,"6,617",https://www.spotify.com,,,,,,Daniel Ek,,"10,654 Million USD",,"7,901 Million USD","5,566 Million USD","2,335 Million USD",-37 Million USD,Dec-2021
+Kinder Morgan,"['Energy', 'Oil and Gas', 'Infrastructure', 'Gas Utilities', 'Utilities']","Texas, USA, Northern America, Americas",,,"['Richard Kinder', 'William V. Morgan']",,518,"10,529",https://www.kindermorgan.com/,,,,,,Steven J. Kean,,"16,610 Million USD",,"70,416 Million USD","39,593 Million USD","30,823 Million USD","1,784 Million USD",Dec-2021
+Ashtead Group,"['Industries', 'Construction Equipment', 'Rent / Lease Services']","London, UK, Northern Europe, Europe",,,,,561,"19,386",http://www.ashtead-group.com/,,,,,,Brendan Horgan,,"7,962 Million USD",,"15,290 Million USD","10,256 Million USD","5,033 Million USD","1,251 Million USD",For Year Ending  APR-2022
+Japan Tobacco,"['Consumer Defensive', 'Cigarettes', 'Tobacco Products', 'FMCG', 'Tobacco and Cigarette', 'Pharmaceutical', 'Food Products']","Tokyo, Japan, Eastern Asia, Asia",,,"['Government of Japan', 'Douglas MacArthur']",,579,"58,300",https://www.jt.com/,,,,,,Eddy Pirard,,"19,064 Million USD",,"47,349 Million USD","24,313 Million USD","23,036 Million USD","2,776 Million USD",Dec-2021
+Philips,"['Healthcare', 'Electronics', 'Medical Equipment', 'Lighting Products', 'Audio & Video Systems', 'Energy', 'Consumer Electronics', 'Technology', 'Health Care Diagnostics']","Amsterdam, Netherlands, Western Europe, Europe",,,"['Gerard Philips', 'Frederik Philips']",,624,"81,592",https://www.philips.com/global,,,,,,Frans van Houten,,"17,151 Million USD",,"30,952 Million USD","16,482 Million USD","14,470 Million USD","3,318 Million USD",For Year ending Dec-2021
+Twitter,"['Communication Services', 'Software and IT', 'Software Products', 'Technology', 'Internet or Mobile App Based Business', 'Advertising', 'Media', 'Social Media', 'Artificial Intelligence']","California, USA, Northern America, Americas",,,,,663,"7,500",https://twitter.com,,,,,,Parag Agarwal,,"5,077 Million USD",,"14,059 Million USD","6,752 Million USD","7,307 Million USD",-221 Million USD,Dec-2021
+Extra Space Storage,"['Real Estate', 'Consumer Services', 'Property Investments']","Utah, USA, Northern America, Americas",,,,,743,"4,013",https://www.extraspace.com/,,,,,,Joseph Margolis,,"1,577 Million USD",,"10,474 Million USD","6,688 Million USD","3,785 Million USD",826 Million USD,For Year ending Dec-2021
+Saudi Arabian Mining Company (ma'aden),"['Basic Materials', 'Mining', 'Gold Mining', 'Bauxite Mining', 'Aluminum', 'Copper Mining', 'Zinc', 'Silver Mining']","Saudi Arabia, Western Asia, Asia",,,,,803,"8,000",https://www.maaden.com.sa/,,,,,,Mosaed Al Ohali,,"7,138 Million USD",,"27,556 Million USD","18,049 Million USD","9,507 Million USD","1,394 Million USD",Dec-2021
+Hewlett Packard Enterprise Company,"['Technology', 'Technology Hardware and Instruments', 'Laptops', 'Computers Hardware', 'Desktops', 'Printers', 'Software and IT', 'Software Products', 'Software Consulting Services', 'Cloud Services', 'Network Hardware and Software', 'Electronics', 'Technology', 'Consumer Electronics', 'Consulting Services']","California, USA, Northern America, Americas",,,,,943,"60,400",https://www.hpe.com,,,,,,Antonio Neri,,"27,784 Million USD",,"57,699 Million USD","37,728 Million USD","19,971 Million USD","3,427 Million USD",Oct-2021
+Tcs Group Holding,"['Financial Services', 'Banking Services']","Russia, Eastern Europe, Europe",,,,,"1,007","528,748",https://www.tinkoff.ru/,,,,,,Oliver Hughes,,0 Million USD,,"11,860 Million USD","10,278 Million USD","1,582 Million USD",571 Million USD,Dec-2021
+Hyundai Mobis,"['Consumer Cyclical', 'Automobile', 'Automobile Parts']","South Korea, Eastern Asia, Asia",,,,,"1,016","10,243",https://www.mobis.co.kr/,,,,,,,,"34,196 Million USD",,"42,216 Million USD","13,292 Million USD","28,924 Million USD","1,929 Million USD",Dec-2021
+Amundi,"['Financial Services', 'Asset Management', 'Investments']","Paris, France, Western Europe, Europe",,,,,"1,226","4,700",https://www.amundi.com,,,,,,Valerie Baudson,,"3,531 Million USD",,"31,835 Million USD","21,151 Million USD","10,684 Million USD","1,443 Million USD",Dec-2021
+New China Life Insurance Company,"['Financial Services', 'Banking Services', 'Insurance']","China, Eastern Asia, Asia",,,,,"1,274","36,309",https://www.newchinalife.com/,,,,,,,,"34,923 Million USD",,"177,160 Million USD","160,120 Million USD","17,045 Million USD","2,348 Million USD",Dec-2021
+Prada,"['Consumer Cyclical', 'Luxury Goods', 'Beauty and Personal Care', 'Apparels and Accessories', 'Textile', 'Fashion and Luxury Goods', 'Leather Products', 'Shoes', 'Watches', 'FMCG']","Italy, South Europe, Europe",,,,,"1,335","13,331",https://www.prada.com,,,,,,Miuccia Prada,,"3,708 Million USD",,"7,669 Million USD","4,237 Million USD","3,431 Million USD",324 Million USD,Dec-2021
+Warner Bros. Discovery Inc,"['Communication Services', 'Media', 'Consumer Services', 'Television Services', 'Advertising', 'Entertainment']","Maryland, USA, Northern America, Americas",,,,,"1,348","9,800",https://corporate.discovery.com/,,,,,,David Zaslav,,"12,191 Million USD",,"34,427 Million USD","21,031 Million USD","13,396 Million USD","1,006 Million USD",For Year ending Dec-2021
+Sociedad Quimica Y Minera De Chile,"['Basic Materials', 'Mining', 'Metals', 'Chemicals']","Chile, South America, Americas",,,,,"1,411","5,507",https://www.sqm.com/,,,,,,Ricardo Ramos,,"2,862 Million USD",,"7,044 Million USD","3,862 Million USD","3,181 Million USD",585 Million USD,Dec-2021
+Booz Allen Hamilton Holding Corporation,"['Industries', 'Consumer Services', 'Professional Services', 'Consulting Services']","Virginia, USA, Northern America, Americas",,,,,"1,645","27,700",https://www.boozallen.com/,,,,,,,,"8,363 Million USD",,"6,025 Million USD","4,978 Million USD","1,046 Million USD",463 Million USD,For Year Ending  MAR-2022
+Hana Financial Group,"['Financial Services', 'Banking Services']","South Korea, Eastern Asia, Asia",,,,,"1,799",128,http://www.hanafn.com/,,,,,,,,"8,256 Million USD",,"408,940 Million USD","381,090 Million USD","27,851 Million USD","2,680 Million USD",For Year ending Dec-2021
+Taiwan Mobile,"['Communication Services', 'Telecom', 'Mobile Services', 'Internet Providers']","Taiwan, South East Asia, Asia",,,,,"1,866","8,200",https://english.taiwanmobile.com/,,,,,,,,"5,353 Million USD",,"6,549 Million USD","4,302 Million USD","2,247 Million USD",377 Million USD,Dec-2021
+First Solar,"['Technology', 'Electronics', 'Semiconductors', 'Solar Power Devices']","Arizona, USA, Northern America, Americas",,,,,"2,044","4,800",http://www.firstsolar.com,,,,,,,,"2,933 Million USD",,"7,413 Million USD","1,454 Million USD","5,959 Million USD",468 Million USD,For Year ending Dec-2021
+Castellum Ab (publ),"['Real Estate', 'Financial Services', 'Investments', 'Property Investments']","Sweden, Northern Europe, Europe",,,,,"2,055",,https://www.castellum.se,,,,,,,,667 Million USD,,"18,651 Million USD","9,942 Million USD","8,709 Million USD","1,242 Million USD",Dec-2021
+Under Armour,"['Consumer Cyclical', 'Clothing', 'Apparels and Accessories', 'Textile', 'Consumer Non Durables', 'Footwear', 'Shoes', 'Sports Goods']","Maryland, USA, Northern America, Americas",,,,,"2,092","12,868",https://www.underarmour.com/,,,,,,,,"5,683 Million USD",,"4,991 Million USD","2,902 Million USD","2,088 Million USD",360 Million USD,Dec-2021
+Edison S.p.a,"['Utilities', 'Electric Utilities']","Italy, South Europe, Europe",,,,,"2,135","13,351",https://www.sce.com/,,,,,,,,"11,736 Million USD",,"16,703 Million USD","10,352 Million USD","6,351 Million USD",413 Million USD,For Year ending Dec-2021
+Zynga,"['Communication Services', 'Technology', 'Gaming']","California, USA, Northern America, Americas",,,,,"2,584","2,245",https://www.zynga.com/,,,,,,,,"2,800 Million USD",,"6,358 Million USD","3,247 Million USD","3,111 Million USD",-104 Million USD,Dec-2021
+Fox Factory Holding,"['Consumer Cyclical', 'Automobile Parts', 'Recreational Vehicles']","Georgia, USA, Northern America, Americas",,,,,"2,582","3,730",https://www.ridefox.com/,,,,,,,,"1,299 Million USD",,"1,515 Million USD",621 Million USD,894 Million USD,163 Million USD,For Year Ending  DEC-2022
+Royal Gold,"['Basic Materials', 'Mining', 'Metals', 'Precious Metals', 'Gold Mining']","Colorado, USA, Northern America, Americas",,,,,"2,655",28,https://www.royalgold.com,,,,,,,,615 Million USD,,"2,651 Million USD",148 Million USD,"2,503 Million USD",302 Million USD,For Year Ending  Jun-2022
+Kajima Corporation,"['Industries', 'Real Estate', 'Construction']","Japan, Eastern Asia, Asia",,,,,"2,888","7,887",https://www.kajima.co.jp,,,,,,,,"15,176 Million USD",,"17,058 Million USD","10,100 Million USD","6,958 Million USD",758 Million USD,For Year Ending Mar-2022
+Ternium Argentina,"['Basic Materials', 'Iron and Steel']","Argentina, South America, Americas",,,,,"3,008","20,173",https://ar.ternium.com/es,,,,,,,,"2,850 Million USD",,"4,288 Million USD",483 Million USD,"3,805 Million USD","1,174 Million USD",Dec-2021
+Haohua Chemical Science & Technology,"['Basic Materials', 'Chemicals']","China, Eastern Asia, Asia",,,,,"3,048",,http://www.tkgf.chemchina.com/,,,,,,,,"1,165 Million USD",,"1,830 Million USD",699 Million USD,"1,131 Million USD",140 Million USD,Dec-2021
+Aac Technologies Holdings,"['Technology', 'Electronics', 'Technology Hardware and Instruments', 'Communications Equipment']","Hong Kong, Eastern Asia, Asia",,,,,"3,259","39,385",https://www.aactechnologies.com/en/,,,,,,,,"2,773 Million USD",,"6,596 Million USD","3,172 Million USD","3,423 Million USD",207 Million USD,Dec-2021
+Varonis Systems,"['Technology', 'Software and IT', 'Software Products', 'Software and IT Infrastructure', 'Security Systems and Solutions']","New York, USA, Northern America, Americas",,,,,"3,443","2,065",https://varonis.com/,,,,,,,,390 Million USD,,"1,108 Million USD",511 Million USD,596 Million USD,-116 Million USD,Dec-2021
+Option Care Health,"['Healthcare', 'Healthcare Service', 'Hospitals']","Illinois, USA, Northern America, Americas",,,,,"3,555","7,238",https://optioncare.com/,,,,,,,,"3,438 Million USD",,"2,790 Million USD","1,615 Million USD","1,175 Million USD",139 Million USD,Dec-2021
+Jl Mag Rare-earth,"['Industries', 'Metal Fabrication Products']","China, Eastern Asia, Asia",,,,,"3,575","3,038",https://jlmag.eu/,,,,,,,,594 Million USD,,880 Million USD,449 Million USD,432 Million USD,66 Million USD,For Year ending  Dec-2021
+Ionis Pharmaceuticals,"['Healthcare', 'Pharmaceutical', 'HealthCare Products', 'Biotechnology', 'Technology']","California, USA, Northern America, Americas",,,,,"3,683",660,https://ir.ionispharma.com,,,,,,,,810 Million USD,,"2,611 Million USD","1,839 Million USD",771 Million USD,-28 Million USD,Dec-2021
+Leyard Optoelectronic,"['Technology', 'Electronics', 'Capital Goods']","China, Eastern Asia, Asia",,,,,"3,704",,https://en.leyard.com/,,,,,,,,"1,288 Million USD",,"2,306 Million USD","1,171 Million USD","1,135 Million USD",89 Million USD,For Year ending  Dec-2021
+Joincare Pharmaceutical Group Industry,"['Healthcare', 'Pharmaceutical', 'HealthCare Products']","China, Eastern Asia, Asia",,,,,"3,888","13,000",https://www.joincare.com/,,,,,,,,"2,314 Million USD",,"4,526 Million USD","1,590 Million USD","2,936 Million USD",193 Million USD,For Year ending  Dec-2021
+Alkermes,"['Healthcare', 'HealthCare Products', 'Biotechnology']","Dublin, Ireland, Northern Europe, Europe",,,,,"3,992","2,245",http://www.alkermes.com/,,,,,,,,"1,173 Million USD",,"2,024 Million USD",911 Million USD,"1,112 Million USD",-48 Million USD,Dec-2021
+Kennedy-wilson Holdings,"['Real Estate', 'Financial Services']","California, USA, Northern America, Americas",,,,,"4,460",220,https://www.kennedywilson.com,,,,,,,,453 Million USD,,"7,876 Million USD","6,098 Million USD","1,777 Million USD",330 Million USD,Dec-2021
+Elite Material,"['Technology', 'Electronics', 'Capital Goods']","Taiwan, South East Asia, Asia",,,,,"4,524",,https://www.emctw.com/en-global,,,,,,,,"1,272 Million USD",,"1,208 Million USD",555 Million USD,653 Million USD,182 Million USD,For Year ending Dec-2021
+Acer,"['Technology', 'Computers Hardware', 'Laptops']","Taiwan, South East Asia, Asia",,,,,"4,552","7,054",https://www.acer.com/,,,,,,,,0 Million USD,,1 Million USD,1 Million USD,0 Million USD,0 Million USD,For Year ending Dec-2021
+North China Pharmaceutical Company. Ltd,"['Healthcare', 'Pharmaceutical', 'HealthCare Products']","China, Eastern Asia, Asia",,,,,"4,688",,http://www.ncpc.com/,,,,,,,,975 Million USD,,"3,628 Million USD","2,607 Million USD","1,021 Million USD",3 Million USD,For Year ending Dec-2021
+Jizhong Energy Resources,"['Energy', 'Coal Mining', 'Mining']","China, Eastern Asia, Asia",,,,,"4,771","38,063",http://www.jznygf.com/,,,,,,,,"4,573 Million USD",,"7,267 Million USD","3,704 Million USD","3,563 Million USD",399 Million USD,For Year ending Dec-2021
+Korea Gas Corporation,"['Utilities', 'Oil and Gas', 'Energy', 'Gas Utilities']","South Korea, Eastern Asia, Asia",,,,,"4,982",,http://www.kogas.or.kr,,,,,,,,"20,586 Million USD",,"32,665 Million USD","25,844 Million USD","6,821 Million USD",711 Million USD,For Year ending Dec-2021
+Corbion,"['Basic Materials', 'Chemicals']","Netherlands, Western Europe, Europe",,,,,"5,127","2,267",http://www.corbion.com/,,,,,,,,"1,180 Million USD",,"1,479 Million USD",868 Million USD,611 Million USD,86 Million USD,Dec-2021
+Atlas Air Worldwide Holdings,"['Industries', 'Transportation', 'Airports Operating']","New York, USA, Northern America, Americas",,,,,"5,407","4,056",https://www.atlasair.com/,,,,,,,,"4,030 Million USD",,"6,443 Million USD","3,633 Million USD","2,809 Million USD",493 Million USD,Dec-2021
+Taiheiyo Cement Corporation,"['Basic Materials', 'Cement', 'Construction Materials']","Japan, Eastern Asia, Asia",,,,,"5,657",,https://www.taiheiyo-cement.co.jp/,,,,,,,,"5,168 Million USD",,"8,049 Million USD","4,073 Million USD","3,975 Million USD",211 Million USD,For Year Ending Mar-2022
+Wonders Information,"['Technology', 'Software and IT']","China, Eastern Asia, Asia",,,,,"5,663",,https://www.wondersgroup.com/,,,,,,,,511 Million USD,,"1,040 Million USD",816 Million USD,224 Million USD,10 Million USD,For Year ending DEC-2021
+Everbridge,"['Technology', 'Software and IT', 'Software Products']","Massachusetts, USA, Northern America, Americas",,,,,"5,714","1,952",https://www.everbridge.com/,,,,,,,,368 Million USD,,"1,479 Million USD","1,016 Million USD",462 Million USD,-94 Million USD,Dec-2021
+Nippon Electric Glass,"['Technology', 'Electronics', 'Capital Goods']","Japan, Eastern Asia, Asia",,,,,"5,710","1,662",https://www.neg.co.jp/en/,,,,,,,,"2,131 Million USD",,"5,094 Million USD","1,448 Million USD","3,647 Million USD",204 Million USD,For Year ending DEC-2021
+Nec Networks & System Integration Corporation,"['Technology', 'Software and IT']","Japan, Eastern Asia, Asia",,,,,"5,776","7,818",https://www.nesic.co.jp/english/,,,,,,,,"2,265 Million USD",,"1,859 Million USD",850 Million USD,"1,008 Million USD",110 Million USD,For Year Ending Mar-2022
+Renasant Corporation,"['Financial Services', 'Banking Services']","Mississippi, USA, Northern America, Americas",,,,,"5,820","2,527",https://www.renasantbank.com/,,,,,,,,,,"16,810 Million USD","14,600 Million USD","2,209 Million USD",175 Million USD,Dec-2021
+Wolverine World Wide,"['Consumer Cyclical', 'Consumer Non Durables', 'Footwear']","Michigan, USA, Northern America, Americas",,,,,"5,826","4,400",http://www.wolverineworldwide.com,,,,,,,,"2,414 Million USD",,"2,586 Million USD","1,956 Million USD",629 Million USD,68 Million USD,Jan-2022
+Kiocl,"['Basic Materials', 'Iron and Steel']","India, Southern Asia, Asia",,,,,"6,044",805,https://www.kioclltd.in/,,,,,,,,376 Million USD,,333 Million USD,65 Million USD,268 Million USD,39 Million USD,For Year Ending  Mar-2022
+Itau Corpbanca,"['Financial Services', 'Banking Services']","Chile, South America, Americas",,,,,"6,269",,http://www.itau.cl/,,,,,,,,"1,449 Million USD",,"42,089 Million USD","38,080 Million USD","3,694 Million USD",304 Million USD,For Year ending  Dec-2021
+Wustenrot & Wurttembergische Ag,"['Financial Services', 'Insurance']","Germany, Western Europe, Europe",,,,,"6,494",,https://www.ww-ag.com/en,,,,,,,,,,,,,,
+Xpel,"['Consumer Cyclical', 'Automobile', 'Automobile Parts']","Texas, USA, Northern America, Americas",,,,,"6,623",709,https://www.xpel.com/,,,,,,,,259 Million USD,,161 Million USD,76 Million USD,84 Million USD,31 Million USD,Year ending Dec-2021
+Lundin Gold,"['Basic Materials', 'Gold Mining', 'Mining']","Canada, Northern America, Americas",,,,,"6,778",,https://www.lundingold.com/,,,,,,,,733 Million USD,,"1,685 Million USD",870 Million USD,814 Million USD,221 Million USD,For Year Ending Dec-2021
+Kokuyo,"['Industries', 'Furniture', 'Pens & Stationery', 'Toys', 'Office Equipment']","Japan, Eastern Asia, Asia",,,,,"6,839","6,961",https://www.kokuyo.com/en/,,,,,,,,37 Million USD,,28 Million USD,11 Million USD,17 Million USD,0 Million USD,For Year Ending Mar-2022
+Ingles Markets,"['Consumer Defensive', 'Food Products', 'Consumer Services', 'Retail']","North Carolina, USA, Northern America, Americas",,,,,"7,104","26,000",https://www.ingles-markets.com/,,,,,,,,"4,987 Million USD",,"2,018 Million USD","1,035 Million USD",983 Million USD,249 Million USD,Year ending Sep-2021
+Essentra,"['Basic Materials', 'Chemicals', 'Plastics / Plastic Products']","UK, Northern Europe, Europe",,,,,"7,552",,https://www.essentra.com/en,,,,,,,,"1,130 Million USD",,"1,510 Million USD",769 Million USD,740 Million USD,31 Million USD,For Year Ending  Dec-2021
+Centamin,"['Basic Materials', 'Gold Mining', 'Mining', 'Precious Metals']","UK, Northern Europe, Europe",,,,,"7,687",,https://www.centamin.com/,,,,,,,,733 Million USD,,"1,423 Million USD",133 Million USD,"1,289 Million USD",101 Million USD,For Year Ending  Dec-2021
+Mindmaze,,"Switzerland, Western Europe, Europe",,,,,"7,693",,https://www.mindmaze.com/,,,,,,,,,,,,,,
+Blackrock Throgmorton Trust,Asset Management,"UK, Northern Europe, Europe",,,,,"8,059",,https://www.blackrock.com/,,,,,,,,,,,,,,For Year Ending  Nov-2021
+Grendene,"['Consumer Cyclical', 'Footwear']","Brazil, South America, Americas",,,,,"8,229",,https://www.grendene.com.br/,,,,,,,,461 Million USD,,896 Million USD,90 Million USD,805 Million USD,118 Million USD,For Year Ending Dec-2021
+Banque Cantonale De Geneve Sa,"['Financial Services', 'Banking Services']","Switzerland, Western Europe, Europe",,,,,"8,245",,https://www.bcge.ch/,,,,,,,,,,,,,,
+Shanghai Maling Aquarius,"['Consumer Defensive', 'FMCG', 'Package Foods', 'Food Products']","China, Eastern Asia, Asia",,,,,"8,468",,http://www.shanghaimaling.com/,,,,,,,,,,,,,,
+Nayax Ltd.,"['Technology', 'Software and IT']","Israel, Western Asia, Asia",,,,,"8,554",,https://www.nayax.com/,,,,,,,,,,,,,,
+Getac Technology Corporation,"['Technology', 'Computers Hardware']","Taiwan, South East Asia, Asia",,,,,"8,593",,https://www.getac.com/,,,,,,,,994 Million USD,,"1,184 Million USD",525 Million USD,660 Million USD,141 Million USD,For Year Ending Dec-2021
+United Super Markets Holdings,"['Consumer Cyclical', 'Retail', 'Super Markets', 'Department Stores']","Japan, Eastern Asia, Asia",,,,,"8,628","28,905",https://www.usmh.co.jp/,,,,,,,,"5,228 Million USD",,"2,049 Million USD",938 Million USD,"1,111 Million USD",39 Million USD,For Year Ending  Feb-2022
+Applegreen,"['Consumer Cyclical', 'Retail']","Ireland, Northern Europe, Europe",,,,,"8,638",,https://www.applegreenstores.com/,,,,,,,,,,,,,,
+Semapa - Sociedade De Investimento E Gestao Sgps,"['Basic Materials', 'Paper and Pulp']","Portugal, South Europe, Europe",,,,,"9,008",,https://www.semapa.pt/,,,,,,,,,,,,,,
+Jpmorgan Global Growth & Income,Asset Management,"UK, Northern Europe, Europe",,,,,"9,502",,https://am.jpmorgan.com/,,,,,,,,185 Million USD,,848 Million USD,78 Million USD,769 Million USD,183 Million USD,For Year Ending Jun-2021
+Green Cross Holdings Corporation,"['Healthcare', 'Biotechnology', 'Pharmaceutical']","South Korea, Eastern Asia, Asia",,,,,"9,533",,http://www.pimaterials.com/,,,,,,,,"1,377 Million USD",,"2,616 Million USD","1,186 Million USD","1,429 Million USD",41 Million USD,For Year Ending Dec-2021
+Mekonomen Ab (publ),"['Industries', 'Retail', 'Automobile Parts']","Sweden, Northern Europe, Europe",,,,,"9,646",,https://www.mekonomen.com/en/,,,,,,,,"1,412 Million USD",,,,,52 Million USD,DEC-2020
+Corporacion America Airports,"['Industries', 'Airports Operating']","Luxembourg, Western Europe, Europe",,,,,"9,844",,http://www.caap.aero/,,,,,,,,706 Million USD,,"3,620 Million USD","2,847 Million USD",773 Million USD,-117 Million USD,For Year Ending Dec-2021
+BP INTERNATIONAL LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/bp-international-limited.gbd3h1ff0.html,,,,,,,,,,,,,,
+"VEOLIA NORTH AMERICA, LLC",,"BOSTON, Massachusetts(MA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/veolia-north-america-llc.usdd2mlhc.html,,,,,,,,,,,,,,
+"VEOLIA NORTH AMERICA, INC.",,"BOSTON, Massachusetts(MA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/veolia-north-america-inc.usd1cb05n.html,,,,,,,,,,,,,,
+"EVERBRIDGE, INC.",,"PASADENA, California(CA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/everbridge-inc.usd25o4d2.html,,,,,,,,,,,,,,
+MERRILL LYNCH EUROPE LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/merrill-lynch-europe-limited.gbd4spm3o.html,,,,,,,,,,,,,,
+ACCENTURE (UK) LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/accenture-limited.gbdc5kakf.html,,,,,,,,,,,,,,
+AAC TECHNOLOGIES HOLDINGS INC,,"CUPERTINO, California(CA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/aac-technologies-holdings-inc.usd1ecico.html,,,,,,,,,,,,,,
+ASHTEAD GROUP PUBLIC LIMITED COMPANY,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/ashtead-group-public-limited-company.gbd4tn8gh.html,,,,,,,,,,,,,,
+AMAZON.COM SERVICES LLC,,"SEATTLE, Washington(WA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/amazoncom-services-llc.usd24spn6.html,,,,,,,,,,,,,,
+"PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC.",,"PURCHASE, New York(NY), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/pepsi-cola-metropolitan-bottling-company-inc.usdrqk3.html,,,,,,,,,,,,,,
+JIL SANDER SPA,,"MILANO, ITALY, ITALY",,,,,,,https://www.info-clipper.com/en/company/italy/jil-sander-spa.itd79ufam.html,,,,,,,,,,,,,,
+BP INTERNATIONAL LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/bp-international-limited.gbd3h1ff0.html,,,,,,,,,,,,,,
+AAC TECHNOLOGIES HOLDINGS INC,,"CUPERTINO, California(CA), UNITED STATES",,,,,,,https://www.info-clipper.com/en/company/united-states/aac-technologies-holdings-inc.usd1ecico.html,,,,,,,,,,,,,,
+MERRILL LYNCH EUROPE LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/merrill-lynch-europe-limited.gbd4spm3o.html,,,,,,,,,,,,,,
+ACCENTURE (UK) LIMITED,,"LONDON, UNITED KINGDOM, UNITED KINGDOM",,,,,,,https://www.info-clipper.com/en/company/united-kingdom/accenture-limited.gbdc5kakf.html,,,,,,,,,,,,,,

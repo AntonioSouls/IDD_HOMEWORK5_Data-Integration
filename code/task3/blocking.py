@@ -181,13 +181,13 @@ def QGram_blocking(df,blocking_output_file):
 # Orchestrator of the two blocking logic '''
 def main():
     # Read the mediated schema as Pandas DataFrame useful as input for blocking
-    df = pd.read_csv("data/mediated_schema_populated.csv", usecols=["name"])
+    df = pd.read_csv("evaluation_data/mediated_schema_groundtruth.csv", usecols=["name"])
 
     # Clean the Pandas DataFrame to allow a more accurate blocking
     df = clean_Data_Frame(df)
     
     # Create the directory in which to save the blocking results
-    output_directory = "data/blocking_results"
+    output_directory = "evaluation_data/blocking_results"
     os.makedirs(output_directory, exist_ok=True)
     lsh_output_file = f"{output_directory}/lsh_results_for_RLT.json"
     QGram_output_file = f"{output_directory}/QGram_results_for_RLT.json"
@@ -197,25 +197,25 @@ def main():
     start_time = time.time() 
     lsh_blocking(df, lsh_output_file)
     end_time = time.time()
-    total_time = (end_time - start_time)/60
-    print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .2f} minutes\n\n")
+    total_time = end_time - start_time
+    print(f"LOCALITY SENSITIVE HASHING executed in {total_time: .2f} seconds\n\n")
     
     # Storage of the LSH_statistics
-    stats_file = "data/execution_times.txt"
+    stats_file = "evaluation_data/execution_times.txt"
     with open(stats_file, "w", encoding="utf-8") as f:
-        f.write(f"LOCALITY SENSITIVE HASHING BLOCKING executed in {total_time:.2f} minutes\n")
+        f.write(f"LOCALITY SENSITIVE HASHING BLOCKING executed in {total_time:.2f} seconds\n")
 
     # Starting the QGram_blocking strategy
     print("Starting QGRAM BLOCKING ... ")
     start_time = time.time()
     QGram_blocking(df,QGram_output_file)
     end_time = time.time()
-    total_time = (end_time - start_time)/60
-    print(f"QGRAM BLOCKING executed in {total_time: .2f} minutes\n\n")
+    total_time = end_time - start_time
+    print(f"QGRAM BLOCKING executed in {total_time: .2f} seconds\n\n")
 
     # Storage of the QGram_statistics
     with open(stats_file, "a", encoding='utf-8') as f:
-        f.write(f"QGRAM BLOCKING executed in {total_time:.2f} minutes\n\n")
+        f.write(f"QGRAM BLOCKING executed in {total_time:.2f} seconds\n\n")
         f.write("########################################################\n\n")
     
     return

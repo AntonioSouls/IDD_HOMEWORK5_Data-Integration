@@ -1,0 +1,125 @@
+The Chennai Silks	Tcs Group Holding	1	0.9904
+The Chennai Silks	TCS	1	0.9961
+Tcs Group Holding	TCS	1	0.9997
+Oracle	Oracle Corporation	1	0.9994
+Procter & Gamble	The Procter & Gamble Co	1	0.9998
+Xiaomi	Xiaomi Corporation	1	0.9998
+Hyundai Mobis Co Ltd	Hyundai Mobis	1	0.9992
+Kraft Heinz	Kraft Heinz Company	1	0.9997
+BMW	Bayerische Motoren Werke AG	0	0.9981
+Texas Instruments Inc	Texas Instruments	1	0.9997
+The Walt Disney Company	Walt Disney	1	0.9995
+Microsoft	Microsoft Corp	1	0.9954
+Nintendo	Nintendo Co Ltd	0	0.9974
+Twitter	Twitter Inc	1	0.9935
+Acer, Inc.	Acer	1	0.9997
+Japan Airlines Co. Ltd	Japan Airlines (JAL)	0	0.9598
+British Petroleum (BP)	BP INTERNATIONAL LIMITED	0	0.9986
+China Eastern Airlines Corporation Limited	China Eastern Airlines	1	0.9931
+China Construction Bank Corporation	China Construction Bank	1	0.9993
+Taiwan Mobile	Taiwan Mobile Co Ltd	1	0.9984
+Hana Financial Group	Hana	1	0.9992
+Chevron	Chevron Corporation	1	0.9997
+General Dynamics	General Dynamics Corporation	0	0.4844
+Truist Financial Corporation	Truist Financial	1	0.9998
+Safran SA	Safran	1	0.9998
+Monster Beverage Corporation	Monster Beverage	1	0.9995
+Workday	Workday Careers	1	0.9991
+Infineon	Infineon Technologies	1	0.9994
+Kinder Morgan Inc	Kinder Morgan	1	0.9998
+Muyuan Foodstuff	Muyuan Foods	1	0.9996
+Japan Tobacco Inc	Japan Tobacco	1	0.9995
+Warner Bros. Discovery Inc	Warner Bros. Discovery	1	0.9998
+Extra Space Storage Inc	Extra Space Storage	1	0.9993
+Nu Holdings Ltd.	Nu Holdings	1	0.9977
+First Solar Inc	First Solar	1	0.9988
+Swiss Life Holding	Swiss Life	1	0.9995
+Amundi SA	Amundi	1	0.9998
+Ionis Pharmaceuticals, Inc.	Ionis Pharmaceuticals	1	0.9998
+Apartment Income Reit	Apartment Income REIT Corp.	1	0.9997
+Option Care Health	Option Care Health, Inc.	1	0.9994
+Spectrum Brands	Spectrum Brands Holdings Inc	0	0.8024
+Kennedy-wilson Holdings	Kennedy Wilson	1	0.9995
+Wolverine World Wide Inc	Wolverine World Wide	1	0.9995
+Mrc Global	MRC Global Inc	1	0.9997
+Creepy Jar SA	Creepy Jar	1	0.9994
+Castellum	Castellum Ab (publ)	0	0.9212
+Hexo	HEXO Corp.	1	0.9998
+Schnitzer Steel	Schnitzer Steel Industries, Inc.	1	0.9998
+Grendene	Grendene SA	1	0.9994
+EVERBRIDGE, INC.	Everbridge	1	0.9998
+Dormakaba	dormakaba Holding AG	1	0.9983
+Ingles Markets	Ingles Markets Inc	1	0.9998
+Renasant Corporation	Renasant Corp	1	0.9998
+Korea Gas Corporation	Korea Gas	1	0.9996
+Corbion N.V.	Corbion	1	0.9997
+Lundin Gold Inc.	Lundin Gold	1	0.9999
+Arch Resources Inc	Arch Resources	1	0.9996
+Varonis Systems	Varonis	1	0.9997
+Atlas Air Worldwide Holdings	Atlas Air Worldwide Holdings Inc	0	0.6282
+HP	HP Inc.	1	0.9915
+HP	Hewlett Packard Enterprise Company	0	0.9986
+HP Inc.	Hewlett Packard Enterprise Company	0	0.9993
+New China Life Insurance	New China Life Insurance Company	1	0.9997
+Saudi Arabian Mining Company (ma'aden)	Saudi Arabian Mining	1	0.8989
+Mindmaze	MindMaze	1	0.9997
+OVH Groupe SAS	OVH	0	0.8446
+Joincare Pharmaceutical Group Industry	Joincare Pharmaceutical Group Industry Co.,Ltd.	1	0.9996
+JL Mag Rare-Earth Co. Ltd	Jl Mag Rare-earth	1	0.9998
+Leyard Optoelectronic	Leyard Optoelectronic Co. Ltd	1	0.9998
+Wonders Information Co. Ltd	Wonders Information	1	0.9998
+Haohua Chemical Science & Technology Corp Ltd	Haohua Chemical Science & Technology	1	0.9997
+Mekonomen AB	Mekonomen Ab (publ)	1	0.9998
+Nayax Ltd	Nayax Ltd.	1	0.9997
+Kajima Corporation	Kajima Corp	1	0.9997
+Taiheiyo Cement Corporation	Taiheiyo Cement Corp	1	0.9997
+Nippon Electric Glass	Nippon Electric Glass Co., Ltd.	1	0.9994
+Kokuyo	Kokuyo Co. Ltd	1	0.9998
+Shikoku Electric Power Company, Inc.	Shikoku Electric Power Co Inc	1	0.9994
+United Super Markets Holdings, Inc.	United Super Markets Holdings	1	0.9985
+Nec Networks & System Integration Corporation	NEC Networks & System Integration Corp	1	0.9997
+Jubilee Industries Holdings Ltd	Jubilee Enterprise Public Company Ltd	0	0.6625
+Nanofilm Technologies International	Nanofilm Technologies International Ltd	1	0.9996
+Hanjaya Mandala Sampoerna Tbk PT	PT Hanjaya Mandala Sampoerna Tbk	1	0.9997
+Deutsche Bank Spa	Deutsche Bank AG	0	0.9962
+Applegreen	Applegreen plc	1	0.9993
+C&C Group	C&C Group plc	1	0.9936
+Service Stream Limited	Service Stream Ltd	1	0.9931
+Ternium Argentina SA	Ternium Argentina	1	0.9995
+Essentra	Essentra plc	1	0.9986
+Jpmorgan Global Growth & Income	JPMorgan Global Growth & Income plc	1	0.9997
+BlackRock Throgmorton Trust plc	Blackrock Throgmorton Trust	1	0.9988
+Centamin plc	Centamin	1	0.9998
+Cheniere Energy Partners LP	Cheniere Energy, Inc.	1	0.9992
+Booz Allen Hamilton Holding Corporation	Booz Allen Hamilton Holding	1	0.9998
+Zynga	Zynga Inc.	1	0.9998
+Royal Gold	Royal Gold, Inc.	1	0.9995
+Under Armour, Inc.	Under Armour	1	0.9993
+Reinsurance Group of America	Reinsurance Group of America, Incorporated	1	0.9996
+Divido Financial Services	Divido	1	0.9999
+BITTNET	Bittnet Systems	1	0.9998
+ASHTEAD GROUP PUBLIC LIMITED COMPANY	Ashtead Group	1	0.9993
+Spotify Technology SA	Spotify Technology	1	0.9995
+JIL SANDER SPA	Jil Sander	1	0.9989
+Edison S.p.a	Edison	1	0.9997
+Getac Technology Corporation	Getac Holdings Corp	1	0.9994
+Alkermes	Alkermes Plc	1	0.9997
+Fox Factory Holding Corp	Fox Factory Holding	1	0.9997
+Elite Material Co Ltd	Elite Material	1	0.9975
+Green Cross Holdings Corporation	GC Corp	0	0.9992
+North China Pharmaceutical Company. Ltd	North China Pharmaceutical Co Ltd	1	0.9993
+Semapa - Sociedade De Investimento E Gestao Sgps	Semapa Sociedade de Investimento e Gestao SGPS SA	1	0.9987
+Sociedad Quimica y Minera de Chile SA	Sociedad Quimica Y Minera De Chile	1	0.9989
+Xilinx Inc	Xilinx	1	0.9998
+Shanghai Maling Aquarius Co Ltd	Shanghai Maling Aquarius	1	0.9996
+Jizhong Energy Resources	Jizhong Energy Resources Co Ltd	1	0.9991
+Wustenrot & Wurttembergische AG	Wustenrot & Wurttembergische Ag	1	0.9998
+Accenture Plc	ACCENTURE (UK) LIMITED	1	0.9953
+ALL ABOUT CRAFTS TRADE LIMITED	ALL ABOUT CRAFTS LIMITED	1	0.9996
+ALL ABOUT CRAFTS TRADE LIMITED	AAC TECHNOLOGIES HOLDINGS INC	0	0.9992
+ALL ABOUT CRAFTS TRADE LIMITED	Aac Technologies Holdings	0	0.9990
+ALL ABOUT CRAFTS LIMITED	AAC TECHNOLOGIES HOLDINGS INC	0	0.9990
+ALL ABOUT CRAFTS LIMITED	Aac Technologies Holdings	0	0.9987
+AAC TECHNOLOGIES HOLDINGS INC	Aac Technologies Holdings	1	0.9996
+Amazon.com	AMAZON.COM SERVICES LLC	1	0.9987
+VEOLIA NORTH AMERICA, LLC	VEOLIA NORTH AMERICA, INC.	1	0.9997

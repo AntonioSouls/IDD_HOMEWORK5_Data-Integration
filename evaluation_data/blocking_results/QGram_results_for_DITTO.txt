@@ -1,0 +1,125 @@
+The Chennai Silks	Tcs Group Holding
+The Chennai Silks	TCS
+Tcs Group Holding	TCS
+Oracle	Oracle Corporation
+Procter & Gamble	The Procter & Gamble Co
+Xiaomi	Xiaomi Corporation
+Hyundai Mobis Co Ltd	Hyundai Mobis
+Kraft Heinz	Kraft Heinz Company
+BMW	Bayerische Motoren Werke AG
+Texas Instruments Inc	Texas Instruments
+The Walt Disney Company	Walt Disney
+Microsoft	Microsoft Corp
+Nintendo	Nintendo Co Ltd
+Twitter	Twitter Inc
+Acer, Inc.	Acer
+Japan Airlines Co. Ltd	Japan Airlines (JAL)
+British Petroleum (BP)	BP INTERNATIONAL LIMITED
+China Eastern Airlines Corporation Limited	China Eastern Airlines
+China Construction Bank Corporation	China Construction Bank
+Taiwan Mobile	Taiwan Mobile Co Ltd
+Hana Financial Group	Hana
+Chevron	Chevron Corporation
+General Dynamics	General Dynamics Corporation
+Truist Financial Corporation	Truist Financial
+Safran SA	Safran
+Monster Beverage Corporation	Monster Beverage
+Workday	Workday Careers
+Infineon	Infineon Technologies
+Kinder Morgan Inc	Kinder Morgan
+Muyuan Foodstuff	Muyuan Foods
+Japan Tobacco Inc	Japan Tobacco
+Warner Bros. Discovery Inc	Warner Bros. Discovery
+Extra Space Storage Inc	Extra Space Storage
+Nu Holdings Ltd.	Nu Holdings
+First Solar Inc	First Solar
+Swiss Life Holding	Swiss Life
+Amundi SA	Amundi
+Ionis Pharmaceuticals, Inc.	Ionis Pharmaceuticals
+Apartment Income Reit	Apartment Income REIT Corp.
+Option Care Health	Option Care Health, Inc.
+Spectrum Brands	Spectrum Brands Holdings Inc
+Kennedy-wilson Holdings	Kennedy Wilson
+Wolverine World Wide Inc	Wolverine World Wide
+Mrc Global	MRC Global Inc
+Creepy Jar SA	Creepy Jar
+Castellum	Castellum Ab (publ)
+Hexo	HEXO Corp.
+Schnitzer Steel	Schnitzer Steel Industries, Inc.
+Grendene	Grendene SA
+EVERBRIDGE, INC.	Everbridge
+Dormakaba	dormakaba Holding AG
+Ingles Markets	Ingles Markets Inc
+Renasant Corporation	Renasant Corp
+Korea Gas Corporation	Korea Gas
+Corbion N.V.	Corbion
+Lundin Gold Inc.	Lundin Gold
+Arch Resources Inc	Arch Resources
+Varonis Systems	Varonis
+Atlas Air Worldwide Holdings	Atlas Air Worldwide Holdings Inc
+HP	HP Inc.
+HP	Hewlett Packard Enterprise Company
+HP Inc.	Hewlett Packard Enterprise Company
+New China Life Insurance	New China Life Insurance Company
+Saudi Arabian Mining Company (ma'aden)	Saudi Arabian Mining
+Mindmaze	MindMaze
+OVH Groupe SAS	OVH
+Joincare Pharmaceutical Group Industry	Joincare Pharmaceutical Group Industry Co.,Ltd.
+JL Mag Rare-Earth Co. Ltd	Jl Mag Rare-earth
+Leyard Optoelectronic	Leyard Optoelectronic Co. Ltd
+Wonders Information Co. Ltd	Wonders Information
+Haohua Chemical Science & Technology Corp Ltd	Haohua Chemical Science & Technology
+Mekonomen AB	Mekonomen Ab (publ)
+Nayax Ltd	Nayax Ltd.
+Kajima Corporation	Kajima Corp
+Taiheiyo Cement Corporation	Taiheiyo Cement Corp
+Nippon Electric Glass	Nippon Electric Glass Co., Ltd.
+Kokuyo	Kokuyo Co. Ltd
+Shikoku Electric Power Company, Inc.	Shikoku Electric Power Co Inc
+United Super Markets Holdings, Inc.	United Super Markets Holdings
+Nec Networks & System Integration Corporation	NEC Networks & System Integration Corp
+Jubilee Industries Holdings Ltd	Jubilee Enterprise Public Company Ltd
+Nanofilm Technologies International	Nanofilm Technologies International Ltd
+Hanjaya Mandala Sampoerna Tbk PT	PT Hanjaya Mandala Sampoerna Tbk
+Deutsche Bank Spa	Deutsche Bank AG
+Applegreen	Applegreen plc
+C&C Group	C&C Group plc
+Service Stream Limited	Service Stream Ltd
+Ternium Argentina SA	Ternium Argentina
+Essentra	Essentra plc
+Jpmorgan Global Growth & Income	JPMorgan Global Growth & Income plc
+BlackRock Throgmorton Trust plc	Blackrock Throgmorton Trust
+Centamin plc	Centamin
+Cheniere Energy Partners LP	Cheniere Energy, Inc.
+Booz Allen Hamilton Holding Corporation	Booz Allen Hamilton Holding
+Zynga	Zynga Inc.
+Royal Gold	Royal Gold, Inc.
+Under Armour, Inc.	Under Armour
+Reinsurance Group of America	Reinsurance Group of America, Incorporated
+Divido Financial Services	Divido
+BITTNET	Bittnet Systems
+ASHTEAD GROUP PUBLIC LIMITED COMPANY	Ashtead Group
+Spotify Technology SA	Spotify Technology
+JIL SANDER SPA	Jil Sander
+Edison S.p.a	Edison
+Getac Technology Corporation	Getac Holdings Corp
+Alkermes	Alkermes Plc
+Fox Factory Holding Corp	Fox Factory Holding
+Elite Material Co Ltd	Elite Material
+Green Cross Holdings Corporation	GC Corp
+North China Pharmaceutical Company. Ltd	North China Pharmaceutical Co Ltd
+Semapa - Sociedade De Investimento E Gestao Sgps	Semapa Sociedade de Investimento e Gestao SGPS SA
+Sociedad Quimica y Minera de Chile SA	Sociedad Quimica Y Minera De Chile
+Xilinx Inc	Xilinx
+Shanghai Maling Aquarius Co Ltd	Shanghai Maling Aquarius
+Jizhong Energy Resources	Jizhong Energy Resources Co Ltd
+Wustenrot & Wurttembergische AG	Wustenrot & Wurttembergische Ag
+Accenture Plc	ACCENTURE (UK) LIMITED
+ALL ABOUT CRAFTS TRADE LIMITED	ALL ABOUT CRAFTS LIMITED
+ALL ABOUT CRAFTS TRADE LIMITED	AAC TECHNOLOGIES HOLDINGS INC
+ALL ABOUT CRAFTS TRADE LIMITED	Aac Technologies Holdings
+ALL ABOUT CRAFTS LIMITED	AAC TECHNOLOGIES HOLDINGS INC
+ALL ABOUT CRAFTS LIMITED	Aac Technologies Holdings
+AAC TECHNOLOGIES HOLDINGS INC	Aac Technologies Holdings
+Amazon.com	AMAZON.COM SERVICES LLC
+VEOLIA NORTH AMERICA, LLC	VEOLIA NORTH AMERICA, INC.

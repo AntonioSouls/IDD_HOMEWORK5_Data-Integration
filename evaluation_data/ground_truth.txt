@@ -9,22 +9,19 @@ Haohua Chemical Science & Technology || Haohua Chemical Science & Technology Cor
 Centamin plc || Centamin
 Zynga Inc. || Zynga
 Joincare Pharmaceutical Group Industry Co.,Ltd. || Joincare Pharmaceutical Group Industry
-GIORGIO GORI SRL || GIORGIO GORI SRL
 Spectrum Brands Holdings Inc || Spectrum Brands
-Trapizzino || Trapizzino
 Wustenrot & Wurttembergische AG || Wustenrot & Wurttembergische Ag
 AAC TECHNOLOGIES HOLDINGS INC || Aac Technologies Holdings
 Xilinx Inc || Xilinx
 First Solar || First Solar Inc
 Renasant Corp || Renasant Corporation
-Elisa Oyj || Elisa Oyj
 OVH || OVH Groupe SAS
-Aurora Cannabis Inc. || Aurora CannabisKiocl || Kiocl
+Aurora Cannabis Inc. || Aurora CannabisKiocl
+Aurora CannabisKiocl || Kiocl
+Aurora Cannabis Inc. || Kiocl
 Koninklijke Philips NV || Philips
-WATCHTOWER SECURITY SOLUTIONS UNITED KINGDOM LIMITED || WATCHTOWER SECURITY SOLUTIONS UNITED KINGDOM LIMITED
 Microsoft || Microsoft Corp
 Hexo || HEXO Corp.
-China Merchants Bank || China Merchants Bank
 C&C Group || C&C Group plc
 Dominos Pizza || Domino’s
 Warner Bros. Discovery || Warner Bros. Discovery Inc
@@ -42,11 +39,11 @@ Dormakaba || dormakaba Holding AG
 Chevron || Chevron Corporation
 LVMH || Louis Vuitton (LV)
 Mekonomen Ab (publ) || Mekonomen AB
-Kar Auction Services || Kar Auction Services
 Royal Gold || Royal Gold, Inc.
 Truist Financial Corporation || Truist Financial
 Safran SA || Safran
 Hewlett Packard Enterprise Company || HP Inc.
+Hewlett Packard Enterprise Company || HP
 Saudi Arabian Mining Company (ma'aden) || Saudi Arabian Mining
 Atlas Air Worldwide Holdings Inc || Atlas Air Worldwide Holdings
 Varonis Systems || Varonis
@@ -69,7 +66,6 @@ Hana || Hana Financial Group
 Deutsche Bank Spa || Deutsche Bank AG
 Semapa - Sociedade De Investimento E Gestao Sgps || Semapa Sociedade de Investimento e Gestao SGPS SA
 MindMaze || Mindmaze
-METSA BOARD ITALIA SRL || METSA BOARD ITALIA SRL
 Taiheiyo Cement Corp || Taiheiyo Cement Corporation
 Prada S.p.A. || Prada
 Shikoku Electric Power Co Inc || Shikoku Electric Power Company, Inc.
@@ -84,14 +80,11 @@ Swiss Life || Swiss Life Holding
 General Dynamics || General Dynamics Corporation
 Nec Networks & System Integration Corporation || NEC Networks & System Integration Corp
 Infineon || Infineon Technologies
-La Vida Europe || La Vida Europe
 Ashtead Group || ASHTEAD GROUP PUBLIC LIMITED COMPANY
 Psbc (postal Savings Bank Of China) || Postal Savings Bank of China Co Ltd
-COMPAGNIA AEREA ITALIANA SPA || COMPAGNIA AEREA ITALIANA SPA
 Ionis Pharmaceuticals, Inc. || Ionis Pharmaceuticals
 JL Mag Rare-Earth Co. Ltd || Jl Mag Rare-earth
 Extra Space Storage || Extra Space Storage Inc
-T AND B ASSETS LTD || T AND B ASSETS LTD
 GC Corp || Green Cross Holdings Corporation
 Service Stream Ltd || Service Stream Limited
 Landis+Gyr Group AG || Landis+gyr
@@ -107,28 +100,23 @@ Getac Holdings Corp || Getac Technology Corporation
 Ternium Argentina || Ternium Argentina SA
 Kraft Heinz || Kraft Heinz Company
 Reinsurance Group of America, Incorporated || Reinsurance Group of America
-Air Canada || Air Canada
 JIL SANDER SPA || Jil Sander
-Bank Albilad || Bank Albilad
 Elite Material Co Ltd || Elite Material
 MERRILL LYNCH EUROPE LIMITED || MERRILL LYNCH EUROPE LIMITED
 Alkermes Plc || Alkermes
 Acer || Acer, Inc.
 PepsiCo || PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC.
 Creepy Jar SA || Creepy Jar
-RECTICEL OU || RECTICEL OU
 Essentra plc || Essentra
 Wolverine World Wide || Wolverine World Wide Inc
 Jpmorgan Global Growth & Income || JPMorgan Global Growth & Income plc
 Jizhong Energy Resources Co Ltd || Jizhong Energy Resources
 Nu Holdings || Nu Holdings Ltd.
-U.C.I.T. SRL || U.C.I.T. SRL
 Dior || Christian Dior SE
 Corbion N.V. || Corbion
 EVERBRIDGE, INC. || Everbridge
 VEOLIA NORTH AMERICA, INC. || VEOLIA NORTH AMERICA, LLC
 Taiwan Mobile || Taiwan Mobile Co Ltd
-CITIZENM LONDON BANKSIDE OPERATIONS B.V. || CITIZENM LONDON BANKSIDE OPERATIONS B.V.
 Arch Resources Inc || Arch Resources
 Bayerische Motoren Werke AG || BMW
 Kinder Morgan Inc || Kinder Morgan
@@ -148,3 +136,7 @@ Texas Instruments || Texas Instruments Inc
 Kajima Corp || Kajima Corporation
 Nintendo || Nintendo Co Ltd
 Divido || Divido Financial Services
+The Chennai Silks || Tcs Group Holding
+The Chennai Silks || TCS
+Tcs Group Holding || TCS
+Accenture Plc || ACCENTURE (UK) LIMITED

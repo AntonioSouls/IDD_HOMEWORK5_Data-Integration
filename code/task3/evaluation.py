@@ -15,7 +15,7 @@ def evaluation(pairwise_file,groundtruth_file):
     # Read groundtruth.txt file
     with open(groundtruth_file, "r", encoding="utf-8") as file:
         for linea in file:
-            elementi = linea.strip().split("\t")
+            elementi = [parola.strip() for parola in linea.split("||")]
             groundtruth_dati.append(tuple(elementi))
     
     # Calculating the number of TRUE POSITIVES
@@ -36,12 +36,9 @@ def evaluation(pairwise_file,groundtruth_file):
     # Calculating the number of FALSE NEGATIVES
     stats[2]=len(groundtruth_dati)
 
-    print(stats)
     # Calculation of metrics
     precision = stats[0]/(stats[0]+stats[1])
-    print(precision)
     recall = stats[0]/(stats[0]+stats[2])
-    print(recall)
     if (precision + recall) == 0:
         f_measure = 0
     else:

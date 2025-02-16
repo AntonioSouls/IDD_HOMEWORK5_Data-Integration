@@ -11,22 +11,22 @@ PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in 23.06 seconds
 ########################################################
 
 PRESTAZIONI PER LSH_RLT_pairwise_matching.txt:
-		PRECISION: 0.58
-		RECALL: 0.37
-		F-MEASURE: 0.45
+		PRECISION: 1.00
+		RECALL: 0.62
+		F-MEASURE: 0.77
 
 PRESTAZIONI PER LSH_DITTO_pairwise_matching.txt:
-		PRECISION: 0.51
-		RECALL: 0.37
-		F-MEASURE: 0.43
+		PRECISION: 1.00
+		RECALL: 0.72
+		F-MEASURE: 0.84
 
 PRESTAZIONI PER QGRAM_RLT_pairwise_matching.txt:
-		PRECISION: 0.59
-		RECALL: 0.38
-		F-MEASURE: 0.46
+		PRECISION: 1.00
+		RECALL: 0.64
+		F-MEASURE: 0.78
 
 PRESTAZIONI PER QGRAM_DITTO_pairwise_matching.txt:
-		PRECISION: 0.52
-		RECALL: 0.39
-		F-MEASURE: 0.45
+		PRECISION: 1.00
+		RECALL: 0.75
+		F-MEASURE: 0.86
 

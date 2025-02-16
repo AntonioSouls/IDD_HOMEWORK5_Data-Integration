@@ -44,6 +44,7 @@ Truist Financial Corporation || Truist Financial
 Safran SA || Safran
 Hewlett Packard Enterprise Company || HP Inc.
 Hewlett Packard Enterprise Company || HP
+HP || HP Inc.
 Saudi Arabian Mining Company (ma'aden) || Saudi Arabian Mining
 Atlas Air Worldwide Holdings Inc || Atlas Air Worldwide Holdings
 Varonis Systems || Varonis

@@ -59,9 +59,9 @@ def main():
         precision, recall, f_measure = evaluation(f"{base_dir}{file}", groundtruth_file)
         with open(stats_file, 'a', encoding='utf-8') as f:
             f.write(f"PRESTAZIONI PER {file}:\n")
-            f.write(f"\t\tPRECISION: {precision}\n")
-            f.write(f"\t\tRECALL: {recall}\n")
-            f.write(f"\t\tF-MEASURE: {f_measure}\n\n")
+            f.write(f"\t\tPRECISION: {precision:.2f}\n")
+            f.write(f"\t\tRECALL: {recall:.2f}\n")
+            f.write(f"\t\tF-MEASURE: {f_measure:.2f}\n\n")
     
     return
 

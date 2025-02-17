@@ -75,7 +75,9 @@ def clean_Data_Frame(df: pd.DataFrame):
         if acronym and acronym not in acronym_dict:
             acronym_dict[acronym] = clean_name
     
-    df["clean_name"] = df["clean_name"].apply(lambda x: acronym_dict.get(x, x))
+    df["clean_name"] = df["clean_name"].apply(lambda x: "h&m" if x == "h& m" else x)
+    df["clean_name"] = df["clean_name"].apply(lambda x: "machines" if x == "ibm" else acronym_dict.get(x, x))
+
     return df
 
 # Function that generates a set of q-shingles from a string

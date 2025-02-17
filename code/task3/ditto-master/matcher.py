@@ -367,8 +367,8 @@ def load_model(task, path, lm, use_gpu, fp16=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", type=str, default='companies')
-    parser.add_argument("--input_path", type=str, default='../../../evaluation_data/blocking_results/QGram_results_for_DITTO.txt')
-    parser.add_argument("--output_path", type=str, default='../../../evaluation_data/PairwiseMatching_results/QGRAM_DITTO_pairwise_matching.txt')
+    parser.add_argument("--input_path", type=str, default='../../../evaluation_data/blocking_results/lsh_results_for_DITTO.txt')
+    parser.add_argument("--output_path", type=str, default='../../../evaluation_data/PairwiseMatching_results/LSH_DITTO_pairwise_matching.txt')
     parser.add_argument("--lm", type=str, default='distilbert')
     parser.add_argument("--use_gpu", dest="use_gpu", action="store_true")
     parser.add_argument("--fp16", dest="fp16", action="store_true")

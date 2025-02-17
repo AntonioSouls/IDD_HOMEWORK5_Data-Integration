@@ -118,6 +118,7 @@ Bank Of Xi'an	Bank of Xi'an Co.Ltd.	1
 M&T Bank	M&T Bank Corporation	1
 GOOD BOY LONDON LTD	GOOD BEE CO LONDON LTD	0
 Daimler AG	BMW AG	0
+BMW	Bayerische Motoren Werke AG	1
 Shenzhen Hopewind Electric	Shenzhen Hopewind Electric Co. Ltd	1
 HCA Healthcare	HCA Healthcare	1
 Aurinia Pharmaceuticals	Aurinia Pharmaceuticals Inc.	1
@@ -142,6 +143,9 @@ Pegatron Corporation	Pegatron Corp	1
 Nordic Semiconductor Asa	Nordic Semiconductor	1
 Shoals Technologies	Shoals Technologies Group Inc.	1
 Cosmos Pharmaceutical	Corbus Pharmaceuticals	0
+Nintendo	Nintendo Co Ltd	1
+Christian Dior SE	Dior	1
+GC Corp	Green Cross Holdings Corporation	1
 Sears Holdings Corporation	Sears	1
 Larsen & Toubro	L&T	1
 Puma AG	Puma	1
@@ -150,6 +154,7 @@ Alibaba Group Holdings Ltd.	Alibaba Group	1
 Under Armour	Under Armour	1
 Chesapeake Energy	Chesapeake	1
 PepsiCo Inc.	Mondelez International Inc.	0
+PepsiCo Inc.	PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC.	1
 Enel SpA	Iberdrola SA	0
 SilverCrest Metals Inc.	Silvercrest Metals	1
 Shanghai Industrial Holdings Ltd	Shanghai Industrial Holdings	1
@@ -167,6 +172,8 @@ Kraft Heinz	Kraft Heinz	1
 Mars Inc.	Mars	1
 U INTERNATIONAL LIMITED	TEHO International Inc Ltd	0
 Philips NV	Siemens Healthineers AG	0
+Philips	Koninklijke Philips NV	1
+Castellum	Castellum Ab (publ)	1
 Engie S.A.	Engie	1
 Intrum AB	Intrum AB	1
 Ricoh Company  Ltd.	Ricoh	1
@@ -306,6 +313,12 @@ AstraZeneca plc	Moderna Inc.	0
 AEP	American Electric Power	1
 Alphabet Inc.	Google	1
 Dell Technologies Inc.	Hewlett Packard Enterprise Company	0
+HP	HP Inc.	1
+HP	Hewlett Packard Enterprise Company	1
+HP Inc.	Hewlett Packard Enterprise Company	1
+OVH Groupe SAS	OVH	1
+OVH	OVH Groupe SAS	1
+IBM	International Business Machine Corp	1
 PSEG	PSEG	1
 Sappi	SappiLtd	1
 Zalando SE	Zalando	1
@@ -469,7 +482,7 @@ Prudential Financial	"Prudential Financial, Inc."	1
 Kyochon Food&Beverage Co. Ltd	FOOD & BEVERAGE SOLUTIONS (UK) LTD	0
 American Express Company	American Express	1
 Xtep International Holdings	Zk International Group	0
-H&M Hennes & Mauritz AB	Inditex SA	0
+H&M Hennes & Mauritz AB	Inditex SA	1
 Nyxoah	Nyxoah SA	1
 AmerisourceBergen	AmerisourceBergen	1
 American Woodmark	American Woodmark Corporation	1
@@ -504,6 +517,7 @@ Target Corporation	Target	1
 Weight Watchers Careers	Weight Watchers	1
 Walgreens Boots Alliance	Walgreens	1
 Japan Real Estate Investment Corporation	Spring Real Estate Investment Trust	0
+Japan Airlines (JAL)	Japan Airlines Co. Ltd	1
 Chateau International Development Co. Ltd	Melco International Development	0
 Western Union	Union Pacific	0
 Emperor International Holdings Ltd	YHI International Ltd	0

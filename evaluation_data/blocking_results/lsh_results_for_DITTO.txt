@@ -1,127 +1,134 @@
-The Chennai Silks	Tcs Group Holding
-The Chennai Silks	TCS
-Tcs Group Holding	TCS
-Oracle	Oracle Corporation
+TCS	Tcs Group Holding
+TCS	The Chennai Silks
+Tcs Group Holding	The Chennai Silks
+International Business Machines Corp	IBM
+Oracle Corporation	Oracle
+Dominos Pizza	Domino’s
+PepsiCo	PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC.
 Procter & Gamble	The Procter & Gamble Co
-Xiaomi	Xiaomi Corporation
+Philips	Koninklijke Philips NV
+Xiaomi Corporation	Xiaomi
 Hyundai Mobis Co Ltd	Hyundai Mobis
+Hennes & Mauritz AB	H&M
 Kraft Heinz	Kraft Heinz Company
 BMW	Bayerische Motoren Werke AG
-Texas Instruments Inc	Texas Instruments
+Texas Instruments	Texas Instruments Inc
 The Walt Disney Company	Walt Disney
-Microsoft	Microsoft Corp
+Microsoft Corp	Microsoft
 Nintendo	Nintendo Co Ltd
 Twitter	Twitter Inc
-Acer, Inc.	Acer
-Japan Airlines Co. Ltd	Japan Airlines (JAL)
+Acer	Acer, Inc.
+Japan Airlines (JAL)	Japan Airlines Co. Ltd
 British Petroleum (BP)	BP INTERNATIONAL LIMITED
 China Eastern Airlines Corporation Limited	China Eastern Airlines
 Deutsche Bank Spa	Deutsche Bank AG
-Deutsche Bank Spa	China Construction Bank Corporation
 Deutsche Bank Spa	China Construction Bank
-Deutsche Bank AG	China Construction Bank Corporation
+Deutsche Bank Spa	China Construction Bank Corporation
 Deutsche Bank AG	China Construction Bank
-China Construction Bank Corporation	China Construction Bank
+Deutsche Bank AG	China Construction Bank Corporation
+China Construction Bank	China Construction Bank Corporation
 Taiwan Mobile	Taiwan Mobile Co Ltd
 Hana Financial Group	Hana
-Chevron	Chevron Corporation
-General Dynamics	General Dynamics Corporation
-Truist Financial Corporation	Truist Financial
+Chevron Corporation	Chevron
+Dior	Christian Dior SE
+General Dynamics Corporation	General Dynamics
+Truist Financial	Truist Financial Corporation
 Safran SA	Safran
 Monster Beverage Corporation	Monster Beverage
 Workday	Workday Careers
 Infineon	Infineon Technologies
-Kinder Morgan Inc	Kinder Morgan
-Japan Tobacco Inc	Japan Tobacco
+Kinder Morgan	Kinder Morgan Inc
+Japan Tobacco	Japan Tobacco Inc
 Warner Bros. Discovery Inc	Warner Bros. Discovery
-Extra Space Storage Inc	Extra Space Storage
+Extra Space Storage	Extra Space Storage Inc
 Nu Holdings Ltd.	Nu Holdings
-First Solar Inc	First Solar
-Swiss Life Holding	Swiss Life
+First Solar	First Solar Inc
+Swiss Life	Swiss Life Holding
 Amundi SA	Amundi
 Ionis Pharmaceuticals, Inc.	Ionis Pharmaceuticals
-Apartment Income Reit	Apartment Income REIT Corp.
-Option Care Health	Option Care Health, Inc.
-Option Care Health	Molnlycke Health Care AB
+Apartment Income REIT Corp.	Apartment Income Reit
 Option Care Health, Inc.	Molnlycke Health Care AB
-Spectrum Brands	Spectrum Brands Holdings Inc
+Option Care Health, Inc.	Option Care Health
+Molnlycke Health Care AB	Option Care Health
+Spectrum Brands Holdings Inc	Spectrum Brands
 Kennedy-wilson Holdings	Kennedy Wilson
-Wolverine World Wide Inc	Wolverine World Wide
-Mrc Global	MRC Global Inc
+Wolverine World Wide	Wolverine World Wide Inc
+MRC Global Inc	Mrc Global
 Creepy Jar SA	Creepy Jar
 Castellum	Castellum Ab (publ)
 Hexo	HEXO Corp.
-Schnitzer Steel	Schnitzer Steel Industries, Inc.
+Schnitzer Steel Industries, Inc.	Schnitzer Steel
 Grendene	Grendene SA
-EVERBRIDGE, INC.	Everbridge
+Everbridge	EVERBRIDGE, INC.
 Dormakaba	dormakaba Holding AG
-Ingles Markets	Ingles Markets Inc
+Ingles Markets Inc	Ingles Markets
 Renasant Corporation	Renasant Corp
 Korea Gas Corporation	Korea Gas
-Corbion N.V.	Corbion
+Corbion	Corbion N.V.
 Lundin Gold Inc.	Lundin Gold
 Arch Resources Inc	Arch Resources
 Varonis Systems	Varonis
 Atlas Air Worldwide Holdings	Atlas Air Worldwide Holdings Inc
-HP	HP Inc.
-HP	Hewlett Packard Enterprise Company
+HP Inc.	HP
 HP Inc.	Hewlett Packard Enterprise Company
+HP	Hewlett Packard Enterprise Company
 New China Life Insurance	New China Life Insurance Company
-Saudi Arabian Mining Company (ma'aden)	Saudi Arabian Mining
-OVH Groupe SAS	OVH
+Saudi Arabian Mining	Saudi Arabian Mining Company (ma'aden)
+OVH	OVH Groupe SAS
 Joincare Pharmaceutical Group Industry	Joincare Pharmaceutical Group Industry Co.,Ltd.
 JL Mag Rare-Earth Co. Ltd	Jl Mag Rare-earth
 Leyard Optoelectronic	Leyard Optoelectronic Co. Ltd
 Wonders Information Co. Ltd	Wonders Information
-Haohua Chemical Science & Technology Corp Ltd	Haohua Chemical Science & Technology
+Haohua Chemical Science & Technology	Haohua Chemical Science & Technology Corp Ltd
 Mekonomen AB	Mekonomen Ab (publ)
-Nayax Ltd	Nayax Ltd.
-Kajima Corporation	Kajima Corp
-Taiheiyo Cement Corporation	Taiheiyo Cement Corp
+Nayax Ltd.	Nayax Ltd
+Kajima Corp	Kajima Corporation
+Taiheiyo Cement Corp	Taiheiyo Cement Corporation
 Nippon Electric Glass	Nippon Electric Glass Co., Ltd.
 Kokuyo	Kokuyo Co. Ltd
-Shikoku Electric Power Company, Inc.	Shikoku Electric Power Co Inc
-United Super Markets Holdings, Inc.	United Super Markets Holdings
+Shikoku Electric Power Co Inc	Shikoku Electric Power Company, Inc.
+United Super Markets Holdings	United Super Markets Holdings, Inc.
 Nec Networks & System Integration Corporation	NEC Networks & System Integration Corp
-Jubilee Industries Holdings Ltd	Jubilee Enterprise Public Company Ltd
+Jubilee Enterprise Public Company Ltd	Jubilee Industries Holdings Ltd
 Nanofilm Technologies International	Nanofilm Technologies International Ltd
-Hanjaya Mandala Sampoerna Tbk PT	PT Hanjaya Mandala Sampoerna Tbk
+PT Hanjaya Mandala Sampoerna Tbk	Hanjaya Mandala Sampoerna Tbk PT
+Prada S.p.A.	Prada
 Applegreen	Applegreen plc
-C&C Group	C&C Group plc
+C&C Group plc	C&C Group
 Service Stream Limited	Service Stream Ltd
-Ternium Argentina SA	Ternium Argentina
+Ternium Argentina	Ternium Argentina SA
 Essentra	Essentra plc
-Jpmorgan Global Growth & Income	JPMorgan Global Growth & Income plc
-Centamin plc	Centamin
-Cheniere Energy Partners LP	Cheniere Energy, Inc.
-Booz Allen Hamilton Holding Corporation	Booz Allen Hamilton Holding
+JPMorgan Global Growth & Income plc	Jpmorgan Global Growth & Income
+Centamin	Centamin plc
+Cheniere Energy, Inc.	Cheniere Energy Partners LP
+Booz Allen Hamilton Holding	Booz Allen Hamilton Holding Corporation
 Zynga	Zynga Inc.
 Royal Gold	Royal Gold, Inc.
 Under Armour, Inc.	Under Armour
 Reinsurance Group of America	Reinsurance Group of America, Incorporated
 Divido Financial Services	Divido
 BITTNET	Bittnet Systems
-ASHTEAD GROUP PUBLIC LIMITED COMPANY	Ashtead Group
-Spotify Technology SA	Spotify Technology
-JIL SANDER SPA	Jil Sander
-Edison S.p.a	Edison
-Getac Technology Corporation	Getac Holdings Corp
+Ashtead Group	ASHTEAD GROUP PUBLIC LIMITED COMPANY
+Spotify Technology	Spotify Technology SA
+Jil Sander	JIL SANDER SPA
+Edison	Edison S.p.a
+Getac Holdings Corp	Getac Technology Corporation
 Alkermes	Alkermes Plc
-Fox Factory Holding Corp	Fox Factory Holding
+Fox Factory Holding	Fox Factory Holding Corp
 Elite Material Co Ltd	Elite Material
-Green Cross Holdings Corporation	GC Corp
+GC Corp	Green Cross Holdings Corporation
 North China Pharmaceutical Company. Ltd	North China Pharmaceutical Co Ltd
 Semapa - Sociedade De Investimento E Gestao Sgps	Semapa Sociedade de Investimento e Gestao SGPS SA
 Sociedad Quimica y Minera de Chile SA	Sociedad Quimica Y Minera De Chile
-Xilinx Inc	Xilinx
-Shanghai Maling Aquarius Co Ltd	Shanghai Maling Aquarius
+Xilinx	Xilinx Inc
+Shanghai Maling Aquarius	Shanghai Maling Aquarius Co Ltd
 Jizhong Energy Resources	Jizhong Energy Resources Co Ltd
 Wustenrot & Wurttembergische AG	Wustenrot & Wurttembergische Ag
 Accenture Plc	ACCENTURE (UK) LIMITED
+Aac Technologies Holdings	ALL ABOUT CRAFTS TRADE LIMITED
+Aac Technologies Holdings	ALL ABOUT CRAFTS LIMITED
+Aac Technologies Holdings	AAC TECHNOLOGIES HOLDINGS INC
 ALL ABOUT CRAFTS TRADE LIMITED	ALL ABOUT CRAFTS LIMITED
 ALL ABOUT CRAFTS TRADE LIMITED	AAC TECHNOLOGIES HOLDINGS INC
-ALL ABOUT CRAFTS TRADE LIMITED	Aac Technologies Holdings
 ALL ABOUT CRAFTS LIMITED	AAC TECHNOLOGIES HOLDINGS INC
-ALL ABOUT CRAFTS LIMITED	Aac Technologies Holdings
-AAC TECHNOLOGIES HOLDINGS INC	Aac Technologies Holdings
 VEOLIA NORTH AMERICA, LLC	VEOLIA NORTH AMERICA, INC.

@@ -2,11 +2,11 @@ from tqdm import tqdm
 
 # Function that computes the calculation of metrics on a single file
 def evaluation(pairwise_file,groundtruth_file):
-    pairwise_dati = []
-    groundtruth_dati = []
-    pairwise_waiting_removed = []
-    groundtruth_waiting_removed = []
-    stats = [0,0,0]   #Number of TRUE POSITIVES, Number of FALSE POSITIVES, Number of FALSE NEGATIVES
+    pairwise_dati = []                # Initializing the list in which we will save pairwise file's lines
+    groundtruth_dati = []             # Initializing the list in which we will save groundtruth file's lines
+    pairwise_waiting_removed = []     # Initializing the list in which we will save the elements that will be removed from pairwise data
+    groundtruth_waiting_removed = []  # Initializing the list in which we will save the elements that will be removed from groundtruth data
+    stats = [0,0,0]                   # Stats that we want to store (in this order): Number of TRUE POSITIVES, Number of FALSE POSITIVES, Number of FALSE NEGATIVES
     
     # Read the pairwise_matching.txt filtering lines with the third element equal to "1"
     with open(pairwise_file, "r", encoding="utf-8") as file:
@@ -45,8 +45,8 @@ def evaluation(pairwise_file,groundtruth_file):
     stats[2]=len(groundtruth_dati)
 
     # Calculation of metrics
-    precision = stats[0]/(stats[0]+stats[1])
-    recall = stats[0]/(stats[0]+stats[2])
+    precision = stats[0]/(stats[0]+stats[1])         # PRECISION: measure of how many of the records that the model thought were similar are actually similar
+    recall = stats[0]/(stats[0]+stats[2])            # RECALL: measure of how much the model was able to "recover" compared to the total number of actual similar pairs
     if (precision + recall) == 0:
         f_measure = 0
     else:
@@ -62,7 +62,7 @@ def main():
     stats_file = "evaluation_data/execution_times.txt"
 
     files = ["LSH_RLT_pairwise_matching.txt","LSH_DITTO_pairwise_matching.txt","QGRAM_RLT_pairwise_matching.txt","QGRAM_DITTO_pairwise_matching.txt"]
-    
+    #files = ["LSH_DITTO_pairwise_matching.txt"]
     for file in tqdm(files, desc="Evaluating files"):
         precision, recall, f_measure = evaluation(f"{base_dir}{file}", groundtruth_file)
         with open(stats_file, 'a', encoding='utf-8') as f:

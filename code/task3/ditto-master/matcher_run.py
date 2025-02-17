@@ -14,4 +14,4 @@ if __name__ == '__main__':
     end_time = time.time()
     total_time = end_time - start_time
     with open("../../../evaluation_data/execution_times.txt",'a',encoding='utf-8')as f:
-        f.write(f"PAIRWISE MATCHING with DITTO on QGRAM BLOCKING executed in {total_time:.2f} seconds\n")
+        f.write(f"PAIRWISE MATCHING with DITTO on LOCALITY SENSITIVE HASHING executed in {total_time:.2f} seconds\n")

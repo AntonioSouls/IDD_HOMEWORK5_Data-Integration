@@ -1,32 +1,36 @@
 {
     "TCS": [
-        "The Chennai Silks",
+        "TCS",
         "Tcs Group Holding",
-        "TCS"
+        "The Chennai Silks"
     ],
     "IBM": [
+        "International Business Machines Corp",
         "IBM"
     ],
     "Oracle": [
-        "Oracle",
-        "Oracle Corporation"
+        "Oracle Corporation",
+        "Oracle"
     ],
     "Dominos Pizza": [
-        "Dominos Pizza"
+        "Dominos Pizza",
+        "Domino’s"
     ],
     "PepsiCo": [
-        "PepsiCo"
+        "PepsiCo",
+        "PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC."
     ],
     "Procter & Gamble": [
         "Procter & Gamble",
         "The Procter & Gamble Co"
     ],
     "Philips": [
-        "Philips"
+        "Philips",
+        "Koninklijke Philips NV" 
     ],
     "Xiaomi": [
-        "Xiaomi",
-        "Xiaomi Corporation"
+        "Xiaomi Corporation",
+        "Xiaomi"
     ],
     "Hyundai Mobis": [
         "Hyundai Mobis Co Ltd",
@@ -36,6 +40,7 @@
         "Union Bank of India"
     ],
     "H&M": [
+        "Hennes & Mauritz AB",
         "H&M"
     ],
     "AT&T": [
@@ -50,16 +55,16 @@
         "Bayerische Motoren Werke AG"
     ],
     "Texas Instruments": [
-        "Texas Instruments Inc",
-        "Texas Instruments"
+        "Texas Instruments",
+        "Texas Instruments Inc"
     ],
     "The Walt Disney Company": [
         "The Walt Disney Company",
         "Walt Disney"
     ],
     "Microsoft": [
-        "Microsoft",
-        "Microsoft Corp"
+        "Microsoft Corp",
+        "Microsoft"
     ],
     "Nintendo": [
         "Nintendo",
@@ -70,59 +75,54 @@
         "Twitter Inc"
     ],
     "Acer": [
-        "Acer, Inc.",
-        "Acer"
+        "Acer",
+        "Acer, Inc."
     ],
     "Louis Vuitton (LV)": [
         "Louis Vuitton (LV)"
     ],
     "Japan Airlines (JAL)": [
-        "Japan Airlines Co. Ltd",
-        "Japan Airlines (JAL)"
+        "Japan Airlines (JAL)",
+        "Japan Airlines Co. Ltd"
     ],
     "BP INTERNATIONAL LIMITED": [
         "British Petroleum (BP)",
         "BP INTERNATIONAL LIMITED"
-    ],
-    "Prada": [
-        "Prada"
     ],
     "China Eastern Airlines": [
         "China Eastern Airlines Corporation Limited",
         "China Eastern Airlines"
     ],
     "China Construction Bank": [
-        "China Construction Bank Corporation",
-        "China Construction Bank"
+        "China Construction Bank",
+        "China Construction Bank Corporation"
     ],
     "Taiwan Mobile": [
         "Taiwan Mobile",
         "Taiwan Mobile Co Ltd"
-    ],
-    "Domino’s": [
-        "Domino’s"
     ],
     "Hana": [
         "Hana Financial Group",
         "Hana"
     ],
     "Chevron": [
-        "Chevron",
-        "Chevron Corporation"
+        "Chevron Corporation",
+        "Chevron"
     ],
     "Dior": [
-        "Dior"
+        "Dior",
+        "Christian Dior SE"
     ],
     "At&t": [
         "At&t"
     ],
     "General Dynamics": [
-        "General Dynamics",
-        "General Dynamics Corporation"
+        "General Dynamics Corporation",
+        "General Dynamics"
     ],
     "Truist Financial": [
-        "Truist Financial Corporation",
-        "Truist Financial"
+        "Truist Financial",
+        "Truist Financial Corporation"
     ],
     "Safran": [
         "Safran SA",
@@ -141,36 +141,36 @@
         "Infineon Technologies"
     ],
     "Kinder Morgan": [
-        "Kinder Morgan Inc",
-        "Kinder Morgan"
+        "Kinder Morgan",
+        "Kinder Morgan Inc"
     ],
     "Muyuan Foods": [
-        "Muyuan Foodstuff",
-        "Muyuan Foods"
+        "Muyuan Foods",
+        "Muyuan Foodstuff"
     ],
     "Japan Tobacco": [
-        "Japan Tobacco Inc",
-        "Japan Tobacco"
+        "Japan Tobacco",
+        "Japan Tobacco Inc"
     ],
     "Warner Bros. Discovery": [
         "Warner Bros. Discovery Inc",
         "Warner Bros. Discovery"
     ],
     "Extra Space Storage": [
-        "Extra Space Storage Inc",
-        "Extra Space Storage"
+        "Extra Space Storage",
+        "Extra Space Storage Inc"
     ],
     "Nu Holdings": [
         "Nu Holdings Ltd.",
         "Nu Holdings"
     ],
     "First Solar": [
-        "First Solar Inc",
-        "First Solar"
+        "First Solar",
+        "First Solar Inc"
     ],
     "Swiss Life": [
-        "Swiss Life Holding",
-        "Swiss Life"
+        "Swiss Life",
+        "Swiss Life Holding"
     ],
     "Amundi": [
         "Amundi SA",
@@ -181,16 +181,16 @@
         "Ionis Pharmaceuticals"
     ],
     "Apartment Income REIT Corp.": [
-        "Apartment Income Reit",
-        "Apartment Income REIT Corp."
+        "Apartment Income REIT Corp.",
+        "Apartment Income Reit"
     ],
     "Option Care Health": [
-        "Option Care Health",
-        "Option Care Health, Inc."
+        "Option Care Health, Inc.",
+        "Option Care Health"
     ],
     "Spectrum Brands": [
-        "Spectrum Brands",
-        "Spectrum Brands Holdings Inc"
+        "Spectrum Brands Holdings Inc",
+        "Spectrum Brands"
     ],
     "Kennedy Wilson": [
         "Kennedy-wilson Holdings",
@@ -200,12 +200,12 @@
         "Xpel"
     ],
     "Wolverine World Wide": [
-        "Wolverine World Wide Inc",
-        "Wolverine World Wide"
+        "Wolverine World Wide",
+        "Wolverine World Wide Inc"
     ],
     "MRC Global Inc": [
-        "Mrc Global",
-        "MRC Global Inc"
+        "MRC Global Inc",
+        "Mrc Global"
     ],
     "Creepy Jar": [
         "Creepy Jar SA",
@@ -220,16 +220,16 @@
         "HEXO Corp."
     ],
     "Schnitzer Steel": [
-        "Schnitzer Steel",
-        "Schnitzer Steel Industries, Inc."
+        "Schnitzer Steel Industries, Inc.",
+        "Schnitzer Steel"
     ],
     "Grendene": [
         "Grendene",
         "Grendene SA"
     ],
     "EVERBRIDGE, INC.": [
-        "EVERBRIDGE, INC.",
-        "Everbridge"
+        "Everbridge",
+        "EVERBRIDGE, INC."
     ],
     "Kiocl": [
         "Kiocl"
@@ -239,8 +239,8 @@
         "dormakaba Holding AG"
     ],
     "Ingles Markets": [
-        "Ingles Markets",
-        "Ingles Markets Inc"
+        "Ingles Markets Inc",
+        "Ingles Markets"
     ],
     "Renasant Corp": [
         "Renasant Corporation",
@@ -254,8 +254,8 @@
         "Korea Gas"
     ],
     "Corbion": [
-        "Corbion N.V.",
-        "Corbion"
+        "Corbion",
+        "Corbion N.V."
     ],
     "Lundin Gold": [
         "Lundin Gold Inc.",
@@ -274,8 +274,8 @@
         "Atlas Air Worldwide Holdings Inc"
     ],
     "HP": [
-        "HP",
         "HP Inc.",
+        "HP",
         "Hewlett Packard Enterprise Company"
     ],
     "New China Life Insurance": [
@@ -283,16 +283,16 @@
         "New China Life Insurance Company"
     ],
     "Saudi Arabian Mining": [
-        "Saudi Arabian Mining Company (ma'aden)",
-        "Saudi Arabian Mining"
+        "Saudi Arabian Mining",
+        "Saudi Arabian Mining Company (ma'aden)"
     ],
     "MindMaze": [
         "Mindmaze",
         "MindMaze"
     ],
     "OVH": [
-        "OVH Groupe SAS",
-        "OVH"
+        "OVH",
+        "OVH Groupe SAS"
     ],
     "Joincare Pharmaceutical Group Industry": [
         "Joincare Pharmaceutical Group Industry",
@@ -311,8 +311,8 @@
         "Wonders Information"
     ],
     "Haohua Chemical Science & Technology": [
-        "Haohua Chemical Science & Technology Corp Ltd",
-        "Haohua Chemical Science & Technology"
+        "Haohua Chemical Science & Technology",
+        "Haohua Chemical Science & Technology Corp Ltd"
     ],
     "Landis+Gyr Group AG": [
         "Landis+Gyr Group AG"
@@ -322,22 +322,19 @@
         "Mekonomen Ab (publ)"
     ],
     "Nayax Ltd": [
-        "Nayax Ltd",
-        "Nayax Ltd."
+        "Nayax Ltd.",
+        "Nayax Ltd"
     ],
     "Aurora Cannabis Inc.": [
         "Aurora Cannabis Inc."
     ],
-    "Hennes & Mauritz AB": [
-        "Hennes & Mauritz AB"
-    ],
     "Kajima Corp": [
-        "Kajima Corporation",
-        "Kajima Corp"
+        "Kajima Corp",
+        "Kajima Corporation"
     ],
     "Taiheiyo Cement Corp": [
-        "Taiheiyo Cement Corporation",
-        "Taiheiyo Cement Corp"
+        "Taiheiyo Cement Corp",
+        "Taiheiyo Cement Corporation"
     ],
     "Nippon Electric Glass": [
         "Nippon Electric Glass",
@@ -348,43 +345,44 @@
         "Kokuyo Co. Ltd"
     ],
     "Shikoku Electric Power Co Inc": [
-        "Shikoku Electric Power Company, Inc.",
-        "Shikoku Electric Power Co Inc"
+        "Shikoku Electric Power Co Inc",
+        "Shikoku Electric Power Company, Inc."
     ],
     "United Super Markets Holdings": [
-        "United Super Markets Holdings, Inc.",
-        "United Super Markets Holdings"
+        "United Super Markets Holdings",
+        "United Super Markets Holdings, Inc."
     ],
     "NEC Networks & System Integration Corp": [
         "Nec Networks & System Integration Corporation",
         "NEC Networks & System Integration Corp"
     ],
     "Jubilee Enterprise Public Company Ltd": [
-        "Jubilee Industries Holdings Ltd",
-        "Jubilee Enterprise Public Company Ltd"
+        "Jubilee Enterprise Public Company Ltd",
+        "Jubilee Industries Holdings Ltd"
     ],
     "Nanofilm Technologies International": [
         "Nanofilm Technologies International",
         "Nanofilm Technologies International Ltd"
     ],
     "Hanjaya Mandala Sampoerna Tbk PT": [
-        "Hanjaya Mandala Sampoerna Tbk PT",
-        "PT Hanjaya Mandala Sampoerna Tbk"
+        "PT Hanjaya Mandala Sampoerna Tbk",
+        "Hanjaya Mandala Sampoerna Tbk PT"
     ],
     "Deutsche Bank AG": [
         "Deutsche Bank Spa",
         "Deutsche Bank AG"
     ],
     "Prada S.p.A.": [
-        "Prada S.p.A."
+        "Prada S.p.A.",
+        "Prada"
     ],
     "Applegreen": [
         "Applegreen",
         "Applegreen plc"
     ],
     "C&C Group": [
-        "C&C Group",
-        "C&C Group plc"
+        "C&C Group plc",
+        "C&C Group"
     ],
     "LVMH": [
         "LVMH"
@@ -394,32 +392,32 @@
         "Service Stream Ltd"
     ],
     "Ternium Argentina": [
-        "Ternium Argentina SA",
-        "Ternium Argentina"
+        "Ternium Argentina",
+        "Ternium Argentina SA"
     ],
     "Essentra": [
         "Essentra",
         "Essentra plc"
     ],
     "JPMorgan Global Growth & Income plc": [
-        "Jpmorgan Global Growth & Income",
-        "JPMorgan Global Growth & Income plc"
+        "JPMorgan Global Growth & Income plc",
+        "Jpmorgan Global Growth & Income"
     ],
     "BlackRock Throgmorton Trust plc": [
-        "BlackRock Throgmorton Trust plc",
-        "Blackrock Throgmorton Trust"
+        "Blackrock Throgmorton Trust",
+        "BlackRock Throgmorton Trust plc"
     ],
     "Centamin": [
-        "Centamin plc",
-        "Centamin"
+        "Centamin",
+        "Centamin plc"
     ],
     "Cheniere Energy Partners LP": [
-        "Cheniere Energy Partners LP",
-        "Cheniere Energy, Inc."
+        "Cheniere Energy, Inc.",
+        "Cheniere Energy Partners LP"
     ],
     "Booz Allen Hamilton Holding": [
-        "Booz Allen Hamilton Holding Corporation",
-        "Booz Allen Hamilton Holding"
+        "Booz Allen Hamilton Holding",
+        "Booz Allen Hamilton Holding Corporation"
     ],
     "Zynga": [
         "Zynga",
@@ -446,43 +444,40 @@
         "Bittnet Systems"
     ],
     "ASHTEAD GROUP PUBLIC LIMITED COMPANY": [
-        "ASHTEAD GROUP PUBLIC LIMITED COMPANY",
-        "Ashtead Group"
+        "Ashtead Group",
+        "ASHTEAD GROUP PUBLIC LIMITED COMPANY"
     ],
     "Spotify Technology": [
-        "Spotify Technology SA",
-        "Spotify Technology"
-    ],
-    "Christian Dior SE": [
-        "Christian Dior SE"
+        "Spotify Technology",
+        "Spotify Technology SA"
     ],
     "JIL SANDER SPA": [
-        "JIL SANDER SPA",
-        "Jil Sander"
+        "Jil Sander",
+        "JIL SANDER SPA"
     ],
     "Edison": [
-        "Edison S.p.a",
-        "Edison"
+        "Edison",
+        "Edison S.p.a"
     ],
     "Getac Holdings Corp": [
-        "Getac Technology Corporation",
-        "Getac Holdings Corp"
+        "Getac Holdings Corp",
+        "Getac Technology Corporation"
     ],
     "Alkermes": [
         "Alkermes",
         "Alkermes Plc"
     ],
     "Fox Factory Holding": [
-        "Fox Factory Holding Corp",
-        "Fox Factory Holding"
+        "Fox Factory Holding",
+        "Fox Factory Holding Corp"
     ],
     "Elite Material": [
         "Elite Material Co Ltd",
         "Elite Material"
     ],
     "GC Corp": [
-        "Green Cross Holdings Corporation",
-        "GC Corp"
+        "GC Corp",
+        "Green Cross Holdings Corporation"
     ],
     "North China Pharmaceutical Co Ltd": [
         "North China Pharmaceutical Company. Ltd",
@@ -503,12 +498,12 @@
         "Sociedad Quimica Y Minera De Chile"
     ],
     "Xilinx": [
-        "Xilinx Inc",
-        "Xilinx"
+        "Xilinx",
+        "Xilinx Inc"
     ],
     "Shanghai Maling Aquarius": [
-        "Shanghai Maling Aquarius Co Ltd",
-        "Shanghai Maling Aquarius"
+        "Shanghai Maling Aquarius",
+        "Shanghai Maling Aquarius Co Ltd"
     ],
     "Jizhong Energy Resources": [
         "Jizhong Energy Resources",
@@ -517,12 +512,6 @@
     "Wustenrot & Wurttembergische AG": [
         "Wustenrot & Wurttembergische AG",
         "Wustenrot & Wurttembergische Ag"
-    ],
-    "Koninklijke Philips NV": [
-        "Koninklijke Philips NV"
-    ],
-    "International Business Machines Corp": [
-        "International Business Machines Corp"
     ],
     "Societe Generale SA": [
         "Societe Generale SA"
@@ -535,14 +524,14 @@
         "Postal Savings Bank of China Co Ltd"
     ],
     "AAC TECHNOLOGIES HOLDINGS INC": [
+        "Aac Technologies Holdings",
         "ALL ABOUT CRAFTS TRADE LIMITED",
         "ALL ABOUT CRAFTS LIMITED",
-        "AAC TECHNOLOGIES HOLDINGS INC",
-        "Aac Technologies Holdings"
+        "AAC TECHNOLOGIES HOLDINGS INC"
     ],
     "AMAZON.COM SERVICES LLC": [
-        "Amazon.com",
-        "AMAZON.COM SERVICES LLC"
+        "AMAZON.COM SERVICES LLC",
+        "Amazon.com"
     ],
     "Psbc (postal Savings Bank Of China)": [
         "Psbc (postal Savings Bank Of China)"
@@ -559,8 +548,5 @@
     ],
     "MERRILL LYNCH EUROPE LIMITED": [
         "MERRILL LYNCH EUROPE LIMITED"
-    ],
-    "PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC.": [
-        "PEPSI-COLA METROPOLITAN BOTTLING COMPANY, INC."
     ]
 }

@@ -21,10 +21,14 @@ At this point, the Record Linkage phase begins.
 This phase is, in turn, divided into two sub-phases:
 - **Blocking =** Which allows to group in blocks the lines of the averaged pattern potentially considered similar;
 - **Pairwise matching =** Which checks which of the rows of the same block refer to the same entity;
+  
 Blocking involves the use of two strategies:
+
 1) **LOCALITY SENSITIVE HASHING =** That creates a hash of the various rows of the mediated scheme based on tokenization by words and inserts all the rows that have the same hash in the same block;
 2) **TRIGRAM HASHING =** It does the same thing but doing a hash based on trigram tokenization
+
 Both strategies provide results on which two Pairwise Matching strategies are applied:
 1) **RECORD LINKAGE TOOLKIT =** library that uses the JaroWinkler metric to check the similarity between two elements in the same block
 2) **DITTO =** Pre-trained neural network on a training set created manually with the purpose of making predictions on which elements of the same block refer to the same entity
+
 Following all these tests, we measured the performance of the various solutions, discovering that applying Ditto on a block made with trigrams is the best performing strategy
